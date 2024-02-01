@@ -1,5 +1,5 @@
 # rpg_docs
 
-My Role Playing Games diaries and ressources on Role Playing Games (RPG), mainly in french.
+My Role Playing Games diaries and ressources for my TT-RPG hobby, mainly in french.
 
 
