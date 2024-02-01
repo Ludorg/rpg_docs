@@ -10,7 +10,7 @@ Le résumé par l'éditeur français :
 - un jeu volontairement aléatoire et pas centré sur un "équilibre"
 - un style graphique "old school", inspiré des pionniers comme Erol Otus, Dave Trampier, Jeff Dee.
 
-Sur l'annexe N (Appendix N)[https://dungeonsdragons.fandom.com/wiki/Appendix_N]
+A sujet de l'annexe N ([Appendix N](https://dungeonsdragons.fandom.com/wiki/Appendix_N)).
 
 La page de l'éditeur en VO => https://goodman-games.com/dungeon-crawl-classics-rpg/
 
