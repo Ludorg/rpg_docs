@@ -1,4 +1,4 @@
-# Some ressources on RPG in french
+# Some ressources and documents on Role Playing Games (RPG), mainly in french
 
 ## My RPG Diaries (in french)
 
@@ -8,4 +8,4 @@
 
 ## Various documents
 
-- Dungeon Crawl Classics - short overview in french : [Présentation rapide de DCC] (./dcc/intro-fr)
+- Dungeon Crawl Classics - short overview in french : [Présentation rapide de DCC](./dcc/intro-fr)
