@@ -4,8 +4,8 @@ Dungeon Crawl Classics est un jeu de rôle "old school" inspiré des anciennes v
 Son système mélange le meilleur du classique et du moderne des jeux de rôle d'héroic fantasy.
 Les aventures sont dans l'esprit des oeuvres décrites dans l'annexe N (la bibliographie des livres de fantasy, science-fiction et horreur qui ont inspiré Gary Gygax pour créer Donjons & Dragons).
 
-Le résumé de l'éditeur français pour présenter DCC :
-- des aventures inspirées des auteurs classiques : Howard, Lovecraft, Lieber, Tolkien, Vance, Anderson, Zelazny
+Ci-dessous, le résumé de l'éditeur français pour présenter DCC :
+- des aventures inspirées des auteurs classiques : Howard, Lovecraft, Leiber, Tolkien, Vance, Anderson, Zelazny
 - les protagonistes sont des aventuriers, pas forcément des héros
 - une magie imprévisible donc dangereuse
 - un seul livre de règles unique et abordable
