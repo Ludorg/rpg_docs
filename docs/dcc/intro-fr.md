@@ -15,6 +15,6 @@ Ci-dessous, le résumé de l'éditeur français pour présenter DCC :
 ## Quelques liens pour découvrir DCC
 
 - Au sujet de l'annexe N ([Appendix N](https://dungeonsdragons.fandom.com/wiki/Appendix_N)).
-- La [page de GoodmanGames](https://goodman-games.com/dungeon-crawl-classics-rpg/), l'éditeur du jeu en VO
+- La [page de Goodman Games](https://goodman-games.com/dungeon-crawl-classics-rpg/), l'éditeur du jeu en VO
 - Le livret d'initiation [DCC JDR (en français)](https://www.dropbox.com/s/m6s5kh03d0u0tgq/DCC%20initiation%20v3%202023.pdf?dl=0) 
 - Le livret d'initiation [DCC RPG (en VO)](https://goodman-games.com/wp-content/uploads/2023/05/2023_DCC_QSR_completeLinks_ScreenRes.pdf)
