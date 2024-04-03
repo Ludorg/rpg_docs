@@ -9,7 +9,7 @@ Campagne ouverte de Warhammer Fantasy Roleplay avec les membres des Arts Ludique
 Le MJ Enzo tient un [journal exhaustif](https://lesartsludiques.fr/forum/public/d/1082-la-campagne-ducale-lennemi-en-dessous-campagne-warhammer-fantasy) à partir des notes fournies par les joueurs. Ci-dessous, les miennes.
 
 
-- [Les Guetteurs d'Ubersreik - Session N+1](wfrp/whfrp_lal_2024_03_16)
+- [Les Guetteurs d'Ubersreik - Session N+1](wfrp/wfrp_lal_2024_03_16)
 - Les Guetteurs d'Ubersreik - Session N+3 (soon)
 
 ### Coming soon
