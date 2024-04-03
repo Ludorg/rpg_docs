@@ -1,6 +1,8 @@
 # The Dungeon Alphabet 
 
-[The Dungeon Alphabet](https://goodman-games.com/UKStore/product/the-dungeon-alphabet-fifth-printing-print-pdf/) is a compilation of tables of various dungeon elements. This book is written by Michael Curtis and edited by [Goodman Games](https://goodman-games.com), the creators of Dungeon Crawl Classics RPG.
+[The Dungeon Alphabet](https://goodman-games.com/UKStore/product/the-dungeon-alphabet-fifth-printing-print-pdf/) is a compilation of tables with various dungeon elements. This book is written by Michael Curtis and edited by [Goodman Games](https://goodman-games.com), the creators of Dungeon Crawl Classics RPG.
+
+My idea (and maybe another soon tobe side project) is to have an online random generator for each of these tables and to provide translation in french.
 
 | Letter | Dungeon element |
 | ---- | ---- |
@@ -48,5 +50,3 @@
 | X | Xenophobia |
 | Y | Yellow |
 | Z | Zowie! |
-
-My idea is to have an online random generator for each of these tables and to provide translation in french.
