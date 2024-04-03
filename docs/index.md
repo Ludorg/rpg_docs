@@ -4,19 +4,19 @@
 
 ### WFRP - La Campagne Ducale : L'Ennemi en Dessous
 
-Campagne ouverte de Warhammer Fantasy Roleplay avec les membres des Arts Ludiques.
+Campagne ouverte de Warhammer Fantasy Roleplay avec les membres de l'association [Les Arts Ludiques](https://www.lesartsludiques.fr/).
 
-Le MJ Enzo tient un [journal exhaustif](https://lesartsludiques.fr/forum/public/d/1082-la-campagne-ducale-lennemi-en-dessous-campagne-warhammer-fantasy) à partir des notes fournies par les joueurs. Ci-dessous, les miennes.
+Le MJ Enzo tient un [journal exhaustif](https://lesartsludiques.fr/forum/public/d/1082-la-campagne-ducale-lennemi-en-dessous-campagne-warhammer-fantasy) à partir des notes fournies par les joueurs. Ci-après, les miennes :
 
 
 - [Les Guetteurs d'Ubersreik - Session N+1](wfrp/wfrp_lal_2024_03_16)
 - Les Guetteurs d'Ubersreik - Session N+3 (soon)
 
-### Coming soon
+### Coming soon...
 
-- SWADE - Archipels (also soon)
-- DCC - Pultum (soon)
-- SWADE - Evernight (soon)
+- SWADE - Archipels
+- DCC - Pultum
+- SWADE - Evernight
 
 ## Various documents for DCC
 
