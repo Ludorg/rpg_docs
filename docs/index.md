@@ -4,9 +4,8 @@
 
 ### WFRP - La Campagne Ducale : L'Ennemi en Dessous
 
-Campagne ouverte de Warhammer Fantasy Roleplay avec les membres de l'association [Les Arts Ludiques](https://www.lesartsludiques.fr/).
-
-Le MJ Enzo tient un [journal exhaustif](https://lesartsludiques.fr/forum/public/d/1082-la-campagne-ducale-lennemi-en-dessous-campagne-warhammer-fantasy) à partir des notes fournies par les joueurs. Ci-après, les miennes :
+Campagne en "table ouverte" de Warhammer Fantasy Roleplay avec les membres de l'association [Les Arts Ludiques](https://www.lesartsludiques.fr/). 
+Le MJ, Enzo, tient un [journal exhaustif](https://lesartsludiques.fr/forum/public/d/1082-la-campagne-ducale-lennemi-en-dessous-campagne-warhammer-fantasy) à partir des notes fournies par les joueurs. Ci-après, les miennes :
 
 
 - [Les Guetteurs d'Ubersreik - Session N+1](wfrp/wfrp_lal_2024_03_16)
