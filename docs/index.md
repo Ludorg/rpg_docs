@@ -30,3 +30,8 @@ Le MJ, Enzo, tient un [journal exhaustif](https://lesartsludiques.fr/forum/publi
 | RPG | Role Playing Games |
 | SWADE | Savage Worlds Adventure Edition |
 | WFRP | Warhammer Fantasy Roleplay |
+
+## My lists
+
+- [RPG books collection (RPGGeek)](https://rpggeek.com/collection/user/Adinarak?sort=postdate&sortdir=desc&rankobjecttype=subtype&rankobjectid=17&columns=title%7Cthumbnail%7Cversion%7Cpostdate%7Crating&geekranks=RPG%20Rank&objecttype=thing&ff=1&subtype=rpgitem)
+- [Bord games and some RPG books (Myludo)](https://www.myludo.fr/#!/profil/civodul-vereli-45136/collection/*/*/*/*/*/*/*/*/144/bydatedesc)
