@@ -4,14 +4,13 @@
 
 ### WFRP - La Campagne Ducale : L'Ennemi en Dessous
 
-Campagne en "table ouverte" de Warhammer Fantasy Roleplay avec les membres de l'association [Les Arts Ludiques](https://www.lesartsludiques.fr/). 
+Campagne en "table ouverte" de Warhammer Fantasy Roleplay avec les membres de l'association [Les Arts Ludiques](https://www.lesartsludiques.fr/).
 Le MJ, Enzo, tient un [journal exhaustif](https://lesartsludiques.fr/forum/public/d/1082-la-campagne-ducale-lennemi-en-dessous-campagne-warhammer-fantasy) à partir des notes fournies par les joueurs. Ci-après, les miennes :
 
-
 - [Les Guetteurs d'Ubersreik - Session N+1](wfrp/wfrp_lal_2024_03_16)
-- Les Guetteurs d'Ubersreik - Session N+3 (soon)
+- [Les Guetteurs d'Ubersreik - Session N+3](wfrp/wfrp_lal_2024_03_16)
 
-### Coming soon...
+### Coming soon
 
 - SWADE - Archipels
 - DCC - Pultum
@@ -22,7 +21,7 @@ Le MJ, Enzo, tient un [journal exhaustif](https://lesartsludiques.fr/forum/publi
 - Dungeon Crawl Classics - short overview in french : [Présentation rapide de DCC](./dcc/intro-fr)
 - [Dungeon Alphabet](./dcc/dungeon-alphabet)
 
-## Acronyms 
+## Acronyms
 
 | Acronym | Explanation|
 | ---- | --- |
