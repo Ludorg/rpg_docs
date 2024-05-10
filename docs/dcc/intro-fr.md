@@ -18,3 +18,12 @@ Ci-dessous, le résumé de l'éditeur français pour présenter DCC :
 - La [page de Goodman Games](https://goodman-games.com/dungeon-crawl-classics-rpg/), l'éditeur du jeu en VO
 - Le livret d'initiation [DCC JDR (en français)](https://www.dropbox.com/s/m6s5kh03d0u0tgq/DCC%20initiation%20v3%202023.pdf?dl=0) 
 - Le livret d'initiation [DCC RPG (en VO)](https://goodman-games.com/wp-content/uploads/2023/05/2023_DCC_QSR_completeLinks_ScreenRes.pdf)
+
+## Quelques vidéos en VF
+
+- [En jeu ! / Dungeon Crawl Classics - Mon cri d'amour à ce jeu](https://www.youtube.com/watch?v=zwPYGEPW9Kc)
+- [En jeu ! / Dungeon Crawl Classics - Blabla](https://www.youtube.com/watch?v=Sv2osuLZGAs)
+- [Coup Critique / playlist DCC avec CC](https://www.youtube.com/playlist?list=PLjzzWaBfHMX8HybTBjtxDSh2wecN4G_Da)
+- [Damien C• (Rôliskatonic) / Dungeon Crawl Classics (1/3) Création de personnages dans DCC](https://www.youtube.com/watch?v=lxdiWqf2aEQ)
+- [Damien C• (Rôliskatonic) / Dungeon Crawl Classics (2/3) Combat et magie](https://www.youtube.com/watch?v=Kvx_4fPtPt4)
+- [Damien C• (Rôliskatonic) / Dungeon Crawl Classics (3/3) Worldbuilding, Production et bilan](https://www.youtube.com/watch?v=FkGUnqALeQ8)
