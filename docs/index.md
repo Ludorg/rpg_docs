@@ -10,9 +10,14 @@ Le MJ, Enzo, tient un [journal exhaustif](https://lesartsludiques.fr/forum/publi
 - [Les Guetteurs d'Ubersreik - Session N+1](wfrp/wfrp_lal_2024_03_16)
 - [Les Guetteurs d'Ubersreik - Session N+3](wfrp/wfrp_lal_2024_03_30)
 
+### SWADE - Aventures dans l'archipel des Tempêtes
+
+Campagne en ligne avec les anciens du [Loup dans le Buisson](http://web.archive.org/web/20010502024014/http://www.etud.insa-tlse.fr/~club_jdr/), mythique Club JDR de l'INSA Toulouse entre 1994 et 1998. Cette campagne a débuté en octobre 2023 et est toujours en cours.
+
+- [Le récit de Mash Ocleth](docs/Archipel-des-Tempetes/notes)
+
 ### Coming soon
 
-- SWADE - Archipels
 - DCC - Pultum
 - SWADE - Evernight
 
