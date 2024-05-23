@@ -12,9 +12,9 @@ Le MJ, Enzo, tient un [journal exhaustif](https://lesartsludiques.fr/forum/publi
 
 ### SWADE - Aventures dans l'archipel des Tempêtes
 
-Campagne en ligne avec les anciens du [Loup dans le Buisson](http://web.archive.org/web/20010502024014/http://www.etud.insa-tlse.fr/~club_jdr/), mythique Club JDR de l'INSA Toulouse entre 1994 et 1998. Cette campagne a débuté en octobre 2023 et est toujours en cours.
+Campagne en ligne avec les anciens du [Loup dans le Buisson](http://web.archive.org/web/20010502024014/http://www.etud.insa-tlse.fr/~club_jdr/), le mythique Club JdR de l'INSA Toulouse entre 1994 et 1998. Cette campagne a débuté en octobre 2023 et est en cours.
 
-- [Le récit de Mash Ocleth](docs/Archipel-des-Tempetes/notes)
+- [Le récit de Mash Ocleth](swade/Archipel-des-Tempetes/notes)
 
 ### Coming soon
 
