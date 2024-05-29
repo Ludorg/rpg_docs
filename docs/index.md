@@ -12,9 +12,15 @@ Le MJ, Enzo, tient un [journal exhaustif](https://lesartsludiques.fr/forum/publi
 
 ### SWADE - Aventures dans l'archipel des Tempêtes
 
-Campagne en ligne avec les anciens du [Loup dans le Buisson](http://web.archive.org/web/20010502024014/http://www.etud.insa-tlse.fr/~club_jdr/), le mythique Club JdR de l'INSA Toulouse entre 1994 et 1998. Cette campagne a débuté en octobre 2023 et est en cours.
+Campagne en ligne avec les anciens du [Loup dans le Buisson](http://web.archive.org/web/20010502024014/http://www.etud.insa-tlse.fr/~club_jdr/), le mythique Club JdR de l'INSA Toulouse entre 1994 et 1998. Cette campagne a débuté en octobre 2023 et est en cours. J'y joue Mash Ocleth et voici le récit de ses aventures.
 
 - [Le récit de Mash Ocleth](swade/Archipel-des-Tempetes/notes)
+
+### DCC - Aventures aux Confins du Monde
+
+Scénarios en "table ouverte" pour Dungeon Crawl Classics, avec les membres de l'association [Les Arts Ludiques](https://www.lesartsludiques.fr/). Je suis le Juge de ces parties.
+
+- [Aventures aux Confins du Monde - Session 1](/dcc/aux-confins-du-monde/dcc_lal_2024_05_11)
 
 ### Coming soon
 
