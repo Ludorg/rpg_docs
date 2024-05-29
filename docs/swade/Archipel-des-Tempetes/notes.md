@@ -367,7 +367,7 @@ Les spectres du Vide traversent les gens et absorbent l'énergie vitale !
 Deux me traversent et je me sens de plus en plus faible.
 Nous progressons, vers une espèce de disque vers lequel la Mère s'est rendue.
 Flamme s'empare du disque et il disparait pendant qu'elle perd connaissance !
-La Mère et les Spectres du Vide ...
+La Mère et les Spectres du Vide...
 
 Plusieurs secousses telluriques, une faille s'ouvre et par endroits, de la lave tombe du haut.
 Une forme de lave se matérialise, elle nous rappelle la forme de la tallisque de Barixis.
