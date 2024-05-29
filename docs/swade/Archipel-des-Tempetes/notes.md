@@ -326,7 +326,6 @@ Les skiffs ont réussi à descendre sous l'Ile et on pu confirmer la présence d
 Les pouvoirs de Barixis sont aussi absorbés par le coeur.
 Barixis a fourni le chemin à Xian.
 
-
 Après deux jours de progression dans les tunnels, avec une certaine entraide entre les trois factions.
 Des gaz sous pression, des cris, c'était un passage difficile avec des jets de vapeur.
 Xian nous guide dans ces dédales.
@@ -360,6 +359,35 @@ Au delà des ponts de lave, quatre ombres émergent des ténèbres.
 Après une progression difficile, enfin le Temple.
 Une lumière assez inhabituelle permet d'y voir à peu près normalement.
 J'arrive quasiment le dernier. Le passage des ponts a été une rude épreuve pour Diss.
-Dans le Temple, un combat fait rage entre trois factions : les Gris, la Mère d'un côté ; les guerriers de Pantagao, la troupe de l'Arcanum et nous d'un autre ; les spectre du Vide attaquent tout le monde et absorbent l'énergie vitale.
+Dans le Temple, un combat fait rage entre trois factions : les Gris, la Mère d'un côté ; les guerriers de Pantagao, la troupe de l'Arcanum et nous d'un autre ; les Spectres du Vide attaquent tout le monde et absorbent l'énergie vitale.
 
 <!-- Session 11 2024-05-23 -->
+
+Les spectres du Vide traversent les gens et absorbent l'énergie vitale !
+Deux me traversent et je me sens de plus en plus faible.
+Nous progressons, vers une espèce de disque vers lequel la Mère s'est rendue.
+Flamme s'empare du disque et il disparait pendant qu'elle perd connaissance !
+La Mère et les Spectres du Vide ...
+
+Plusieurs secousses telluriques, une faille s'ouvre et par endroits, de la lave tombe du haut.
+Une forme de lave se matérialise, elle nous rappelle la forme de la tallisque de Barixis.
+
+La caverne s'effondre ! L'ilot du dessous est en train de se désagréger dans la Tempête.
+La lave tombe de l'archipel du dessus.
+Fatigués et à demi inconscients nous tombons nous aussi dans la Tempête.
+
+## L'éruption
+
+Au cours de notre chute, parmi les débris dans la Tempête, des espèces de créatures volantes à plumes viennent nous sauver.
+Ils nous déposent à proximité de notre navire.
+Toute l'ile se met à trembler. Le volcan rentre en éruption !
+Mais seuls Diak et Flamme assistent à ce spectacle.
+Nous autres sommes inconscients.
+
+Diak nous soigne.
+Un tatouage en forme de disque est apparu dans le dos de Flamme.
+
+La magie des cristaux semble de nouveau fonctionner.
+Carisse fait repartir notre navire.
+
+On levelle !
