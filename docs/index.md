@@ -20,8 +20,9 @@ Campagne en ligne avec les anciens du [Loup dans le Buisson](http://web.archive.
 
 Scénarios en "table ouverte" pour Dungeon Crawl Classics, avec les membres de l'association [Les Arts Ludiques](https://www.lesartsludiques.fr/). Je suis le Juge de ces parties.
 
-- [Aventures aux Confins du Monde - Session 1](/dcc/aux-confins-du-monde/dcc_lal_2024_05_11)
-- [Aventures aux Confins du Monde - Session 2](/dcc/aux-confins-du-monde/dcc_lal_2024_05_18)
+- [Session 1 : Le Portail sous les &Eacute;toiles ](/dcc/aux-confins-du-monde/dcc_lal_2024_05_11)
+- [Session 2 : Navigateurs sur une Mer sans Étoiles - Partie 1](/dcc/aux-confins-du-monde/dcc_lal_2024_05_18)
+- [Session 3 : Navigateurs sur une Mer sans Étoiles - Partie 2](/dcc/aux-confins-du-monde/dcc_lal_2024_06_01)
 
 ### Coming soon
 
