@@ -51,9 +51,9 @@ Ces personnages ont survécu à un 'entonnoir' et gagnent 10 PX. Ils vont pouvoi
 
 ## Tombés à l'Aventure
 
-<img alt="rip" title ="RIP" src="./assets/rip-tb1.png" class="center" width="25%">
-
 Ces personnages sont tombés lors d'une aventure. Paix à leurs âmes !
+
+<img alt="rip" title ="RIP" src="./assets/rip-tb1.png" class="center" width="25%">
 
 | Joueur | Personnage |
 | ---- | ---- |
