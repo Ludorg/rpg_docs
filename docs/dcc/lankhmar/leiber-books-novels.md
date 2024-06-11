@@ -54,13 +54,12 @@ Mouser fiction list" from "A bibliography of Nehwon sources", in "DCC Lankhmar -
 44 | Swords Against the Shadowland (1998) | (6) |  | 
 
 
-Notes on missing items (see "A bibliography of Nehwon sources") : 
-
-1) “Gray Mouser: 1” and “Gray Mouser: 2” are each short poems. They can be found in Ill Met in Lankhmar (White Wolf Publishing, 1995)
-2)  Began as “The Tale of the Grain Ships” in 1936, but the story became the prototype for “Scylla’s Daughter” and later The Swords of Lankhmar.
-3)  “The Childhood and Youth of the Gray Mouser” was written by Leiber’s long-time friend and co-creator of Fafhrd and the Gray Mouser, Harry Otto Fischer. It was published in The Dragon #18.
-4)  These two stories were combined into one when published in The Knight and Knave of Swords (1988).
-5)  The story became the prototype for “Scylla’s Daughter” and later The Swords of Lankhmar.
-6)  Swords Against the Shadowland was written by Robin Wayne Bailey and was authorized by Leiber.
+Notes on missing/empty items in above list (see "A bibliography of Nehwon sources"): 
+1. "Gray Mouser: 1" and "Gray Mouser: 2" are each short poems. They can be found in Ill Met in Lankhmar (White Wolf Publishing, 1995).
+2.  Began as "The Tale of the Grain Ships" in 1936, but the story became the prototype for "Scylla's Daughter" and later The Swords of Lankhmar.
+3.  "The Childhood and Youth of the Gray Mouser" was written by Leiber's long-time friend and co-creator of Fafhrd and the Gray Mouser, Harry Otto Fischer. It was published in The Dragon #18.
+4.  These two stories were combined into one when published in The Knight and Knave of Swords (1988).
+5.  The story became the prototype for "Scylla's Daughter" and later The Swords of Lankhmar.
+6.  Swords Against the Shadowland was written by Robin Wayne Bailey and was authorized by Leiber.
 
 This table can also be found in [this Excel file](./assets/leiber-books-novels.xlsx)
