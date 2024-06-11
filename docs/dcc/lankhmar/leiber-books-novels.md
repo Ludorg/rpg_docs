@@ -55,6 +55,7 @@ Mouser fiction list" from "A bibliography of Nehwon sources", in "DCC Lankhmar -
 
 
 Notes on missing items (see "A bibliography of Nehwon sources") : 
+
 1) “Gray Mouser: 1” and “Gray Mouser: 2” are each short poems. They can be found in Ill Met in Lankhmar (White Wolf Publishing, 1995)
 2)  Began as “The Tale of the Grain Ships” in 1936, but the story became the prototype for “Scylla’s Daughter” and later The Swords of Lankhmar.
 3)  “The Childhood and Youth of the Gray Mouser” was written by Leiber’s long-time friend and co-creator of Fafhrd and the Gray Mouser, Harry Otto Fischer. It was published in The Dragon #18.
