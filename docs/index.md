@@ -34,6 +34,7 @@ Scénarios en "table ouverte" pour Dungeon Crawl Classics, avec les membres de l
 
 - Dungeon Crawl Classics - short overview in french : [Présentation rapide de DCC](./dcc/intro-fr)
 - [Dungeon Alphabet](./dcc/dungeon-alphabet)
+- [DCC Lankhmar: A bibliography of Nehwon sources for the french translation "Le cycle des Epées"](./dcc/lankhmar/leiber-books-novels)
 
 ## Acronyms
 
