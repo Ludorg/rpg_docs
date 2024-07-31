@@ -2,7 +2,9 @@
 
 ## Héros en devenir
 
-Ces personnages ont survécu à un 'entonnoir' et gagnent 10 PX. Ils vont pouvoir choisir une classe de niveau 1. Les classes accessibles sont Guerrier, Voleur, Magicien, Clerc. Les classes Nain, Elfe, et Halfelin, ne sont accesibles qu'aux personnages dont le métier du niveau 0 indique l'un de ces peuples.
+Les personnages qui ont survécu à un 'entonnoir' gagnent 10 PX. Ils vont pouvoir choisir une classe de niveau 1 (ceux dont le niveau est indiqué 0+ dans le tableau ci-dessous). 
+
+Les classes accessibles aux personnages humains sont Guerrier, Voleur, Magicien, Clerc. Les classes Nain, Elfe, et Halfelin, ne sont accesibles qu'aux personnages dont l'intitulé du métier de niveau 0 indique l'un de ces peuples.
 
 <img alt="quest-completed" title ="Quest Completed" src="./assets/quest-complete-tb1.png" class="center" width="25%">
 
@@ -66,6 +68,6 @@ Ces personnages sont tombés lors d'une aventure. Paix à leurs âmes !
 | Enzo | Lars Peck, Chasseur | 0 | 1 |
 | Hervé | Palarion, Serrurier | 0 | 1 |
 | Hervé | Chomleck, Galopin | 0 | 1 |
-| Claire | Veezi, Sage Elfe | 0 | 2 |
-| Laura | Tewk, Halefin gantier | 0 | 2 |
 | Théo | Nartos, Coupeur de bourses | 0 | 2 |
+| Claire | Veezi, Sage Elfe | 0 | 3 |
+| Laura | Tewk, Halefin gantier | 0 | 3 |
