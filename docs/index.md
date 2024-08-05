@@ -23,7 +23,10 @@ Scénarios en "table ouverte" pour Dungeon Crawl Classics, avec les membres de l
 - [Session 1 : Le Portail sous les &Eacute;toiles ](/dcc/aux-confins-du-monde/dcc_lal_2024_05_11)
 - [Session 2 : Navigateurs sur une Mer sans Étoiles - Partie 1](/dcc/aux-confins-du-monde/dcc_lal_2024_05_18)
 - [Session 3 : Navigateurs sur une Mer sans Étoiles - Partie 2](/dcc/aux-confins-du-monde/dcc_lal_2024_06_01)
+- [Session 4 : Le Fléau des Rois Barbares - En route vers le village de Hirot](/dcc/aux-confins-du-monde/dcc_lal_2024_07_13)
+
 - [Liste des personnages](/dcc/aux-confins-du-monde/dcc_lal_persos)
+
 
 ### Coming soon
 
