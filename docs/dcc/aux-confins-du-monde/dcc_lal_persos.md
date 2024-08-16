@@ -50,9 +50,17 @@ Les classes accessibles aux personnages humains sont Guerrier, Voleur, Magicien,
 | Rodica | Tara | Dresseur d'animaux | | 0+ | 3 |
 | Rodica | Sigur | Avocat Elfe | Elfe  | 0+ | 3 |
 | Rodica | Zomara | Cordonnier | | 0+ | 3 |
-| JS | Agilis Frae | Elfe Sage |  | 0 | 4 |
-| JS | Rusti Citas | Elfe Forestier |  | 0 | 4 |
+| JS | Agilis Frae | Sage Elfe  |  | 0 | 4 |
+| JS | Rusti Citas | Forestier Elfe  |  | 0 | 4 |
 | JS | Dojohn | Fermier avec un mouton | | 0 | 4 |
+| Enzo | Maxwell |  Meunier et Boulanger | | 0+ | 5 |
+| Grégoire | Karen | Fabricant de coffre Nain | Nain | 0+ | 5 |
+| Akami | Maria | Soigneuse | | 0+ | 5 |
+| Anna | Luc | Soldat  | | 0+ | 5 |
+| Anna | Vérone | Gantière Halfelin | Halfelin | 0+ | 5 |
+| Romain | Leroux | Astrologue | | 0+ | 5 |
+| Ludo | Jean-Bernard | Teinturier Halfelin | Halfelin | 0+ | 5 |
+
 
 ## Tombés à l'Aventure
 
@@ -71,3 +79,9 @@ Ces personnages sont tombés lors d'une aventure. Paix à leurs âmes !
 | Théo | Nartos, Coupeur de bourses | 0 | 2 |
 | Claire | Veezi, Sage Elfe | 0 | 3 |
 | Laura | Tewk, Halefin gantier | 0 | 3 |
+| Enzo | Sancho, Dresseur de d'animaux | 0 | 5 |
+| Grégoire | Komtuveux, &Eacute;leveur de porcs Nain | 0 | 5 |
+| Akami | Esmée, Diseuse de bonne aventure | 0 | 5 |
+| Romain | Ginette, Cordière | 0 | 5 |
+| Ludo |Qicjote, Brigand | 0 | 5 |
+
