@@ -367,7 +367,7 @@ Les spectres du Vide traversent les gens et absorbent l'énergie vitale !
 Deux me traversent et je me sens de plus en plus faible.
 Nous progressons, vers une espèce de disque vers lequel la Mère s'est rendue.
 Flamme s'empare du disque et il disparait pendant qu'elle perd connaissance !
-La Mère et les Spectres du Vide...
+Le disque projette une lumière violette en direction de la Mère et les Spectres du Vide ...
 
 Plusieurs secousses telluriques, une faille s'ouvre et par endroits, de la lave tombe du haut.
 Une forme de lave se matérialise, elle nous rappelle la forme de la tallisque de Barixis.
@@ -378,8 +378,8 @@ Fatigués et à demi inconscients nous tombons nous aussi dans la Tempête.
 
 ## L'éruption
 
-Au cours de notre chute, parmi les débris dans la Tempête, des espèces de créatures volantes à plumes viennent nous sauver.
-Ils nous déposent à proximité de notre navire.
+Au cours de notre chute, parmi les débris dans la Tempête, des espèces de créatures volantes viennent nous sauver.
+Elles nous déposent à proximité de notre navire.
 Toute l'ile se met à trembler. Le volcan rentre en éruption !
 Mais seuls Diak et Flamme assistent à ce spectacle.
 Nous autres sommes inconscients.
@@ -388,6 +388,26 @@ Diak nous soigne.
 Un tatouage en forme de disque est apparu dans le dos de Flamme.
 
 La magie des cristaux semble de nouveau fonctionner.
-Carisse fait repartir notre navire.
 
 On levelle !
+
+<!-- Session 12 2024-06-20 -->
+
+Nous avons été ramenés au niveau du crash de notre vaisseau.
+Dans le ciel, des créatures volantes un peu partout.
+Au loin, de la fumée du volcan.
+
+Les équipements de notre navire sont en état de marche.
+La magie des cristaux est de nouveau belle et bien fonctionnelle.
+
+Flamme et Diss vont au village sur le skiff.
+
+Une fois tout le monde remis sur pied, on repart avec le navire vers le portail.
+Après plusieurs sauts, lorsque nous approchons du relais de Mani, nous captons des émissions qui nous apprenent que Mani est tombée.
+L'arcanum en a pris possesion il y a une quizaine de jours.
+Des mercenaires se préparent à une attaque pour libérer Mani.
+
+Nous décidons de nous poser à proximité du Lac de Tryxas sur Mani.
+Mais il nous faut avant partir de Gressone.
+Des rochers et des troncs nous tombent dessus suite à une erreur fatale de la part de notre vigie Flamme !
+La Capitaine est blessée, mais avec les encouragements de notre groupe, elle réussit à stabiliser et à poser le navire dans un autre endroit sûr.
