@@ -4,19 +4,19 @@
 
 <!-- Session 0 2023/05/18 -->
 
-__Notes en version papier à retranscrire__
-
 ### Session 0 IRL ; 2023/05/18
+
+_Notes en version papier à retranscrire_
 
 <!-- Session 1 2023/06/18 -->
 
-## Oasis flotant de Momoa / Oasis de la divinité céleste / The FloaTing Oasis of the Ascended God
+## Oasis flottant de la divinité céleste et de Momoa / The Floating Oasis of the Ascended God
 
 ### Session 1 Discord ; 2023/06/18
 
 Raa zhel la magicienne de Pornell
 
-On est rentré en héros au village après avoir ramené les restes de différents villageois.
+On est rentrés en héros au village après avoir ramené les restes de différents villageois.
 
 - Dagozaï le Magniat
 - Pultum l'Apprenti Magicien
@@ -71,7 +71,7 @@ Nous nous apprêtons à tous faire de même.
 
 <!-- Session 2 2023/06/25 -->
 
-### Session 2 2023/06/25
+### Session 2 ; 2023/06/25
 
 Je me prends la couleur bleue.
 
@@ -113,7 +113,7 @@ En traversant le couloir des zombies, nous arrivons dans la terre (probablement 
 
 ## L'abbé des Bois
 
-### Session 3 2023/07/09
+### Session 3 ; 2023/07/09
 
 On est quatre : moi (Pultum), Dagozai, Dilac et Ranok dans de la terre (quelques centimètres), dans une forêt.
 Nous entendons des bruits de corbeaux. C'est assez lugubre.
@@ -180,8 +180,8 @@ Fin Session 3 : +4
 
 Osric, le neveu de Dagozaï arrive à cheval du village Hirot.
 Morgane, sa soeur doit être sacrifiée pour apaiser un molosse qui terrorise la région.
-Brogan, le beau-frère de Dagozai
-Vandassia a récupéré une orbe
+Brogan, le beau-frère de Dagozai.
+Vandassia a récupéré une orbe.
 
 <!-- Tirage des sorts -->
 
@@ -191,7 +191,7 @@ Vandassia a récupéré une orbe
 
 ## Le fanum du Batracien
 
-### Session 6 2023/09/11
+### Session 6 ; 2023/09/11
 
 Nous sommes invités dans quelques semaines à une fête d'un village voisin qui se tient tous les dix ans.
 Ce village est à deux ou trois jours de voyage.
@@ -239,7 +239,7 @@ Je tombe inanimé sous la morsure d'une des créatures.
 
 <!-- Session 7 2023/09/18 -->
 
-### Session 7 2023/09/18
+### Session 7 ; 2023/09/18
 
 Après avoir reçu une imposition des mains de la part de Dylak, nous repartons investiguer le reste de la nef.
 Au fond de la nef, un puits. Dylak, descend et aperçoit une foultitude de crapauds.
@@ -278,7 +278,7 @@ Dylak également.
 
 <!-- Session 8 2023/09/25 | ABSENT -->
 
-### Session 8 2023/09/25 | ABSENT
+### Session 8 ; 2023/09/25 (ABSENT)
 
 Au deuxième niveau, on reste dans la pièce du narguilé. J'en fume.
 Mais c'est plutôt un bad trip (-1 en intelligence), une lumière bleue.
@@ -290,7 +290,7 @@ Il disparait dans une brume.
 
 <!-- Session 9 2023/10/09 -->
 
-### Session 9 2023/10/09
+### Session 9 ; 2023/10/09
 
 Chez Prospero, il nous offre une petite boite avec 5 symboles.
 C'est a priori les symboles des 5 Titans de la Cour du Chaos !
@@ -325,7 +325,7 @@ Il y a une trouée dans les végétaux.
 
 ## Le labyrinthe d’Yddgrrl
 
-### Session 10 2023/10/16
+### Session 10 ; 2023/10/16
 
 <!-- Session 10 2023/10/16 -->
 
@@ -375,7 +375,7 @@ Nous libérons les humains de derrière la palissade et nous repartons vers la s
 
 <!-- Session 11 2023/11/13 -->
 
-### Session 11 2023/11/13
+### Session 11 ; 2023/11/13
 
 Sur le chemin du retour, une tête plantée avec un chale.
 Une des villageoises reconnait son voile nuptial.
@@ -398,7 +398,7 @@ Le jeune homme qui nous avait présenté le spectale réapparait et nous dit "Bi
 
 <!-- Session 12 2023/11/20 -->
 
-### Session 12 2023/11/20
+### Session 12 ; 2023/11/20
 
 Nous traversons une espèce de Kaleidoscope, jaune sale, vert, maelström.
 Nous sommes sur une plateforme qui dérive.
@@ -489,7 +489,7 @@ Dans un nuage de fumée, la bête disparait et nous nous retrouvons aux 5 portes
 
 <!-- Session 13 2023/11/27 -->
 
-### Session 13 2023/11/27
+### Session 13 ; 2023/11/27
 
 __Construction__
 
@@ -549,7 +549,7 @@ Et nous nous retrouverons dans la salle du spectacle pendant les applaudissement
 
 ## The Tower of Black Pearl
 
-### Session 14 2023/12/06
+### Session 14 ; 2023/12/06
 
 Vandascia a reçu un parchemin contenant un sort du magicien Ostafar, mais il faut crier des insultes.
 Comme elle est muette, ça n'a que peu d'utilité.
@@ -592,7 +592,7 @@ Nous les avons vaincu, ils ont des arcs et des petites épées courtes.
 
 <!-- Session 15 2023/12/11 -->
 
-### Session 15 2023/12/11
+### Session 15 ; 2023/12/11
 
 Dagozai va récupérer la barque.
 Nous nous dirigeons vers l'entrée de la tour.
@@ -656,7 +656,7 @@ Vandascia va chercher la pierre puis nous repartons à Azure.
 
 <!-- Session 16 2024/01/03 -->
 
-### Session 16 2024/01/03
+### Session 16 ; 2024/01/03
 
 La perle noire est a priori magique.
 Hazbrutisch discute avec les brigands gobelins et nous annonce qu'il repart avec eux.
@@ -742,7 +742,7 @@ Dagozai et Dylak sont blessés !
 
 <!-- Session 17 2024/01/15 -->
 
-### Session 17 2024/01/15
+### Session 17 ; 2024/01/15
 
 Vandascia est restée avec Madame Claus pour faire des cookies !
 Pepermint = roche striée de veine rouge.
@@ -773,7 +773,7 @@ On retourne au village de Noël !
 
 <!-- Session 18 2024/01/22 -->
 
-### Session 18 2024/01/22
+### Session 18 ; 2024/01/22
 
 Au petit matin, après une nuit de repos, nous constatons que la Lumière décroit.
 Nous décidons d'aller à l'ile aux inadaptés (Isle of Misfits).
@@ -831,9 +831,9 @@ Nous nous faisons offrir des cadeaux : je reçois un marteau de forgeron, Dagoza
 
 <!-- Session 19 2024/02/07 -->
 
-## Love in the Age of Gongfarmers - special Valentine’s Day-themed adventure
+## Love in the Age of Gongfarmers - Special Valentine’s Day-themed adventure
 
-### Session 19 2024/02/07
+### Session 19 ; 2024/02/07
 
 Nous vaquons à nos activités en attendant de nous rendre à la fête de Markhall, non loin de Termi.
 
@@ -885,7 +885,7 @@ Elle continue de dériver et approche d'un petit banc de terre sur lequel est at
 <!-- Session 20 2024/02/19 -->
 <!-- Dragonbane : 17/2 à la bibliothèque de Belle Beille 14h30 à 17h30 -->
 
-### Session 20 2024/02/19
+### Session 20 ; 2024/02/19 | ABSENT
 
 Une fois récupérée la flèche magique violette, nous sommes repartie avec la gondole qui nous permettait de passer d'énigme en énigme.
 Nous avons ainsi rencontré un mini mammouth attaché qu'on a nourri avec des bonbons trouvés dans un bol à même le sol.
@@ -905,7 +905,7 @@ Dagozaï a réparé la partie mécanique (récupérant le nounours !) et le cler
 
 ## The Shambling Un-Dead
 
-### Session 21 2024/03/18
+### Session 21 ; 2024/03/18
 
 Sans repasser à Portsnell, nous nous mettons en route vers Punjar avec la charette.
 Nous avons longé le fleuve toute la journée et arrivons à Cowlinsport en fin de journée.
@@ -946,7 +946,7 @@ Les villageois se barricadent !
 
 <!-- Session 22 2024/03/25 -->
 
-### Session 22 2024/03/25
+### Session 22 ; 2024/03/25
 
 Devant l'auberge, deux personnes sur des chevaux disparaissent subitement après un flash violet.
 En s'approchant, on ne voit plus que des tas de cendres !
@@ -973,7 +973,7 @@ Avec les sphère de force de Vandascia, combinées à ma corde enchantée, la cr
 
 <!-- Session 23 2024/04/01 -->
 
-### Session 23 2024/04/01
+### Session 23 ; 2024/04/01
 
 Dylak a renvoyé les morts-vivants dans leur tombe.
 Après le combat, nous fouillons les décombres.
@@ -1010,7 +1010,7 @@ En approchant une torche, on remarque que la carapace des bêtes est très mate 
 
 <!-- Session 24 2024/04/08 -->
 
-### Session 24 2024/04/08
+### Session 24 ; 2024/04/08
 
 Dylak soigne les blessés (et lui-même également).
 Nous rentrons dans la maison.
@@ -1077,7 +1077,7 @@ Ranok achève la bête au sol !
 
 <!-- Session 25 2024/05/20 -->
 
-### Session 25 2024/05/20
+### Session 25 ; 2024/05/20
 
 Hugette, la femme de Boss Ogo nous concocte un repas et Boss Ogo reprend ses esprits.
 Boss Ogo a utilisé de la magie sur la pierre bleue qu'il a achetée (une somme très importante).
@@ -1110,7 +1110,7 @@ Le guet arrive...
 
 <!-- Session 26 2024/05/27 -->
 
-### Session 26 2024/05/27
+### Session 26 ; 2024/05/27
 
 Une dizaine de soldats sont présents.
 Le capitaine Rhak se présente à nous et il nous demande ce qu'il s'est passé.
@@ -1150,7 +1150,7 @@ Le frère de Leila est le jardinier d'Emirikol et il a disparu.
 
 <!-- Session 27 2024/06/03 -->
 
-### Session 27 2024/06/03
+### Session 27 ; 2024/06/03
 
 Nous nous décidons de nous rendre à la tour changeante.
 Elle se situe à la sortie nord est de Punjar, der
@@ -1189,7 +1189,7 @@ Kokott le goute et nous pouvons découvrir que ce liquide soigne, même si cela 
 
 <!-- Session 28 2024/06/17 -->
 
-### Session 28 2024/06/17
+### Session 28 ; 2024/06/17
 
 Les changements dans la tour se font dans le temps.
 Gobi vient de loin, il est écuyer. Sa disparition est passée inaperçue.
@@ -1262,42 +1262,92 @@ La présence des gorilles volants les a inquiétés.
 
 <!-- Session 29 2024/07/15 -->
 
-## La mission dans les égouts pour le culte de Shul / nom du scénar TBD
+## La mission dans les égouts pour le culte de Schul
 
-### Session 29 2024/07/15
+### Session 29 ; 2024/07/15
 
 Le capitaine Rakh va raconter nos exploits au roi.
 Nous serons reçus le lendemain en fin d'après-midi.
 
 Dans l'attente, nous allons aller dans les égouts pour accomplir la mission de Shul.
-En face de l'entrée des égouts, un autel dédié à la Carnifex, une déesse dédiée aux miséreux.
+En face de l'entrée des égouts, un autel dédié à la Carnifex, une déesse dédiée aux miséreux, aux malades et aux pauvres.
 
 Nous descendons par une grille.
 Un bas relief avec des inscriptions.
 Certaines rappellent Sezrekan avec des représentations de dragon.
-Une plaque métal gris bleu descend sur un excalier en colimaçon.
+Une plaque métal gris bleu descend sur un escalier en colimaçon.
 L'escalier débouche sur une pièce.
 Des inscriptions au sol avec des runes.
 C'est a priori écrit dans la langue du Chaos.
 Dagozaille déchiffre que c'est un sceau. Ca délimite une zone.
 Au milieu, une espèce de pentagramme qui est inachevé.
 Le sablier est au milieu, mais il y a un trou.
-Vandascia voit dans le fond des jambes.
+Dans le fond, Vandascia voit des jambes (un bout de cadavre).
+
 Nous descendons avec une corde.
-Il a été étranglé.
-Le grimmoire est posé sur un lutrin.
+Une personne a été étranglée.
+
+Un grimmoire est posé sur un lutrin.
 A coté, une pince qui permet a priori de tourner les pages.
 Il est ouvert sur une page représentant une créature.
 Ca parle de convocation de démon.
+
 Il y a également du matériel d'alchimie avec différentes poudres dans des fioles.
 Nous mettons les poudres de coté.
+
 Direction la pièce suivante, elle contient une cellule avec un champignhonmme.
 Il a une suture sous le cou.
-Sur une table,des crânes et des ustensiles de chirurgie.
+Sur une table, des crânes et des ustensiles de chirurgie.
 
 Nous revenons vers le pentagramme.
 Lorsque le dernier passe (Ranok), il tombe.
 La corde a été sectionnée.
 Avec une flêche enflammée lancée par Panasonix, il touche une créature invisible.
 Arrivée en bas, Rannok l'achève.
-C'est un espèce de démon, le même que celui du grimmoire. Il était retenu.
+C'est un espèce de démon, le même que celui du grimmoire. Il était retenu dans les lieux grâce au pentagramme (et son sable).
+
+<!-- Session 30 2024/09/09 -->
+
+### Session 30 ; 2024/09/09
+
+Nous ressortons avec le matériel d'alchimie, le grimmoire de Sezrekan.
+Vandascia porte Joe le Champignhomme dans ses griffes. Il se déplace lentement.
+
+Nous ramenons le sablier à Moon Dweb, qui est malgré tout déçu qu'il soit brisé.
+Cependant, il nous offre deux objets :
+
+- Corde de Schul : permet d'estimer très précisement une mesure, une fois par jour.
+- Orbe de Nygodow (premier prêtre de Schul) : permet d'endormir des ennemis
+
+## Le temple des Moires
+
+Avant la réception par le chambellan du roi, nous nous préparons : de beaux vêtements, un bain.
+
+En arrivant, trois belles femmes avec une aura remarquable sont assises sur un banc et filent.
+Elles sont habillées de riches tissus.
+Dagozaille discute un peu avec elles et il leur offre un collier de pierres.
+Il lui semble avoir reconnu les Trois Moires...
+
+Le chambellan nous reçoit.
+En récompense de notre aide pour avoir défait Emirikol, nous sommes nommés Ducs de la Grande Bourbe !
+Avec ce titre, nous héritons d'un Manoir des Liss et recevons un insigne pour faire valoir nos droits.
+Ce manoir est tout juste à deux heures de cheval de Punjar.
+
+Après quelques instants à discuter avec le Chambellan, il nous indique qu'un entretien spécial nous attend.
+
+Ce sont les Trois Moires. Elles ont un souci avec le Temple du Destin en haut du mont Thychée (vers les Tremblemonts).
+Elles n'y ont plus accès. Le lieu est a priori corrompu. Des forces du Chaos sont peut-être à l'oeuvre...
+
+Avec un fil qu'elles relient à chacun de nos doigts, elles tissent une espèce de cocon autour de nous.
+Un anneau nous protège des forces du Chaos. Elles nous mentionnent aussi les chiffres 7 et 3...
+Nous nous retrouvons au sommet d'une montagne avec des très forts vents.
+Vandascia n'arrive pas à s'envoler.
+
+Un escalier gravé de runes. Grâce à son ingéniosité, Rannok découvre qu'il y a un ordre particulier dans les marches (3, 9, 12, 15).
+Rannok et Vandascia s'avancent dessus.
+Au niveau de la 21ème marche, ils découvrent une cache avec une épée à deux mains dedans. Elle est a priori magique.
+
+Je déclenche un piège en tombant sur une des marches par maladresse et mon anneau de protection contre le chaos se brise.
+
+A l'arrivée sur la plateforme, des peaux et visages sont comme clouées sur le portail.
+Vandascia fait traverser Panasonix puis Rannok.
