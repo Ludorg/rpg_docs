@@ -6,73 +6,81 @@ Les personnages qui ont survécu à un 'entonnoir' (funnel) gagnent 10 PX. Ils v
 
 Pour chacune des sessions, voici les points d'expérience (PX) gagnés pour chaque personnage joueur ayant pris à l'aventure.
 
-| Session       | PX   |
-| ----          | ---- |
-| 1 (funnel)    |   10 |
-| 2, 3 (funnel) |   10 |
-| 4             |    3 |
-| 5 (funnel)    |   10 |
-| 6             |    6 |
+| Session       | Titre                                            | PX      |
+| ----          | ----                                             | ----    |
+| 1 (funnel)    | Le Portail sous les Étoiles                      |      10 |
+| 2, 3 (funnel) | Navigateurs sur une Mer sans Étoiles             |      10 |
+| 4             | Le Fléau des Rois Barbares 1/3                   |       3 |
+| 5 (funnel)    | Les Légendes ne naissent pas                     |      10 |
+| 6             | Le Fléau des Rois Barbares 2/3                   |       6 |
+| 7             | Le Fléau des Rois Barbares 3/3                   |      10 |
 
 
-Les classes accessibles aux personnages humains sont Guerrier, Voleur, Magicien, Clerc. Les classes Nain, Elfe, et Halfelin, ne sont accesibles qu'aux personnages dont l'intitulé du métier de niveau 0 indique l'un de ces peuples.
+[<img alt="dcc-lal-adventure-path" title ="Adventure Path" src="./assets/timeline1e-2024-09-14.jpg" class="center" width="80%">](./assets/timeline1e-2024-09-14.jpg)
+
+
+
+
+Les classes accessibles aux personnages humains sont Guerrier, Voleur, Magicien, Clerc. Les classes Nain, Elfe, et Halfelin, ne sont accessibles qu'aux personnages dont l'intitulé du métier de niveau 0 indique l'un de ces peuples.
 
 <img alt="quest-completed" title ="Quest Completed" src="./assets/quest-complete-tb1.png" class="center" width="25%">
 
-| Joueur | Personnage | Métier (niveau 0) | Classe (niveau 1) | Niveau actuel | Session(s) jouée(s) | PX |
-|----|----| ----| ----| ----| ----| ----|
-| JDR | Willy | Alchimiste | | 0+ | 1 | 10 |
-| JDR | Pistil | Apiculteur | | 0+ | 1 | 10 |
-| JDR  | Ohoun | Bucheron | | 0+ | 1 | 10 |
-| Augustin | Rannok | Chevrier Nain | Nain | 1 | 1, 4 | 13 |
-| Augustin | Salensus | Souffleur de Verre Elfe | Elfe  | 1 | 1, 4 | 13 |
-| Ludo | Arthur Lezimpaux | Hors la Loi | | 0+ | 1 | 10 |
-| Ludo | Jean Eude Padchance | Tonnelier | | 0+ | 1 | 10 |
-| Alex | Archibald | Hors la Loi | | 0+ | 1 | 10 |
-| Alex | Gaëtan | Ecuyer | | 0+ | 1 | 10 |
-| Enzo | Loden | Fermier, Cultivateur de panais | | 0+ | 1 | 10 |
-| Enzo | Tyrus Valen | Alchimiste | Magicien | 1 | 1, 6 | 16 |
-| Hervé| Tatamash | Mendiant de guilde | | 0+ | 1 | 10 |
-| Hervé | Silas | Avocat Elfe | Elfe  | 0+ | 1 | 10 |
-| Nicolas | Rémi | Orphelin | | 0+ | 2 | 10 |
-| Nicolas | Gloire | Escroc | | 0+ | 2 | 10 |
-| Nicolas| Jymmi | Serrurier | | 0+ | 2 | 10 |
-| Olivier | Philippe | Fermier, Cultivateur de blé | Clerc de Amun Tor| 1 | 2, 4, 6 | 19 |
-| Olivier | Baldur | Mineur Nain | Nain | 1 | 2, 4 | 13 |
-| Olivier | Oudini | Escroc (Confidence artist) | Guerrier | 1 | 2, 4, 6  | 19 |
-| Valérie | Rogue | Marchand | | 0+ | 2 | 10 |
-| Valérie| Firiel | Mendiant de guilde |  | 0+ | 2 | 10 |
-| Valérie | Azazel | Forestier Elfe | Elfe  | 0+ | 2 | 10 |
-| Antoine | Tama | Charron | | 0+ | 2 | 10 |
-| Antoine | Gonkran | Vidangeur de Latrines (Gongfarmer) | | 0+ | 2 | 10 |
-| Antoine | Valadrielle | Cirier Elfe | Elfe  | 0+ | 2 | 10 |
-| Théo | Naccal | Bucheron | | 0+ | 2 | 10 |
-| Théo | Harman | Marin Halfelin | Halfelin | 0+ | 2 | 10 |
-| Augustin | Edgard Adgar | Diseur de bonne aventure | Magicien | 1 | 3, 4 | 13 |
-| Augustin | Haledoc Tomson | Tenturier Halfelin | Halfelin | 0+ | 3 | 10 |
-| Augustin | Arnaud de Couroie | Mercenaire     | | 0+ | 3 | 10 |
-| Claire | Gwym | Fermier, Cultivateur de radis | | 0+ | 3 | 10 |
-| Claire | Turlogh | Fermier, Cultivateur de blé | | 0+ | 3 | 10 |
-| Grégoire | Talu | Esclave | | 0+ | 3 | 10 |
-| Grégoire | Valardyn | Apprentie Magicienne | | 0+ | 3 | 10 |
-| Grégoire | Zapranoth | Serviteur sous contrat | | 0+ | 3 | 10 |
-| Laura | Cushara | Soldat | | 0+ | 3 | 10 |
-| Laura | Gazal | Usurier Halfelin | Halfelin | 0+ | 3 | 10 |
-| Rodica | Tara | Dresseur d'animaux | | 0+ | 3 | 10 |
-| Rodica | Sigur | Avocat Elfe | Elfe  | 0+ | 3 | 10 |
-| Rodica | Zomara | Cordonnier | | 0+ | 3 | 10 |
-| JS | Agilis Frae | Sage Elfe  |  | 0 | 4 | 3 |
-| JS | Rusti Citas | Forestier Elfe  |  | 0 | 4 | 3 |
-| JS | Dojohn | Fermier avec un mouton | | 0 | 4 | 3 |
-| Enzo | Maxwell |  Meunier et Boulanger | Voleur | 1 | 5, 6 | 16 |
-| Grégoire | Karen | Fabricant de coffre Nain | Nain | 0+ | 5 | 10 |
-| Akami | Maria | Soigneuse | Clerc de Justicia | 1 | 5, 6 | 16 |
-| Anna | Luc | Soldat  | | 0+ | 5 | 10 |
-| Anna | Vérone | Gantière Halfelin | Halfelin | 0+ | 5 | 10 |
-| Romain | Leroux | Astrologue | | 0+ | 5 | 10 |
-| Ludo | Jean-Bernard | Teinturier Halfelin | Halfelin | 0+ | 5 | 10 |
-| Clémence | Ningorus | Apprenti Sorcier |  | 0 | 6 | 6 |
-| Clémence | Samuel | Cordonnier |  | 0 | 6 | 6 |
+| Joueur | Personnage | Métier (niveau 0) | Village d'origine | Classe (niveau 1) | Niveau actuel | Session(s) jouée(s) | PX |
+|----|----| ----| ----| ----| ----| ----| ---- |
+| JDR | Willy | Alchimiste | Pernland | | 0+ | 1 | 10 |
+| JDR | Pistil | Apiculteur | Pernland | | 0+ | 1 | 10 |
+| JDR  | Ohoun | Bucheron | Pernland | | 0+ | 1 | 10 |
+| Augustin | Rannok | Chevrier Nain | Pernland | Nain | 1 | 1, 4, 7 | 23 |
+| Augustin | Salensus | Souffleur de Verre Elfe | Pernland | Elfe  | 1 | 1, 4 | 13 |
+| Ludo | Arthur Lezimpaux | Hors la Loi | Pernland | | 0+ | 1 | 10 |
+| Ludo | Jean Eude Padchance | Tonnelier | Pernland | | 0+ | 1 | 10 |
+| Alex | Archibald | Hors la Loi | Pernland | | 0+ | 1 | 10 |
+| Alex | Gaëtan | Ecuyer | Pernland | | 0+ | 1 | 10 |
+| Enzo | Loden | Fermier, Cultivateur de panais | Pernland | | 0+ | 1 | 10 |
+| Enzo | Tyrus Valen | Alchimiste | Pernland | Magicien | 1 | 1, 6 | 16 |
+| Hervé| Tatamash | Mendiant de guilde | Pernland | | 0+ | 1 | 10 |
+| Hervé | Silas | Avocat Elfe | Pernland | Elfe  | 0+ | 1, 7 | 20 |
+| Nicolas | Rémi | Orphelin | Strathford | | 0+ | 2 | 10 |
+| Nicolas | Gloire | Escroc | Strathford | | 0+ | 2 | 10 |
+| Nicolas| Jymmi | Serrurier | Strathford | | 0+ | 2 | 10 |
+| Olivier | Philippe | Fermier, Cultivateur de blé | Strathford | Clerc de Amun Tor| 1 | 2, 4, 6 | 19 |
+| Olivier | Baldur | Mineur Nain | Strathford | Nain | 1 | 2, 4 | 13 |
+| Olivier | Oudini | Escroc (Confidence artist) | Strathford | Guerrier | 1 | 2, 4, 6  | 19 |
+| Valérie | Rogue | Marchand | Strathford | | 0+ | 2 | 10 |
+| Valérie| Firiel | Mendiant de guilde | Strathford |  | 0+ | 2 | 10 |
+| Valérie | Azazel | Forestier Elfe | Strathford | Elfe  | 0+ | 2 | 10 |
+| Antoine | Tama | Charron | Strathford | | 0+ | 2 | 10 |
+| Antoine | Gonkran | Vidangeur de Latrines (Gongfarmer) | Strathford | | 0+ | 2 | 10 |
+| Antoine | Valadrielle | Cirier Elfe |  Strathford | Elfe  | 0+ | 2 | 10 |
+| Théo | Naccal | Bucheron | Strathford | | 0+ | 2 | 10 |
+| Théo | Harman | Marin Halfelin | Strathford | Halfelin | 0+ | 2 | 10 |
+| Augustin | __Edgard Adgar__ | Diseur de bonne aventure | Strathford | __Magicien__ | 1 | 3, 4 | 13 |
+| Augustin | Haledoc Tomson | Tenturier Halfelin | Strathford | Halfelin | 0+ | 3 | 10 |
+| Augustin | Arnaud de Couroie | Mercenaire | Strathford | | 0+ | 3 | 10 |
+| Claire | Gwym | Fermier, Cultivateur de radis | Strathford | | 0+ | 3 | 10 |
+| Claire | Turlogh | Fermier, Cultivateur de blé | Strathford | | 0+ | 3 | 10 |
+| Grégoire | Talu | Esclave | Strathford | | 0+ | 3 | 10 |
+| Grégoire | Vallardine | Apprentie Magicienne | Strathford | Magicienne | 1 | 3, 7 | 20 |
+| Grégoire | Zapranoth | Serviteur sous contrat | Strathford | | 0+ | 3 | 10 |
+| Laura | Cushara | Soldat | Strathford | Guerrier | 1 | 3, 7 | 20 |
+| Laura | Gazal | Usurier Halfelin | Strathford | Halfelin | 0+ | 3 | 10 |
+| Rodica | Tara | Dresseur d'animaux | Strathford | | 0+ | 3 | 10 |
+| Rodica | Sigur | Avocat Elfe | Strathford | Elfe | 0+ | 3 | 10 |
+| Rodica | Zomara | Cordonnier | Strathford | | 0+ | 3 | 10 |
+| JS | Agilis Frae | Sage Elfe | Pernland |  | 0 | 4 | 3 |
+| JS | Rusti Citas | Forestier Elfe | Pernland |  | 0 | 4 | 3 |
+| JS | Dojohn | Fermier avec un mouton | La Pampa entre Pernland et Hirot | | 0 | 4 | 3 |
+| Enzo | Maxwell | Meunier et Boulanger | Dundraville | Voleur | 1 | 5, 6 | 16 |
+| Grégoire | Karen | Fabricant de coffre Nain | Dundraville | Nain | 0+ | 5 | 10 |
+| Akami | Maria | Soigneuse | Dundraville | Clerc de Justicia | 1 | 5, 6 | 16 |
+| Anna | Luc | Soldat | Dundraville |  | 0+ | 5 | 10 |
+| Anna | Vérone | Gantière Halfelin | Dundraville | Halfelin | 0+ | 5 | 10 |
+| Romain | Leroux | Astrologue | Dundraville | | 0+ | 5 | 10 |
+| Ludo | Jean-Bernard | Teinturier Halfelin | Dundraville | Halfelin | 0+ | 5 | 10 |
+| Clémence | Ningorus | Apprenti Sorcier | Dundraville |  | 0 | 6 | 6 |
+| Clémence | Samuel | Cordonnier | Hirot |  | 0 | 6 | 6 |
+| Nicolas (Mogagreed) | Billy  | Barbier | Hirot | | 0+ | 7 | 10 |
+| Nicolas (Mogagreed) | Bigy | Vagabond Halfelin | Hirot  | Halfelin  | 0+ | 7 | 10 | 
 
 
 ## Tombés à l'Aventure
