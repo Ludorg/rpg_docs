@@ -1,10 +1,16 @@
+---
+layout: base
+title: "Liste des personnages"
+categories: dcc
+---
+
 # DCC - Aventures aux Confins du Monde - Liste des personnages
 
 ## Héros en devenir
 
 <img alt="quest-completed" title ="Quest Completed" src="./assets/quest-complete-tb1.png" class="center" width="25%">
 
-Les personnages qui ont survécu à un 'entonnoir' (funnel) gagnent 10 PX. Ils peuvent choisir une classe de niveau 1 (ceux dont le niveau est indiqué 0+ dans le tableau ci-dessous). 
+Les personnages qui ont survécu à un 'entonnoir' (funnel) gagnent 10 PX. Ils peuvent choisir une classe de niveau 1 (ceux dont le niveau est indiqué 0+ dans le tableau ci-dessous).
 
 Les classes accessibles aux personnages humains sont Guerrier, Voleur, Magicien, Clerc. Les classes Nain, Elfe, et Halfelin, ne sont accessibles qu'aux personnages dont l'intitulé du métier de niveau 0 indique l'un de ces peuples.
 
@@ -78,8 +84,7 @@ Le schéma ci-dessous représente le cheminement des aventures.
 | Clémence | Ningorus | Apprenti Sorcier | Dundraville |  | 0 | 6 | 6 |
 | Clémence | Samuel | Cordonnier | Hirot |  | 0 | 6 | 6 |
 | Nicolas (Mogagreed) | Billy  | Barbier | Hirot | | 0+ | 7 | 10 |
-| Nicolas (Mogagreed) | Bigy | Vagabond Halfelin | Hirot  | Halfelin  | 0+ | 7 | 10 | 
-
+| Nicolas (Mogagreed) | Bigy | Vagabond Halfelin | Hirot  | Halfelin  | 0+ | 7 | 10 |
 
 ## Tombés à l'Aventure
 
@@ -103,4 +108,3 @@ Ces personnages sont tombés lors d'une aventure. Paix à leurs âmes !
 | Akami | Esmée, Diseuse de bonne aventure | 0 | 5 |
 | Romain | Ginette, Cordière | 0 | 5 |
 | Ludo |Qicjote, Brigand | 0 | 5 |
-
