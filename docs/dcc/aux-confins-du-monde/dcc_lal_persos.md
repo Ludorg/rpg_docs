@@ -1,9 +1,3 @@
----
-layout: base
-title: "Liste des personnages"
-categories: dcc
----
-
 # DCC - Aventures aux Confins du Monde - Liste des personnages
 
 ## Héros en devenir
