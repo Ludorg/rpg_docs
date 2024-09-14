@@ -1,3 +1,4 @@
-theme: jekyll-theme-cayman
+theme: jekyll-theme-primer
 title: ludorg/rpg
 description: Role Playing Games diaries and ressources, mainly in french
+show_downloads: false
