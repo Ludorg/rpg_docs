@@ -2,9 +2,13 @@
 
 ## Héros en devenir
 
-Les personnages qui ont survécu à un 'entonnoir' (funnel) gagnent 10 PX. Ils vont pouvoir choisir une classe de niveau 1 (ceux dont le niveau est indiqué 0+ dans le tableau ci-dessous). 
+<img alt="quest-completed" title ="Quest Completed" src="./assets/quest-complete-tb1.png" class="center" width="25%">
 
-Pour chacune des sessions, voici les points d'expérience (PX) gagnés pour chaque personnage joueur ayant pris à l'aventure.
+Les personnages qui ont survécu à un 'entonnoir' (funnel) gagnent 10 PX. Ils peuvent choisir une classe de niveau 1 (ceux dont le niveau est indiqué 0+ dans le tableau ci-dessous). 
+
+Les classes accessibles aux personnages humains sont Guerrier, Voleur, Magicien, Clerc. Les classes Nain, Elfe, et Halfelin, ne sont accessibles qu'aux personnages dont l'intitulé du métier de niveau 0 indique l'un de ces peuples.
+
+Pour chacune des sessions, voici les points d'expérience (PX) gagnés pour chaque personnage joueur ayant pris part aux aventures.
 
 | Session       | Titre                                            | PX      |
 | ----          | ----                                             | ----    |
@@ -15,15 +19,9 @@ Pour chacune des sessions, voici les points d'expérience (PX) gagnés pour chaq
 | 6             | Le Fléau des Rois Barbares 2/3                   |       6 |
 | 7             | Le Fléau des Rois Barbares 3/3                   |      10 |
 
+Le schéma ci-dessous représente le cheminement des aventures.
 
-[<img alt="dcc-lal-adventure-path" title ="Adventure Path" src="./assets/timeline1e-2024-09-14.jpg" class="center" width="80%">](./assets/timeline1e-2024-09-14.jpg)
-
-
-
-
-Les classes accessibles aux personnages humains sont Guerrier, Voleur, Magicien, Clerc. Les classes Nain, Elfe, et Halfelin, ne sont accessibles qu'aux personnages dont l'intitulé du métier de niveau 0 indique l'un de ces peuples.
-
-<img alt="quest-completed" title ="Quest Completed" src="./assets/quest-complete-tb1.png" class="center" width="25%">
+[<img alt="dcc-lal-adventure-path" title ="Adventure Path" src="./assets/timeline1e-red-2024-09-14.png" class="center" width="80%">](./assets/timeline1e-2024-09-14.jpg)
 
 | Joueur | Personnage | Métier (niveau 0) | Village d'origine | Classe (niveau 1) | Niveau actuel | Session(s) jouée(s) | PX |
 |----|----| ----| ----| ----| ----| ----| ---- |
