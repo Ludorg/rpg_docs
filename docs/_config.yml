@@ -1,4 +1,5 @@
 theme: minima
+minima:
   skin: auto
 title: ludorg/rpg
 description: Role Playing Games diaries and ressources, mainly in french
