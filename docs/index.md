@@ -16,7 +16,7 @@ Campagne en ligne avec les anciens du [Loup dans le Buisson](http://web.archive.
 
 - [Le récit de Mash Ocleth](./swade/Archipel-des-Tempetes/notes)
 
-### DCC - Pultum
+### DCC - Aventures en &Aacute;ereth
 
 Campagne DCC animée par le Juge Romain. Débutée en mai 2023, lors d'une session IRL à Angers, ces aventures se poursuivent désormais en ligne sur Discord.
 
