@@ -1,20 +1,20 @@
-# Le récit des aventures de Pultum, le fermier pas très malin devenu magicien
+# Le récit des aventures de Pultum, le fermier pas très malin devenu magicien...
 
 ## Le Rouge vous va si bien Brandolyne
 
 <!-- Session 0 2023/05/18 -->
 
-### Session 0 IRL ; 2023/05/18
+### Session 0 (IRL) ; 2023/05/18
 
 _Notes en version papier à retranscrire_
 
 <!-- Session 1 2023/06/18 -->
 
-## Oasis flottant de la divinité céleste et de Momoa / The Floating Oasis of the Ascended God
+## The Floating Oasis of the Ascended God
 
-### Session 1 Discord ; 2023/06/18
+### Session 1 (Discord) ; 2023/06/18
 
-Raa zhel la magicienne de Pornell
+Pultum est apprenti de Raa Zhel, la magicienne de Pornell.
 
 On est rentrés en héros au village après avoir ramené les restes de différents villageois.
 
@@ -54,11 +54,11 @@ Elle nous dit "c'est pour l'elixir !"
 Nous sommes pris dans le tourbillon.
 Nous voyons un arc en ciel qui descend du nuage.
 On arrive dans le nuage. Le sol est spongieux.
-Les autres personnes avec nous se mettent à courir en criant Moa Moa, mais elles tombent du nuage.
+Les autres personnes avec nous se mettent à courir en criant "Moa Moa", mais elles tombent du nuage.
 Il reste une personne.
 Elle se dirige vers une fontaine
 Un drapeau avec un mat un cuivre flotte. Sur le drapeau, le symbole de la Divinité Céleste.
-La fontaine produit des liquides de couleur qui en tombant forme une arc en ciel : rouge jaune indigo argenté bleu.
+La fontaine produit des liquides de couleur qui en tombant forment une arc en ciel : rouge jaune indigo argenté bleu.
 En vidant une fiole supplémentaire, nous remplissons une fiole de chaque liquide.
 
 Près de la fontaine, il y a un tunnel avec des pierres qui scintillent et éclairent.
@@ -115,11 +115,11 @@ En traversant le couloir des zombies, nous arrivons dans la terre (probablement 
 
 ### Session 3 ; 2023/07/09
 
-On est quatre : moi (Pultum), Dagozai, Dilac et Ranok dans de la terre (quelques centimètres), dans une forêt.
+On est quatre : moi (Pultum), Dagozai, Dilac et Rannok dans de la terre (quelques centimètres), dans une forêt.
 Nous entendons des bruits de corbeaux. C'est assez lugubre.
 
 De la forêt sort un hobbit bouru ! Panasonix, est son nom.
-Dans l'arbre habité par les corbeaux, des cranes de chèvres noircis.
+Dans l'arbre habité par les corbeaux, des crânes de chèvres noircis.
 Dilac brise un des crânes, ils contiennent des ossements à l'intérieur.
 Il y a assez peu de magie, il reste quelques résidus du rituel, mais pas de magie.
 Les crânes sont noircis et récouverts de suie noire et gravés de pentacles.
@@ -152,24 +152,25 @@ Ils ont été poursuivis par des rats malades.
 Vandassia et Dagozaï ont ramassé différents bouts de statue en or.
 On retourne explorer, mais les tunnels se mettent de nouveau à trembler.
 On ressort de la chapelle. La chapelle s'effondre.
-Retour à Pornell
+Retour à Pornell.
+
 Lecture de la magie
 
-Spell check = Mod Int + Mod Luck + Level
-DC = 10 + 2*Spell Level
+- Spell check = Mod Int + Mod Luck + Level
+- DC = 10 + 2*Spell Level
 
 Immortalité de l'abbé disparu : Kishriac (règne sur Terre)
 
 <!-- Session 6 2023/09/11 -->
 
-Faire les XP ! (session 2) : +2
-Fin Session 3 : +4
+<!-- Faire les XP ! (session 2) : +2
+Fin Session 3 : +4 -->
 
 <!-- Résumé de l'aventure précédente Sessions 4 et 5 2023/08/28 et 2023/08/29 -->
 
 ## Le Fléau des Rois Barbares - Le Molosse de Hirot
 
-### Résumé de l'aventure précédente ; Sessions 4 et 5 2023/08/28 et 2023/08/29 (ABSENT, en vacances)
+### Sessions 4 et 5 2023/08/28 et 2023/08/29 (ABSENT, en vacances) ; Résumé par mes camarades 
 
 - Dagozaï le Magniat
 <!-- Pultum l'Apprenti Magicien -->
@@ -179,9 +180,9 @@ Fin Session 3 : +4
 - Panasonix, le Halfelin (porte-chance) le Druide
 
 Osric, le neveu de Dagozaï arrive à cheval du village Hirot.
-Morgane, sa soeur doit être sacrifiée pour apaiser un molosse qui terrorise la région.
+Morgane, sa soeur devait être sacrifiée pour apaiser un molosse qui terrorise la région.
 Brogan, le beau-frère de Dagozai.
-Vandassia a récupéré une orbe.
+Vandassia a récupéré une orbe noire.
 
 <!-- Tirage des sorts -->
 
@@ -213,11 +214,7 @@ Des fresques, dont une représente des grenouilles qui mange des mouches.
 Un petit bassin avec de l'eau dedans.
 Vandassia touche l'eau et se fait mordre par des petits tétards !
 
-Dans le fond du bénitier, un anneau.
-
-La détection de la magie revèle une aura.
-
-Sarcophage en pierre, pas de magie détectée.
+Dans le fond du bénitier, un anneau. La détection de la magie revèle une aura. Sarcophage en pierre, pas de magie détectée.
 Cierges, pas de magie.
 
 Proche du sarcophage, une autre fresque représentant un homme brandissant un sceptre au milieu de crapauds.
@@ -292,12 +289,10 @@ Il disparait dans une brume.
 
 ### Session 9 ; 2023/10/09
 
-Chez Prospero, il nous offre une petite boite avec 5 symboles.
+Chez Prospero. Il nous offre une petite boite avec 5 symboles.
 C'est a priori les symboles des 5 Titans de la Cour du Chaos !
 A l'intérieur, on trouve un parchemin de soins.
-C'est un des 71 parchemins de Daog le mage qui sont devenus ces parchemins.
-
-THE DYING WISH OF DAOG THE BLUE
+C'est un des 71 parchemins de Daog le mage qui sont devenus ces parchemins : THE DYING WISH OF DAOG THE BLUE
 
 Je récupère le parchemin. (+3PX)
 
@@ -315,9 +310,7 @@ Asbrutish le Pirate !
 C'est a priori l'endroit de la Perle Noire...
 Il voudrait qu'on la lui récupère à la Tour de Sezrekan.
 
-Sezrekan est un des sorciers les plus puissants de ce monde.
-
-Sezrekan the Elder was born to a peasant family and cursed with the knowledge of higher worlds.
+Sezrekan est un des sorciers les plus puissants de ce monde. Sezrekan the Elder was born to a peasant family and cursed with the knowledge of higher worlds.
 
 Il y a d'autres orcs qui rodent dans les alentours du village.
 La piste des orcs mène à la forêt des Pendus !
@@ -359,6 +352,7 @@ La dryade nous demande de nous donner la main.
 Elle rentre dans l'arbre et nous la suivons dans son antre.
 Une sensation de chute.
 Et nous débouchons dans une clairière plus grande avec un grand arbre.
+
 Des orcs sont regroupés autour d'une palissade d'où nous pouvons voir des mains d'humains qui sortent.
 Ils semblent qu'il y ait un shaman orc et 4 autres orcs.
 Ils nous attaquent ! Notre entrée n'est pas vraiment discrète.
@@ -402,23 +396,24 @@ Le jeune homme qui nous avait présenté le spectale réapparait et nous dit "Bi
 
 Nous traversons une espèce de Kaleidoscope, jaune sale, vert, maelström.
 Nous sommes sur une plateforme qui dérive.
-Silhouettes titanesques.
-Un inconnu
-Cart
-Gueniloqueux : L'ost du Chaos - 5 Maitres
+- Silhouettes titanesques.
+- Un inconnu
+- Cart
+
+Gueniloqueux : L'ost du Chaos - 5 Maitres.
 Les Titans sont entourés de courtisans
 
-Noohl : prince des ruines
-Klarugorok : oeil énorme, l'impie scrutateur
-Dzzhali : la fiancée étranglée morte, en robe de marié
-Magog : la Bête
-Hekanhoda : difformités, seigneur des grotesques
+- Noohl : prince des ruines
+- Klarugorok : oeil énorme, l'impie scrutateur
+- Dzzhali : la fiancée étranglée morte, en robe de marié
+- Magog : la Bête
+- Hekanhoda : difformités, seigneur des grotesques
 
 Le Néant, Les Grands Anciens, Loi et Chaos !
 L'oeuf primordial oeuf sans jaune.
 
 Le Gueniloqueux nous introduit auprès de la Cour du Chaos.
-On a été convoqués par l'Ost du Chaos
+On a été convoqués par l'Ost du Chaos.
 La Cour du Chaos a décidé que nous devions leur ramener cet oeuf primordial.
 L'oeuf contient une étincelle du Chaos Primordial.
 L'oeuf repose sur le plan de la Loi.
@@ -444,9 +439,9 @@ Avant notre départ, ils nous confient une réplique de notre arme favorite.
 Dans un nuage de fumée noire et de puanteur nous disparaissons et nous nous retrouvons dans un très bel
 
 Un énorme diamant flotte dans l'air à 30 mètres.
-120 mètres de haut
-90 mètres de large
-Opaque
+- 120 mètres de haut
+- 90 mètres de large
+- Opaque
 A ses pieds, une bête.
 En se rapprochant, nous pouvons voir que c'est un énorme boeuf.
 
@@ -457,8 +452,7 @@ Derrière ses cornes, il a des caractères gravées.
 Mais je n'arrive pas à les déchiffrer.
 Gardien de la Cataphracte désigné par la Loi.
 
-Orothbarn
-Dylak et moi essayons de prononcer son nom trois fois, mais nous échouons.
+Orothbarn : Dylak et moi essayons de prononcer son nom trois fois, mais nous échouons.
 Finalement, c'est Panoramix qui y arrive.
 Orothbarn le Gardien de la Cataphracte nous remercie de l'avboir libéré de sa mission.
 Il disparait dans une nuage de particules lumineuses qui se transforme en un escalier qui mène à la pointe du diamant flottant.
@@ -552,9 +546,7 @@ Et nous nous retrouverons dans la salle du spectacle pendant les applaudissement
 ### Session 14 ; 2023/12/06
 
 Vandascia a reçu un parchemin contenant un sort du magicien Ostafar, mais il faut crier des insultes.
-Comme elle est muette, ça n'a que peu d'utilité.
-
-Ostafars_Odiferous_Opprobrium (sort niveau 2)
+Comme elle est muette, ça n'a que peu d'utilité : Ostafars_Odiferous_Opprobrium (sort niveau 2)
 
 On levelle !
 
@@ -1055,7 +1047,7 @@ J'ouvre la porte prudemment. Dans la pièce, une bougie brule dans un crâne.
 Dylak entre pour souffler la bougie, mais son ombre est distordue.
 Il se recule.
 
-Dagozai tente d'éteindre la bougie avec son arc.
+Dagozaille tente d'éteindre la bougie avec son arc.
 Il s'y reprend à deux fois.
 
 Nous allons à la pièce suivante.
@@ -1262,7 +1254,7 @@ La présence des gorilles volants les a inquiétés.
 
 <!-- Session 29 2024/07/15 -->
 
-## La mission dans les égouts pour le culte de Schul
+## Le Creuset Infrernal de Sezrekan - Mission dans les égouts de Punjar pour le culte de Schul
 
 ### Session 29 ; 2024/07/15
 
