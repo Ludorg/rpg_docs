@@ -16,6 +16,12 @@ Campagne en ligne avec les anciens du [Loup dans le Buisson](http://web.archive.
 
 - [Le récit de Mash Ocleth](./swade/Archipel-des-Tempetes/notes)
 
+### DCC - Pultum
+
+Campagne DCC animée par le Juge Romain. Débutée en mai 2023, lors d'une session IRL à Angers, ces aventures se poursuivent désormais en ligne sur Discord.
+
+- [Le récit des aventures de Pultum, le fermier pas très malin devenu magicien...](./dcc/pultum/notes)
+
 ### DCC - Aventures aux Confins du Monde
 
 Scénarios en "table ouverte" pour Dungeon Crawl Classics, avec les membres de l'association [Les Arts Ludiques](https://www.lesartsludiques.fr/). Je suis le Juge de ces parties.
@@ -30,7 +36,6 @@ Scénarios en "table ouverte" pour Dungeon Crawl Classics, avec les membres de l
 
 ### Coming soon
 
-- DCC - Pultum
 - SWADE - Evernight
 
 ## Various documents for DCC
