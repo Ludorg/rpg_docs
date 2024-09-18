@@ -1,4 +1,4 @@
-# Le récit des aventures de Pultum, le fermier pas très malin devenu magicien...
+# Le récit des aventures de Pultum, le fermier pas très malin devenu magicien
 
 ## Le Rouge vous va si bien Brandolyne
 
@@ -170,7 +170,7 @@ Fin Session 3 : +4 -->
 
 ## Le Fléau des Rois Barbares - Le Molosse de Hirot
 
-### Sessions 4 et 5 2023/08/28 et 2023/08/29 (ABSENT, en vacances) ; Résumé par mes camarades 
+### Sessions 4 et 5 2023/08/28 et 2023/08/29 (ABSENT, en vacances) ; Résumé par mes camarades
 
 - Dagozaï le Magniat
 <!-- Pultum l'Apprenti Magicien -->
@@ -396,6 +396,7 @@ Le jeune homme qui nous avait présenté le spectale réapparait et nous dit "Bi
 
 Nous traversons une espèce de Kaleidoscope, jaune sale, vert, maelström.
 Nous sommes sur une plateforme qui dérive.
+
 - Silhouettes titanesques.
 - Un inconnu
 - Cart
@@ -439,6 +440,7 @@ Avant notre départ, ils nous confient une réplique de notre arme favorite.
 Dans un nuage de fumée noire et de puanteur nous disparaissons et nous nous retrouvons dans un très bel
 
 Un énorme diamant flotte dans l'air à 30 mètres.
+
 - 120 mètres de haut
 - 90 mètres de large
 - Opaque
@@ -1311,7 +1313,7 @@ Cependant, il nous offre deux objets :
 - Corde de Schul : permet d'estimer très précisement une mesure, une fois par jour.
 - Orbe de Nygodow (premier prêtre de Schul) : permet d'endormir des ennemis
 
-## Le temple des Moires
+## Le temple des Moires souillé par
 
 Avant la réception par le chambellan du roi, nous nous préparons : de beaux vêtements, un bain.
 
@@ -1322,7 +1324,7 @@ Il lui semble avoir reconnu les Trois Moires...
 
 Le chambellan nous reçoit.
 En récompense de notre aide pour avoir défait Emirikol, nous sommes nommés Ducs de la Grande Bourbe !
-Avec ce titre, nous héritons d'un Manoir des Liss et recevons un insigne pour faire valoir nos droits.
+Avec ce titre, nous héritons du Manoir des Liss et recevons un insigne pour faire valoir nos droits.
 Ce manoir est tout juste à deux heures de cheval de Punjar.
 
 Après quelques instants à discuter avec le Chambellan, il nous indique qu'un entretien spécial nous attend.
@@ -1337,9 +1339,51 @@ Vandascia n'arrive pas à s'envoler.
 
 Un escalier gravé de runes. Grâce à son ingéniosité, Rannok découvre qu'il y a un ordre particulier dans les marches (3, 9, 12, 15).
 Rannok et Vandascia s'avancent dessus.
-Au niveau de la 21ème marche, ils découvrent une cache avec une épée à deux mains dedans. Elle est a priori magique.
+Au niveau de la 21ème marche, ils découvrent une cache avec une épée à deux mains dedans. Elle est a priori magique. Tranchefable, Epée de la Loi, (Epée +2).
 
 Je déclenche un piège en tombant sur une des marches par maladresse et mon anneau de protection contre le chaos se brise.
 
 A l'arrivée sur la plateforme, des peaux et visages sont comme clouées sur le portail.
 Vandascia fait traverser Panasonix puis Rannok.
+
+<!-- Session 30 2024/09/18 -->
+
+### Session 31 ; 2024/09/18
+
+Derrière la porte d'entrée du temple, les autres tendent une embuscade à un garde avec un chien à deux têtes !
+Grâce à leur invisibilité, ils les prennnent par surprise et s'en débarrassent sans souci. Le chien est décapité.
+
+Dagozaille ouvre la porte et nous les rejoignons.
+Je récupère une toge avec un symbole d'un patron : un rond noir dans un rond blanc.
+C'est celui du Seigneur Obitu-que seigneur des Cinq, Diantrefosse et Balor. Il me servira à rester discret dans ces lieux.
+
+_Le seigneur des Cinq est un général, un diantrefosse et un balor, doté de cinq yeux rouge rubis dus à des mutations expérimentales.
+Sa forme physique a été détruite par une lignée de nobles barbares, mais son esprit dominateur a survécu, tapi dans les zones
+envahies par le déclin et la pourriture, où sont accomplies les cérémonies pour se lier à lui.
+Il exige de ses adeptes qu’ils poursuivent son plan de conquête cryptique, et s’il est prompt à répondre quand on l’invoque,
+l’aide qu’il procure a souvent pour contrepartie d’accroître sa domination sur l’incantateur._
+
+Nous rentrons dans une grange. Dylak trouve un tabac exotique qui fournit un bonus aux incantations magiques (+1 pendant une heure).
+Direction le temple.
+
+Vandascia part en éclaireur en volant.
+Dans la nef, un prêtre semble être en communication avec Obitu-que via des flammes magiques.
+Les statues des Moires ont été profanées par des symboles et marques de Obitu-que.
+
+Grâce à son invibilité aux forces du Chaos, Dagozaille attaque sournoisement un de deux prêtres.
+Le prêtre devant les flammes crie alors "Tremblez devant le pouvoir de Glipkerio !".
+Il est décapité par Rannok !
+
+Sur un des prêtres, un talisman qui est une Amulette Chronomantique (permet de relancer un jet d'incantation).
+Sur une table, des parchemins avec des Sorts d'Obit-uqe. Nous les laissons.
+
+Dagozaille commence à nettoyer les statues souillées.
+Aussitôt, elles rétrécissent et ce sont alors les Moires qui apparaissent.
+
+Elles nous remercient d'avoir débarassé le temple de la menace de Glipkerio, un mage puissant (mais malchanceux contre nous) qui utilisait le Temple du Destin pour des expériences avec le temps. Nous l'avons d'ailleurs vu à trois ages différents...
+
+Après être allés chercher Panasonix, les trois Moires commencent le même rituel qui nous avait téléporté dans leur temple.
+
+Nous nous retrouvons dans le bureau du Chambellan. Dans ses poches, Dagozaille trouve deux parchemins magiques (Lame d'Athropos, Malédiction de Moira).
+
+(Inspirés par le Moires, nous regagnons nos points de chance et même +1 en chance !)
