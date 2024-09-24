@@ -1,4 +1,4 @@
-# DCC - Aventures aux Confins du Monde - Liste des personnages
+# DCC - Aventures aux Confins du Monde - Liste des personnages joueurs
 
 ## Héros en devenir
 

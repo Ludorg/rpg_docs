@@ -32,7 +32,9 @@ Scénarios en "table ouverte" pour Dungeon Crawl Classics, avec les membres de l
 - [Session 4 : Le Fléau des Rois Barbares - En route vers le village de Hirot](./dcc/aux-confins-du-monde/dcc_lal_2024_07_13)
 - [Session 5 : Les légendes ne naissent pas - DCC Day 2024](./dcc/aux-confins-du-monde/dcc_lal_2024_07_20)
 - [Session 6 : Le Fléau des Rois Barbares - Au village de Hirot ; Dans la tombe de l'Ulfheonar](./dcc/aux-confins-du-monde/dcc_lal_2024_09_07)
+- [Session 7 : Le Fléau des Rois Barbares - Dans la tombe de l'Ulfheonar ;  La fin du Molosse](./dcc/aux-confins-du-monde/dcc_lal_2024_09_14)
 - [Liste des personnages](./dcc/aux-confins-du-monde/dcc_lal_persos)
+- [Liste des personnages non joueurs notoires](./dcc/aux-confins-du-monde/dcc_lal_pnj)
 
 ### Coming soon
 
