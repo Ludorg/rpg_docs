@@ -37,7 +37,7 @@ Le schéma ci-dessous représente le cheminement des aventures.
 | Enzo | Loden | Fermier, Cultivateur de panais | Pernland | | 0+ | 1 | 10 |
 | Enzo | Tyrus Valen | Alchimiste | Pernland | Magicien | 1 | 1, 6 | 16 |
 | Hervé| Tatamash | Mendiant de guilde | Pernland | | 0+ | 1 | 10 |
-| Hervé | Silas | Avocat Elfe | Pernland | Elfe  | 0+ | 1, 7 | 20 |
+| Hervé | Sylas | Avocat Elfe | Pernland | Elfe  | 0+ | 1, 7 | 20 |
 | Nicolas | Rémi | Orphelin | Strathford | | 0+ | 2 | 10 |
 | Nicolas | Gloire | Escroc | Strathford | | 0+ | 2 | 10 |
 | Nicolas| Jymmi | Serrurier | Strathford | | 0+ | 2 | 10 |
