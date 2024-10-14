@@ -1313,7 +1313,7 @@ Cependant, il nous offre deux objets :
 - Corde de Schul : permet d'estimer très précisement une mesure, une fois par jour.
 - Orbe de Nygodow (premier prêtre de Schul) : permet d'endormir des ennemis
 
-## Le temple des Moires souillé par
+## Le temple des Moires souillé par le Chaos
 
 Avant la réception par le chambellan du roi, nous nous préparons : de beaux vêtements, un bain.
 
@@ -1324,7 +1324,7 @@ Il lui semble avoir reconnu les Trois Moires...
 
 Le chambellan nous reçoit.
 En récompense de notre aide pour avoir défait Emirikol, nous sommes nommés Ducs de la Grande Bourbe !
-Avec ce titre, nous héritons du Manoir des Liss et recevons un insigne pour faire valoir nos droits.
+Avec ce titre, nous héritons du Manoir des Liis et recevons un insigne pour faire valoir nos droits.
 Ce manoir est tout juste à deux heures de cheval de Punjar.
 
 Après quelques instants à discuter avec le Chambellan, il nous indique qu'un entretien spécial nous attend.
@@ -1387,3 +1387,65 @@ Après être allés chercher Panasonix, les trois Moires commencent le même rit
 Nous nous retrouvons dans le bureau du Chambellan. Dans ses poches, Dagozaille trouve deux parchemins magiques (Lame d'Athropos, Malédiction de Moira).
 
 (Inspirés par le Moires, nous regagnons nos points de chance et même +1 en chance !)
+
+## le Manoir des Liis
+
+### Session 32 ; 2024/10/08
+
+Après avoir pris congé du Chambellan, nous allons chercher quelques renseignements sur le Manoir des Liis.
+La famille entière s'y était installée.
+Il y a une cinquantaine d'années, Lady Baethor Liis est décédée.
+La veuve avait 8 enfants, mais les héritiers ne se sont pas manifestés depuis. C'est pour cela qu'il nous a été offert...
+
+Nous passons une dernière nuit à Punjar avant de partir pour le manoir.
+
+Sur le chemin, avant une bifurcation, une auberge.
+Le propriétaire nous indique que le manoir Liis serait maudit.
+La foudre est tombée dessus il y a une cinquantaine d'années, c'était après l'enterrement de Lady Baethor.
+Les enfants n'ont plus été aperçus depuis cet incendie.
+Senerik le domestique de la famille vivrait toujours là-bas.
+Il doit être bien vieux. C'était un gars du coin costaud.
+
+Direction le manoir. L'orage menace et le temps est couvert !
+Les batisses sont passablement en ruines.
+C'est à se demander si le Chambellan de Punjar ne nous a pas fait un cadeau empoisonné...
+
+Vandascia va faire une reconnaissance en volant.
+Nous approchons du manoir du côté du pont levis qui franchit les douves.
+
+En approchant, nous apercevons un vieux bonhomme à l'intérieur de la Barbacane.
+Il s'avère que c'est Senerik.
+Il nous parle d'un bal.
+Nous lui indiquons que nous sommes désormais les Ducs de la Grande Bourbe et propriétaires du Manoir Liis.
+
+Il nous invite à le suivre dans la batisse. Le grand hall est en sale état.
+Portes à droite et à gauche et des escaliers qui montent à l'étage.
+Des tapisseries sont suspendues sous les escaliers.
+
+En traversant le pont-levis, Vandascia et Dagozaille remarquent des objets brillants sous le pont.
+Vandascia ramène un morceau d'armure.
+Il y a des corps sous le pont.
+Le vieux Senerik nous explique que ce sont les soldats de Dame Ursula.
+C'est de l'histoire ancienne a priori...
+
+En cherchant bien, Vandascia trouve un coffre rouillé sous l'eau.
+Dagozaille l'ouvre. A l'intérieur, un masque en terre en forme de tête de lion.
+Quand Senerik l'aperçoit, il se souvient qu'il appartenait à Dame Ursula.
+
+Sur les tapisseries, Senerik nous indique qu'on peut voir également Dame Ilse.
+
+Senerik nous abandonne pour aller préparer le bal.
+Nous allons dans la chapelle.
+Un tapis devant l'autel qui est d'une étrange pierre noire.
+
+Vandascia détecte une lueur rouge dans le mur. On ne la voit pas forcément.
+
+Dylak réussit à lancer un détection de la magie (ce qui n'est pas mon cas).
+Un aura magique au niveau du mur. Avec une dague, nous ouvrons une cache. Derrière la pierre, une main en cire.
+C'est une main de gloire, un objet utile pour repousser.
+
+Une autre aura magique à l'étage, ça provient d'un missel.
+Il entend des chants en le feuilletant. Il réussit à refermer ce livret, mais se met à saigner du nez.
+
+Vandascia soulève le tapis devant l'autel. Dessous, une trappe avec un anneau.
+En le soulevant, un escalier descend...
