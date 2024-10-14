@@ -1404,7 +1404,7 @@ Le propriétaire nous indique que le manoir Liis serait maudit.
 La foudre est tombée dessus il y a une cinquantaine d'années, c'était après l'enterrement de Lady Baethor.
 Les enfants n'ont plus été aperçus depuis cet incendie.
 Senerik le domestique de la famille vivrait toujours là-bas.
-Il doit être bien vieux. C'était un gars du coin costaud.
+Il doit être bien vieux depuis le temps. C'était un gars du coin, costaud.
 
 Direction le manoir. L'orage menace et le temps est couvert !
 Les batisses sont passablement en ruines.
@@ -1419,7 +1419,7 @@ Il nous parle d'un bal.
 Nous lui indiquons que nous sommes désormais les Ducs de la Grande Bourbe et propriétaires du Manoir Liis.
 
 Il nous invite à le suivre dans la batisse. Le grand hall est en sale état.
-Portes à droite et à gauche et des escaliers qui montent à l'étage.
+Portes à droite et à gauche, ainsi que des escaliers qui montent à l'étage.
 Des tapisseries sont suspendues sous les escaliers.
 
 En traversant le pont-levis, Vandascia et Dagozaille remarquent des objets brillants sous le pont.
@@ -1430,7 +1430,7 @@ C'est de l'histoire ancienne a priori...
 
 En cherchant bien, Vandascia trouve un coffre rouillé sous l'eau.
 Dagozaille l'ouvre. A l'intérieur, un masque en terre en forme de tête de lion.
-Quand Senerik l'aperçoit, il se souvient qu'il appartenait à Dame Ursula.
+Quand Senerik l'aperçoit, il se souvient que celui-ci appartenait à Dame Ursula.
 
 Sur les tapisseries, Senerik nous indique qu'on peut voir également Dame Ilse.
 
@@ -1438,14 +1438,14 @@ Senerik nous abandonne pour aller préparer le bal.
 Nous allons dans la chapelle.
 Un tapis devant l'autel qui est d'une étrange pierre noire.
 
-Vandascia détecte une lueur rouge dans le mur. On ne la voit pas forcément.
+Avec le masque sur la tête, Vandascia détecte une lueur rouge dans le mur. Sans le masque, on ne la voit pas.
 
-Dylak réussit à lancer un détection de la magie (ce qui n'est pas mon cas).
-Un aura magique au niveau du mur. Avec une dague, nous ouvrons une cache. Derrière la pierre, une main en cire.
-C'est une main de gloire, un objet utile pour repousser.
+Dylak réussit à lancer un détection de la magie (ce qui n'est pas le cas de Pultum).
+Une aura magique au niveau du mur. Avec une dague, nous ouvrons une cache. Derrière la pierre, une main en cire.
+C'est une main de gloire, un objet utile pour repousser les créatures impies.
 
-Une autre aura magique à l'étage, ça provient d'un missel.
-Il entend des chants en le feuilletant. Il réussit à refermer ce livret, mais se met à saigner du nez.
+Une autre aura magique à l'étage, elle provient d'un missel.
+Dylak entend des chants en le feuilletant. Il réussit à refermer ce livret, mais se met à saigner du nez.
 
 Vandascia soulève le tapis devant l'autel. Dessous, une trappe avec un anneau.
-En le soulevant, un escalier descend...
+En la soulevant, un escalier descend...
