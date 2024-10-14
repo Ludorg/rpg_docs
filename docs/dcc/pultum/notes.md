@@ -1388,7 +1388,7 @@ Nous nous retrouvons dans le bureau du Chambellan. Dans ses poches, Dagozaille t
 
 (Inspirés par le Moires, nous regagnons nos points de chance et même +1 en chance !)
 
-## le Manoir des Liis
+## Le Manoir des Liis
 
 ### Session 32 ; 2024/10/08
 
