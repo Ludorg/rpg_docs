@@ -1449,3 +1449,36 @@ Dylak entend des chants en le feuilletant. Il réussit à refermer ce livret, ma
 
 Vandascia soulève le tapis devant l'autel. Dessous, une trappe avec un anneau.
 En la soulevant, un escalier descend...
+
+### Session 33 ; 2024/10/14
+
+L'escalier est étroit (à peu près un mètre de large). Une vingtaine de marches mènent à une crypte sous la chapelle.
+Des ossements de squellettes au sol forment une spirale avec un trou de 15 centimètres.
+Dylak lance un sort de protection contre le mal. Son symbole sacré devient évanescent.
+
+Dans le fond du trou, un objet qui brille. Avec l'aide de ma fourche, nous creusons et ressortons une grosse pierre à facettes.
+C'est plus sombre que du diamant.
+Grâce à sa grande perspicacité, Vandascia comprend que le trou a été creusé par la pierre elle-même...
+
+Vandascia ramasse la pierre avec ses serres. Une des faces de la pierre a disparu.
+
+Nous remontons dans la chapelle à la recherche de Senerik.
+
+Dans la chapelle, au niveau du clocher, la cloche s'est effondrée et il y a des ossements dessous.
+En cherchant à proximité de la cloche, une masque avec des cornes.
+Sur la main d'un des ossements, Dylak trouve un anneau.
+Il lance un sort de détection de la magie et réussit magistralement.
+L'anneau est lié à une des facettes de la pierre trouvée dans la crypte.
+
+Vandascia se dirige vers le jardinet. Huit statues.
+
+Dans la salle de réception, la table a été dressée.
+Vandascia se dirige en volant vers un majestueux fauteuil.
+Elle nous alerte d'un péril imminent.
+
+Soudain, la cloche se met à sonner.
+Vandascia va voir. C'est Senerik qui est pendu, il est mort !
+La cloche a repris sa place dans le clocher...
+Dylak se precipite et in extremis lui sauve la vie grace à une imposition des mains (malgré une série de défaveurs).
+
+Senerik était en train de brosser les tapisseries dans l'entrée et il s'est retrouvé pendu.
