@@ -13,7 +13,7 @@ Vendredi 13 décembre 2024 - Discord + Foundry
 - Thomas
 - Ludorg
 
-[<img src="./00-joueurs.png" class="center" width="30%">](./00-joueurs.png)
+[<img src="./00-joueurs.png" class="center" width="20%">](./00-joueurs.png)
 
 ## Les personnages
 
@@ -114,7 +114,7 @@ Un elfe qui est une de nos anciennes connaissances apparait... C'est Firène.
 
 Dans la pièce, un papillon mécanique. Des bougies représentant des aventuriers. Une statue à l'effigie du mage Mytus. Une potion scellée dans une alcôve.
 
-[<img src="./08-la-piece-de-myrthus.png" class="center" width="60%">](./08-la-piece-de-myrthus.png)
+[<img src="./08-la-piece-de-myrthus.png" class="center" width="70%">](./08-la-piece-de-myrthus.png)
 
 [<img src="./09-details-fresque.png" class="center" width="40%">](./09-details-fresque.png)
 
