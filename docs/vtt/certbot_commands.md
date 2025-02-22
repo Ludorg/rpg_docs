@@ -1,6 +1,6 @@
 # Génération de certificats pour Foundry VTT
 
-Ces notes sont basées sur [Raspberry Pi SSL Certificates using Let’s Encrypt](https://pimylifeup.com/raspberry-pi-ssl-lets-encrypt/) et sur [SSL and HTTPS | Foundry Virtual Tabletop](https://foundryvtt.com/article/ssl/). Elles résument et rappellent les commandes pour obtenir des certificats [Let’s Encrypt](https://letsencrypt.org/) sur un Raspberry Pi afin de les utiliser avec [Foundry VTT](https://foundryv.tt.com/).
+Ces notes sont basées sur [Raspberry Pi SSL Certificates using Let’s Encrypt](https://pimylifeup.com/raspberry-pi-ssl-lets-encrypt/) et sur la documentation [SSL and HTTPS](https://foundryvtt.com/article/ssl/) de Foundry. Elles résument et rappellent les commandes pour obtenir des certificats [Let’s Encrypt](https://letsencrypt.org/) sur un Raspberry Pi afin de les utiliser avec [Foundry VTT](https://foundryv.tt.com/).
 
 
 ## Installation de [Certbot](https://certbot.eff.org/)
