@@ -21,4 +21,12 @@ Les certificats sont dans `/etc/letsencrypt/live/${DOMAIN_NAME}`. Ce sont des li
 
 Pour Foundry VTT, il faut récupérer les fichiers `fullchain.pem` et `privkey.pem` et les copier dans le dossier `Config`.
 
+Dans le fichier `options.json`, on peut préciser d'autres fichiers ou chemins.
+```json
+{
+  "sslCert": "vtt.ludorg.net/fullchain1.pem",
+  "sslKey": "vtt.ludorg.net/privkey1.pem"
+}
+```
+
 Ces certificats sont valides 90 jours. Il ne faut donc pas oublier de les renouveler.
