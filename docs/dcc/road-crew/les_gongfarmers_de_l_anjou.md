@@ -5,11 +5,11 @@
 
 ## Les Gongfarmers de l'Anjou
 
-Les Gongfarmers de l'Anjou, le [chapitre local numéro 159 des Gongfarmers](./img/159_Les-Gongfarmers-de-l-Anjou.png), a été créé en mai 2024 à Angers dans le cadre du programme [Road Crew](https://goodman-games.com/road-crew-landing-page-2025/) de [Goodman Games](https://goodman-games.com/). Ce groupe rassemble des fans des jeux de rôle de l'éditeur, comme Dungeon Crawl Classics et Mutant Crawl Classics. Ils organisent des sessions ouvertes à tous et des événements collaboratifs pour faire découvrir et partager leur passion pour les jeux de rôle dans la région.
+Les Gongfarmers de l'Anjou, le [chapitre local numéro 159 des Gongfarmers](./img/159_Les-Gongfarmers-de-l-Anjou.png), a été créé en mai 2024 à Angers dans le cadre du programme [Road Crew](https://goodman-games.com/road-crew-landing-page-2025/) de [Goodman Games](https://goodman-games.com/). Ce groupe rassemble des fans des jeux de rôle de l'éditeur, comme Dungeon Crawl Classics ou Mutant Crawl Classics. Ils organisent des sessions ouvertes à tous et des événements collaboratifs pour faire découvrir et partager leur passion pour les jeux de rôle dans la région.
 
 ## Historique des sessions publiques
 
-Un aperçu rapide des sessions organisées par Les Gongfarmers de l'Anjou, classées de la plus récente à la plus ancienne."
+Un aperçu rapide des sessions organisées par Les Gongfarmers de l'Anjou, classées de la plus récente à la plus ancienne.
 
 <!-- TEMPLATE
 
@@ -98,7 +98,7 @@ Un aperçu rapide des sessions organisées par Les Gongfarmers de l'Anjou, class
     - Session 2
         - Juge : Guillaume
         - Scénario : Le Dragon Squelette de la Mine aux Champignons
-        - Joueurs : 6 ?
+        - Joueurs : 6
     - Session 3 :
         - Juge : Guillaume
         - Scénario : Kidnapping en haut lieu
