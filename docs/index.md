@@ -8,9 +8,19 @@ Campagne DCC animée par le Juge Romain. Débutée en mai 2023, lors d'une sessi
 
 - [Le récit des aventures de Pultum, le fermier pas très malin devenu magicien...](./dcc/pultum/notes)
 
+### DCC - L’Hypercube de Myt 
+
+Mes [notes sommaires sur ce one-shot](./dcc/hypercube-of-myt/notes), auquel j'ai participé en décembre 2024 sur Foundry.
+
 ### DCC - Aventures aux Confins du Monde
 
 [Quelques notes et résumés](./dcc/aux-confins-du-monde/toc) sur les sessions en "table ouverte" pour Dungeon Crawl Classics, avec les membres de l'association [Les Arts Ludiques](https://www.lesartsludiques.fr/). J'ai été le Juge de ces parties entre mai et septembre 2024.
+
+### SWADE - Aventures dans l'archipel des Tempêtes
+
+Campagne en ligne avec les anciens du [Loup dans le Buisson](http://web.archive.org/web/20010502024014/http://www.etud.insa-tlse.fr/~club_jdr/), le mythique Club JdR de l'INSA Toulouse entre 1994 et 1998. Cette campagne a débuté en octobre 2023 et a été interrompue en juin 2024 en raisons de problèmes techniques multiples. J'y jouais Mash Ocleth et voici le récit de ses aventures.
+
+- [Le récit de Mash Ocleth](./swade/Archipel-des-Tempetes/notes)
 
 ### WFRP - La Campagne Ducale : L'Ennemi en Dessous
 
@@ -19,12 +29,6 @@ Le MJ, Enzo, tient un [journal exhaustif](https://lesartsludiques.fr/forum/publi
 
 - [Les Guetteurs d'Ubersreik - Session N+1](./wfrp/wfrp_lal_2024_03_16)
 - [Les Guetteurs d'Ubersreik - Session N+3](./wfrp/wfrp_lal_2024_03_30)
-
-### SWADE - Aventures dans l'archipel des Tempêtes
-
-Campagne en ligne avec les anciens du [Loup dans le Buisson](http://web.archive.org/web/20010502024014/http://www.etud.insa-tlse.fr/~club_jdr/), le mythique Club JdR de l'INSA Toulouse entre 1994 et 1998. Cette campagne a débuté en octobre 2023 et a été interrompue en juin 2024 en raisons de problèmes techniques multiples. J'y jouais Mash Ocleth et voici le récit de ses aventures.
-
-- [Le récit de Mash Ocleth](./swade/Archipel-des-Tempetes/notes)
 
 ### SWADE - Evernight
 
