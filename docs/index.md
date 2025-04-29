@@ -8,6 +8,10 @@ Campagne DCC animée par le Juge Romain. Débutée en mai 2023, lors d'une sessi
 
 - [Le récit des aventures de Pultum, le fermier pas très malin devenu magicien...](./dcc/pultum/notes)
 
+### DCC - Périls dans les Royaumes du Nord
+
+Mes [notes, résumés et documents pour les joueurs](./dcc/perils-dans-les-royaumes-du-nord/toc) sur les sessions pour Dungeon Crawl Classics, avec les membres de l'association [Les Conjurés du Temporel](https://conjurestemporel.fr/). Je suis le Juge de ces parties depuis mars 2025.
+
 ### DCC - L’Hypercube de Myt 
 
 Mes [notes sommaires sur ce one-shot](./dcc/hypercube-of-myt/notes), auquel j'ai participé en décembre 2024 sur Foundry.
