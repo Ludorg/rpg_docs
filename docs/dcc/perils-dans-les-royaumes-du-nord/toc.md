@@ -7,6 +7,7 @@ Ci-après, mes notes, résumés et documents pour les joueurs sur les sessions p
 - [Session 1 : Le Portail sous les &Eacute;toiles ](./dcc_cdt_2025_03_14) - Découverte de DCC
 - [Session 2 : Les légendes ne naissent pas](./dcc_cdt_2025_03_31) - "One Shot" d'un soir
 - [Session 3 : Les Disparus de Caerwynd](./dcc_cdt_2025_04_18)
+- [Session 4 : A l'assaut de la Forteresse des Seigneurs du Chaos](./dcc_cdt_2025_04_18)
 
 ## Accessoires et documents utiles aux joueurs
 
