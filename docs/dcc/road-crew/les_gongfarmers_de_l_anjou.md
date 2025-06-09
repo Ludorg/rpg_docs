@@ -22,6 +22,26 @@ Un aperçu rapide des sessions organisées par Les Gongfarmers de l'Anjou, class
 - Scénario : SSSSSSSSS
 - Joueurs : J -->
 
+
+### 2025/06/08 : L'Hypercube de Myt 
+
+[<img alt="visuel-2025/06/08" title ="2025/06/08" src="./img/2025-06-08_ludofest_dcc_affiche_v0.6bw-red.jpg" class="center" width="20%">](./img/2025-06-08_ludofest_dcc_affiche_v0.6bw-red.jpg)
+
+- Lieu : LudoFest 2025
+- Juge : Ludovic/Ludorg
+- Scénario : L'Hypercube de Myt
+- Joueurs : 0, Evènement annulé car pas de système de réservation pour les parties de jeux de rôles.
+
+
+### 2025/05/28 : Initiation Id20, Le Portail sous les Étoiles
+
+[<img alt="visuel-DATE" title ="DATE" src="./img/2025-05-25_affiche-c-v0-r.jpg" class="center" width="20%">](./img/2025-05-25_affiche-c-v0-r.jpg) 
+
+- Lieu : LudoTrotter avec Id20
+- Juge : Augustin et Ludovic/Ludorg
+- Scénario : Le Portail sous les Étoiles (Dungeon Crawl Classics #0/The Portal Under the Stars)
+- Joueurs : 3+4
+
 ### 2025/03/29 : Jeux de rôles, drôles de jeux
 
 [<img alt="visuel-2025/03/29" title ="2025/03/29" src="./img/2025-03-29_dcc-uco_v0.1_r.jpg" class="center" width="20%">](./img/2025-03-29_dcc-uco_v0.1_r.jpg)
