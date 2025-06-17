@@ -6,9 +6,10 @@ Ci-après, mes notes, résumés et documents pour les joueurs sur les sessions p
 
 - [Session 1 : Le Portail sous les &Eacute;toiles ](./dcc_cdt_2025_03_14) - Découverte de DCC
 - [Session 2 : Les légendes ne naissent pas](./dcc_cdt_2025_03_31) - "One Shot" d'un soir
-- [Session 3 : Les Disparus de Caerwynd](./dcc_cdt_2025_04_18)
-- [Session 4 : A l'assaut de la Forteresse des Seigneurs du Chaos](./dcc_cdt_2025_05_02)
-- [Session 5 : Sous la Forteresse des Seigneurs du Chaos](./dcc_cdt_2025_05_16)
+- [Session 3 : Les Disparus de Caerwynd](./dcc_cdt_2025_04_18) - Navigateurs sur une mer sans étoiles
+- [Session 4 : A l'assaut de la Forteresse des Seigneurs du Chaos](./dcc_cdt_2025_05_02) - Navigateurs sur une mer sans étoiles
+- [Session 5 : Sous la Forteresse des Seigneurs du Chaos](./dcc_cdt_2025_05_16) - Navigateurs sur une mer sans étoiles
+- [Session 6 : A l'aventure vers le village de Hirot](./dcc_cdt_2025_06_13)
 
 
 ## Accessoires et documents utiles aux joueurs
