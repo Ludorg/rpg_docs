@@ -9,9 +9,11 @@ Ci-après, mes notes, résumés et documents pour les joueurs sur les sessions p
 - [Session 3 : Les Disparus de Caerwynd](./dcc_cdt_2025_04_18) - Navigateurs sur une mer sans étoiles
 - [Session 4 : A l'assaut de la Forteresse des Seigneurs du Chaos](./dcc_cdt_2025_05_02) - Navigateurs sur une mer sans étoiles
 - [Session 5 : Sous la Forteresse des Seigneurs du Chaos](./dcc_cdt_2025_05_16) - Navigateurs sur une mer sans étoiles
-- [Session 6 : A l'aventure vers le village de Hirot](./dcc_cdt_2025_06_13)
-
+- [Session 6 : A l'aventure vers le village de Hirot](./dcc_cdt_2025_06_13) - Le Fléau des Rois barbares
+- [Session 7 : Au village de Hirot](./dcc_cdt_2025_09_19) - Le Fléau des Rois barbares
 
 ## Accessoires et documents utiles aux joueurs
 
-- [Cartes des environs de Strathford, de Caerwynd et de la Forteresse](./assets/strathford_caerwynd-r.jpg)
+- [Les environs de Strathford, de Caerwynd et de la Forteresse](./assets/strathford_caerwynd-r.jpg)
+- [La route de Strathford à Hirot](./assets/strathford_hirot-r.jpg)
+
