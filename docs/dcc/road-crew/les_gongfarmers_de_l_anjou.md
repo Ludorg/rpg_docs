@@ -22,6 +22,14 @@ Un aperçu rapide des sessions organisées par Les Gongfarmers de l'Anjou, class
 - Scénario : SSSSSSSSS
 - Joueurs : J -->
 
+### 2025/10/04 : L'Hypercube de Myt
+
+[<img alt="visuel-2025/10/04" title ="2025/10/04" src="./img/2025-10-04_2-jours-en-jeux_affiche_n-b_v0.1-1-red.jpg" class="center" width="20%">](./img/2025-10-04_2-jours-en-jeux_affiche_n-b_v0.1-1-red.jpg) 
+
+- Lieu : Deux Jours en Jeux 2025
+- Juge : Ludovic/Ludorg
+- Scénario : L'Hypercube de Myt
+- Joueurs : 5
 
 ### 2025/06/08 : L'Hypercube de Myt 
 
