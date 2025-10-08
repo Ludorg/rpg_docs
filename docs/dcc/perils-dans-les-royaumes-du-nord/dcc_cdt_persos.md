@@ -5,7 +5,7 @@
 | Joueur | Personnage | Métier (niveau 0) | Origines | Classe | Niveau | PX |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 | Evan | Erohye | Elfe Avocat | Caerwynd | Elfe | 1 | 25 | <!-- 4+10+4+4+3 -->
-| Evan | Vala | Trappeur | Caerwynd | Voleur | 1 | 23 |     <!-- 4+10+4+2+3 -->
+| Evan | Vala | Trappeur | Caerwynd | Voleur | 1 | 23 |    <!-- 4+10+4+2+3 -->
 | Thomas | Britanice | Fromagère | Caerwynd | Clerc (Pélagia) | 1 | 28 | <!-- 4+10+4+4+6 -->
 | Thomas | Yttruyakin | Apprentie magiciennce | Strathford ; Libérée dans la Forteresse des Seigneurs du Chaos | Mage | 1 | 26 |  <!-- 4+10+4+2+6 -->
 | Joseph | Thulan | Alchimiste | Strathford | Mage | 1 | 22 | <!-- 0+10+4+2+6 -->
@@ -15,6 +15,23 @@
 | Eoghan | Toska | Garde de Caravane | Strathford | | 0 | 10 | <!-- 0+0+0+4+6 -->
 | Félix | Talion | Coupeur de bourse | Hirot | | 0 | 7 |<!-- 0+0+0+4+3 -->
 | Félix | Enoriel | Elfe Forestier | Hirot | | 0 | 7 | <!-- 0+0+0+4+3 -->
+
+
+### Table des Points d'Expérience
+
+| Niveau | PX requis | Rang approximatif |
+|--------|-----------|--------------------------------|
+| 0      | —         | Paysan, gongfarmer, roturier   |
+| 1      | 10        | Aventurier débutant            |
+| 2      | 50        | Explorateur confirmé           |
+| 3      | 110       | Champion des routes            |
+| 4      | 190       | Héros local                    |
+| 5      | 290       | Tueur de monstres              |
+| 6      | 410       | Légende régionale              |
+| 7      | 550       | Fléau des ténèbres             |
+| 8      | 710       | Porteur de destin              |
+| 9      | 890       | Maître des secrets             |
+| 10     | 1090      | Icône mythique                 |
 
 <!-- Caerwynd / Session 3 = 4 PX -->
 <!-- Forteresse / Session 4 &  5 = 10 PX -->
@@ -36,10 +53,10 @@
 | Sacha | Sclavor (RIP) | Esclave | Strathford |  | 0 |  |
 | Sacha | Shul | Serrurier | Strathford |  | 0 | 10 |
 | Sacha | Dollex | Collecteur d'Impots | Strathford ; Libéré dans la Forteresse des Seigneurs du Chaos |  | 0 | 10 |
-| Sacha | Giken (RIP) | Garde de Caravane | Strathford ; Libéré dans la Forteresse des Seigneurs du Chaos |  | 0 | 10 |
+| Sacha | Giken (RIP) | Garde de Caravane | Strathford ; Libéré dans la Forteresse des Seigneurs du Chaos |  | 0 |  |
 | Joseph | Kadabra | Elfe Cirier | Strathford |  | 0 | 10 |
 | Joseph | Nehic | Nain Forgeron | Strathford |  | 0 | 10 |
-| Lucas | Atzul | Barbier | Strathford |  | 0 | | 10 |
+| Lucas | Atzul | Barbier | Strathford |  | 0 | 10 |
 | Lucas | Evadare | Elfe Sage | Strathford |  | 0 | 10 |
 | Lucas | Uccastrog (RIP) | Bûcheron | Strathford |  | 0 | |
 | Lucas | Evadare | Elfe Sage | Strathford |  | 0 | 10 |
