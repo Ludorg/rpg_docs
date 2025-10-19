@@ -7,23 +7,22 @@
 <!-- Strathford / Session 6 = 4 PX -->
 <!-- Hirot / Session 7 = 4 PX -->
 <!-- Ulfehonar Session 8 = 6 PX -->
+<!-- Fin du Molosse Session 9 = 8 PX (+2 pour le nain de Eoghan) -->
 
 <!-- Un personnage au repos pour une session gagne la moitié des PX -->
 
 
-| Joueur | Personnage   | Métier (niveau 0)     | Origines                                                       | Classe          | Niveau | PX                     |
-|--------|--------------|-----------------------|----------------------------------------------------------------|-----------------|--------|------------------------|
-| Evan   | Erohye       | Elfe Avocat           | Caerwynd                                                       | Elfe            | 1      | 25 <!-- 4+10+4+4+3 --> |
-| Evan   | Vala         | Trappeur              | Caerwynd                                                       | Voleur          | 1      | 23 <!-- 4+10+4+2+3 --> |
-| Thomas | Britanice    | Fromagère             | Caerwynd                                                       | Clerc (Pélagia) | 1      | 28 <!-- 4+10+4+4+6 --> |
-| Thomas | Yttruyakin   | Apprentie magiciennce | Strathford ; Libérée dans la Forteresse des Seigneurs du Chaos | Mage            | 1      | 26 <!-- 4+10+4+2+6 --> |
-| Joseph | Thulan       | Alchimiste            | Strathford                                                     | Mage            | 1      | 22 <!-- 0+10+4+2+6 --> |
-| Joseph | Tuhuruc      | Halfelin Teinturier   | Strathford ; Libéré dans la Forteresse des Seigneurs du Chaos  | Halfelin        | 1      | 22 <!-- 0+10+4+2+6 --> |
-| Sacha  | Willy-Claude | Vidangeur de Latrines | Strathford                                                     | Guerrier        | 1      | 19 <!-- 0+10+2+4+3 --> |
-| Eoghan | Ciarrior     | Nain Mineur           | Hirot                                                          |                 | 0      | 10 <!-- 0+0+0+4+6 -->  |
-| Eoghan | Toska        | Garde de Caravane     | Strathford                                                     |                 | 0      | 10 <!-- 0+0+0+4+6 -->  |
-| Félix  | Talion       | Coupeur de bourse     | Hirot                                                          |                 | 0      |  7 <!-- 0+0+0+4+3 -->  |
-| Félix  | Enoriel      | Elfe Forestier        | Hirot                                                          |                 | 0      |  7 <!-- 0+0+0+4+3 -->  |
+| Joueur | Personnage   | Métier (niveau 0)     | Origines                                                       | Classe          | Niveau | PX                       |
+|--------|--------------|-----------------------|----------------------------------------------------------------|-----------------|--------|--------------------------|
+| Evan   | Erohye       | Elfe Avocat           | Caerwynd                                                       | Elfe            | 1      | 29 <!-- 4+10+4+4+3+4 --> |
+| Evan   | Vala         | Trappeur              | Caerwynd                                                       | Voleur          | 1      | 31 <!-- 4+10+4+2+3+8 --> |
+| Thomas | Britanice    | Fromagère             | Caerwynd                                                       | Clerc (Pélagia) | 1      | 36 <!-- 4+10+4+4+6+8 --> |
+| Thomas | Yttruyakin   | Apprentie magiciennce | Strathford ; Libérée dans la Forteresse des Seigneurs du Chaos | Mage            | 1      | 34 <!-- 4+10+4+2+6+8 --> |
+| Sacha  | Willy-Claude | Vidangeur de Latrines | Strathford                                                     | Guerrier        | 1      | 23 <!-- 0+10+2+4+3+4 --> |
+| Eoghan | Ciarrior     | Nain Mineur           | Hirot                                                          | Nain            | 1      | 16 <!-- 0+0+0+4+6+4 (+2) -->  |
+| Eoghan | Toska        | Garde de Caravane     | Strathford                                                     | Guerrier        | 1      | 18 <!-- 0+0+0+4+6+8 -->  |
+| Félix  | Talion       | Coupeur de bourse     | Hirot                                                          | ??              | 1      | 15 <!-- 0+0+0+4+3+8 -->  |
+| Félix  | Enoriel      | Elfe Forestier        | Hirot                                                          | Elfe            | 1      | 15 <!-- 0+0+0+4+3+8 -->  |
 
 ### Table des Points d'Expérience
 
@@ -56,6 +55,8 @@
 | Sacha | Giken (RIP) | Garde de Caravane | Strathford ; Libéré dans la Forteresse des Seigneurs du Chaos |  | 0 |  |
 | Joseph | Kadabra | Elfe Cirier | Strathford |  | 0 | 10 |
 | Joseph | Nehic | Nain Forgeron | Strathford |  | 0 | 10 |
+| Joseph | Thulan       | Alchimiste            | Strathford                                                     | Mage            | 1      | 22 <!-- 0+10+4+2+6+0 --> |
+| Joseph | Tuhuruc      | Halfelin Teinturier   | Strathford ; Libéré dans la Forteresse des Seigneurs du Chaos  | Halfelin        | 1      | 22 <!-- 0+10+4+2+6+0 --> |
 | Lucas | Atzul | Barbier | Strathford |  | 0 | 10 |
 | Lucas | Evadare | Elfe Sage | Strathford |  | 0 | 10 |
 | Lucas | Uccastrog (RIP) | Bûcheron | Strathford |  | 0 | |
