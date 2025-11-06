@@ -24,7 +24,7 @@ Sur le marché, certains d'entre nous remarquent que pas mal de personnes semble
 
 A l'auberge, nous discutons avec le tavernier qui nous apprend que plusieurs villageois sont malades. Il pense que la prêtresse locale et l'herboriste, sont démunies face à cette épidémie. Peut-être une variante de la Koh'weed ?
 
-L'auberge nous donne le nom de la prêtresse : [Cinthara, une novice de Pelor](./img/Cinthara.png).
+L'aubergiste nous donne le nom de la prêtresse : [Cinthara, une novice de Pelor](./img/Cinthara.png).
 
 Le lendemain, Durak, déterminé à aider, se rendra au temple de Pelor pour rencontrer Cinthara.
 
