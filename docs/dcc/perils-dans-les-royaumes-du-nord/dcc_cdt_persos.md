@@ -11,18 +11,21 @@
 
 <!-- Un personnage au repos pour une session gagne la moitié des PX -->
 
-
-| Joueur | Personnage   | Métier (niveau 0)     | Origines                                                       | Classe          | Niveau | PX                       |
-|--------|--------------|-----------------------|----------------------------------------------------------------|-----------------|--------|--------------------------|
-| Evan   | Erohye       | Elfe Avocat           | Caerwynd                                                       | Elfe            | 1      | 29 <!-- 4+10+4+4+3+4 --> |
-| Evan   | Vala         | Trappeur              | Caerwynd                                                       | Voleur          | 1      | 31 <!-- 4+10+4+2+3+8 --> |
-| Thomas | Britanice    | Fromagère             | Caerwynd                                                       | Clerc (Pélagia) | 1      | 36 <!-- 4+10+4+4+6+8 --> |
-| Thomas | Yttruyakin   | Apprentie magiciennce | Strathford ; Libérée dans la Forteresse des Seigneurs du Chaos | Mage            | 1      | 34 <!-- 4+10+4+2+6+8 --> |
-| Sacha  | Willy-Claude | Vidangeur de Latrines | Strathford                                                     | Guerrier        | 1      | 23 <!-- 0+10+2+4+3+4 --> |
-| Eoghan | Ciarrior     | Nain Mineur           | Hirot                                                          | Nain            | 1      | 16 <!-- 0+0+0+4+6+4 (+2) -->  |
-| Eoghan | Toska        | Garde de Caravane     | Strathford                                                     | Guerrier        | 1      | 18 <!-- 0+0+0+4+6+8 -->  |
-| Félix  | Talion       | Coupeur de bourse     | Hirot                                                          | ??              | 1      | 15 <!-- 0+0+0+4+3+8 -->  |
-| Félix  | Enoriel      | Elfe Forestier        | Hirot                                                          | Elfe            | 1      | 15 <!-- 0+0+0+4+3+8 -->  |
+| Joueur    | Personnage   | Métier (niveau 0)     | Origines                                                       | Classe          | Niveau | PX                       |
+|-----------|--------------|-----------------------|----------------------------------------------------------------|-----------------|--------|--------------------------|
+| Evan      | Erohye       | Elfe Avocat           | Caerwynd                                                       | Elfe            | 1      | 29 <!-- 4+10+4+4+3+4 --> |
+| Evan      | Vala         | Trappeur              | Caerwynd                                                       | Voleur          | 1      | 31 <!-- 4+10+4+2+3+8 --> |
+| Thomas    | Britanice    | Fromagère             | Caerwynd                                                       | Clerc (Pélagia) | 1      | 36 <!-- 4+10+4+4+6+8 --> |
+| Thomas    | Yttruyakin   | Apprentie magiciennce | Strathford ; Libérée dans la Forteresse des Seigneurs du Chaos | Mage            | 1      | 34 <!-- 4+10+4+2+6+8 --> |
+| Sacha     | Willy-Claude | Vidangeur de Latrines | Strathford                                                     | Guerrier        | 1      | 23 <!-- 0+10+2+4+3+4 --> |
+| Sacha     | Shul         | Serrurier             | Strathford                                                     | ??              | 1      | 21 <!-- 0+10+2+2+3+4 --> |
+| Sacha     | Dollex       | Collecteur d'Impots   | Strathford ; Libéré dans la Forteresse des Seigneurs du Chaos  | ??              | 1      | 21 <!-- 0+10+2+2+3+4 --> |
+| Eoghan    | Ciarrior     | Nain Mineur           | Hirot                                                          | Nain            | 1      | 16 <!-- 0+0+0+4+6+4 (+2) -->  |
+| Eoghan    | Toska        | Garde de Caravane     | Strathford                                                     | Guerrier        | 1      | 18 <!-- 0+0+0+4+6+8 -->  |
+| Félix     | Talion       | Coupeur de bourse     | Hirot                                                          | ??              | 1      | 15 <!-- 0+0+0+4+3+8 -->  |
+| Félix     | Enoriel      | Elfe Forestier        | Hirot                                                          | Elfe            | 1      | 15 <!-- 0+0+0+4+3+8 -->  |
+| Augustin  | Artus Stinc  | Coupeur de bourse     | Hirot                                                          | Voleur          | 1      | 10 <!-- 0+0+0+0+0+0 -->  |
+| Augustin  | Horos        | Elfe Sage             | Hirot                                                          | Elfe            | 1      | 10 <!-- 0+0+0+0+0+0 -->  |
 
 ### Table des Points d'Expérience
 
