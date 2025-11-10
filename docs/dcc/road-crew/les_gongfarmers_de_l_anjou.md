@@ -59,9 +59,9 @@ Un aperçu rapide des sessions organisées par Les Gongfarmers de l'Anjou, class
 - Scénario : Le Sanctuaire Corrompu (Dungeon Crawl Classics #14/The Defiled Sanctuary)
 - Joueurs : 6
 
-### 2025/03/14 : À vous de jouer !
+### 2025/03/15 : À vous de jouer !
 
-[<img alt="visuel-2025/03/14" title ="2025/03/14" src="./img/2025-03-14_grimtooth_affiche-v1-1.jpg" class="center" width="20%">](./img/2025-03-14_grimtooth_affiche-v1-1.jpg) 
+[<img alt="visuel-2025/03/15" title ="2025/03/14" src="./img/2025-03-15_grimtooth_affiche-v1-1.jpg" class="center" width="20%">](./img/2025-03-15_grimtooth_affiche-v1-1.jpg) 
 
 - Lieu : Musée des Beaux Arts d'Angers (avec les Conjurés du Temporel)
 - Juge : Ludovic/Ludorg
