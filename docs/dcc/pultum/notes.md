@@ -132,8 +132,7 @@ Il y a également un pot en terre avec un liquide noir pas commun.
 Nous sentons un courant d'air qui semble de provenir de sous l'autel.
 En le faisant pivoter, on dévoile un escalier qui descend.
 Deux symboles qui représentent la Folie et de la Maladie.
-Ils font partie des 5 présents sur la porte.
-Ils répésentent les 5 Fléaux des Humains : Famine, Violence, Vieillesse.
+Ils font partie des 5 présents sur la porte et répésentent les 5 Fléaux des Humains : Famine, Violence, Vieillesse, Folie et Maladie.
 Nous descendons par un tunnel sur une vingtaine de mètres.
 Une pièce avec des débris de bois, au fond, un trone.
 Vandassia va s'y asseoir. Rien de particulier se passe.
@@ -147,7 +146,7 @@ En descendant, ils tombent sur un créature animale qui dort.
 L'odeur est assez forte. Il y a des cadavres de petits animaux à ses pieds.
 Il est enchainé au mur, mais il a arraché l'une des pierres.
 Avec Dilac, on attend le retour des autres.
-Au bout d'un certain temps, ils reviennent pas l'autre couloir.
+Au bout d'un certain temps, ils reviennent par l'autre couloir.
 Ils ont été poursuivis par des rats malades.
 Vandassia et Dagozaï ont ramassé différents bouts de statue en or.
 On retourne explorer, mais les tunnels se mettent de nouveau à trembler.
@@ -1313,7 +1312,7 @@ Cependant, il nous offre deux objets :
 - Corde de Schul : permet d'estimer très précisement une mesure, une fois par jour.
 - Orbe de Nygodow (premier prêtre de Schul) : permet d'endormir des ennemis
 
-## Le temple des Moires souillé par le Chaos
+## Le temple des Moires souillé par le Chaos - Le Stratagème de Glipkerio
 
 Avant la réception par le chambellan du roi, nous nous préparons : de beaux vêtements, un bain.
 
@@ -1388,7 +1387,7 @@ Nous nous retrouvons dans le bureau du Chambellan. Dans ses poches, Dagozaille t
 
 (Inspirés par le Moires, nous regagnons nos points de chance et même +1 en chance !)
 
-## Le Manoir des Liis
+## Le Manoir des Liis - La Promise du manoir ombreux
 
 ### Session 32 ; 2024/10/08
 
@@ -1482,3 +1481,4 @@ La cloche a repris sa place dans le clocher...
 Dylak se precipite et in extremis lui sauve la vie grace à une imposition des mains (malgré une série de défaveurs).
 
 Senerik était en train de brosser les tapisseries dans l'entrée et il s'est retrouvé pendu.
+
