@@ -13,6 +13,7 @@ Ci-après, mes notes, résumés et documents pour les joueurs sur les sessions p
 - [Session 7 : Au village de Hirot](./dcc_cdt_2025_09_19) - Le Fléau des Rois barbares
 - [Session 8 : La Tombe de l’Ulfheonar](./dcc_cdt_2025_10_03) - Le Fléau des Rois barbares
 - [Session 9 : La Fin du Fléau des Rois barbares](./dcc_cdt_2025_10_17) - Le Fléau des Rois barbares
+- [Session 10 : Disparitions à la Tour de Draupnir](./dcc_cdt_2025_11_14)
 
 ## Accessoires et documents utiles aux joueurs
 
