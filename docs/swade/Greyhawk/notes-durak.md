@@ -41,3 +41,26 @@ Retour à l'auberge. [Jordy, l'aubergiste](./img/Jordy.png), à la demande de K�
 Les spores c'est dangereux ! (dixit Ké'Ton'Toh).
 
 Nous nous rendons au camp du nord. Sur le chemin, des moustiques géants nous attaquent. Sans difficulté, nous les éliminons.
+
+### Session 2 (2025/11/20) - Le camp de Milon Rodam / La forêt
+
+Après nous être débarrassés des moustiques géants, un repos bien mérité s’impose.
+Krilli Arafir, notre acrobate demi-elfe, est soignée tant bien que mal par V. (qui la charcute plus qu’il ne la soigne). Heureusement, les soins magiques suite à des prières à Fortubo la remettent sur pied.
+
+Durant la nuit, un serpent géant attaque notre campement. Il s’en prend à Krilli, endormie. V., sous sa forme de loup, intervient aussitôt, et le combat s’engage. Après une lutte acharnée, nous parvenons à terrasser la bête. Au matin, elle nous offre un repas copieux, préparé par Asgeirr.
+
+Le voyage reprend en direction du camp de Milon Rodam. La forêt s’épaissit à mesure que nous progressons au coeuur des collines.
+En forçant l’allure, nous atteignons le camp en fin d’après-midi. Il s’agit d’un campement de bûcherons, composé de plusieurs cabanes en bois.
+
+Un bûcheron nous indique une sorte de cabane commune où ils prennent leurs repas. Milon Rodam s’y trouve et nous indique sur notre carte une localisation plus ou moins précise de la sorcière, du plus vieil arbre de la forêt et du monastère des nains pour les champignons.
+
+Jarben, le chef des bûcherons, se montre peu accueillant. Il exige un paiement pour que nous puissions passer la nuit dans le camp. Malgré une discussion animée, il reste inflexible. Nous choisissons donc de camper à l’extérieur. Ké'Ton'Toh, quant à lui, préfère rester au camp pour boire quelques verres avec les bûcherons.
+
+Le lendemain matin, nous reprenons la route vers le nord, en pleine forêt. Après plusieurs heures de marche, nous débouchons sur une clairière où une étrange créature est attaquée par des moustiques géants. Elle ne semble nullement incommodée et les ignore complètement. Une pancarte est accrochée à son cou... 
+
+Soudain, une bourrasque se lève, soulevant feuilles mortes, branches, moustiques et nous avec. Mais nous parvenons à résister à la tempête.
+
+La créature, d’apparence draconique, laisse entrevoir ses os blanchis sous une peau décharnée. De l’orbite de ses yeux émerge un petit rat, qui prend la parole : « Laissez-nous tranquilles ! »
+Krilli, saisie d’effroi, recule. C’est un kobold zombie !
+
+Le kobold mort-vivant, ou plutôt le rat qui l’habite, tente de fuir à l’aide d’un sortilège. Puis il lance un éclair magique en direction de Ké'Ton'Toh.
