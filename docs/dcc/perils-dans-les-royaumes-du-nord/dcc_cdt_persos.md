@@ -22,7 +22,7 @@
 | Sacha     | Dollex       | Collecteur d'Impots   | Strathford ; Libéré dans la Forteresse des Seigneurs du Chaos  | ??              | 1      | 26 <!-- 0+10+2+2+3+4+5  --> |
 | Eoghan    | Toska        | Garde de Caravane     | Strathford                                                     | Guerrier        | 1      | 28 <!-- 0+0+0+4+6+8+5   -->  |
 | Eoghan    | Ciarrior     | Nain Mineur           | Hirot                                                          | Nain            | 1      | 21 <!-- 0+0+0+4+6+4+10 (+2) -->  |
-| Félix     | Talion       | Coupeur de bourse     | Hirot                                                          | ??              | 1      | 25 <!-- 0+0+0+4+3+8+10  -->  |
+| Félix     | Talion       | Coupeur de bourse     | Hirot                                                          | Voleur          | 1      | 25 <!-- 0+0+0+4+3+8+10  -->  |
 | Félix     | Enoriel      | Elfe Forestier        | Hirot                                                          | Elfe            | 1      | 20 <!-- 0+0+0+4+3+8+5   -->  |
 | Augustin  | Artus Stinc  | Coupeur de bourse     | Hirot                                                          | Voleur          | 1      | 20 <!-- 0+0+0+0+0+0+10  -->  |
 | Augustin  | Horos        | Elfe Sage             | Hirot                                                          | Elfe            | 1      | 15 <!-- 0+0+0+0+0+0+5   -->  |
