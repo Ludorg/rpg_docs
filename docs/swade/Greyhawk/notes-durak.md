@@ -49,7 +49,7 @@ Krilli Arafir, notre acrobate demi-elfe, est soignée tant bien que mal par V. (
 
 Durant la nuit, un serpent géant attaque notre campement. Il s’en prend à Krilli, endormie. V., sous sa forme de loup, intervient aussitôt, et le combat s’engage. Après une lutte acharnée, nous parvenons à terrasser la bête. Au matin, elle nous offre un repas copieux, préparé par Asgeirr.
 
-Le voyage reprend en direction du camp de Milon Rodam. La forêt s’épaissit à mesure que nous progressons au coeuur des collines.
+Le voyage reprend en direction du camp de Milon Rodam. La forêt s’épaissit à mesure que nous progressons au coeur des collines.
 En forçant l’allure, nous atteignons le camp en fin d’après-midi. Il s’agit d’un campement de bûcherons, composé de plusieurs cabanes en bois.
 
 Un bûcheron nous indique une sorte de cabane commune où ils prennent leurs repas. Milon Rodam s’y trouve et nous indique sur notre carte une localisation plus ou moins précise de la sorcière, du plus vieil arbre de la forêt et du monastère des nains pour les champignons.
@@ -60,7 +60,7 @@ Le lendemain matin, nous reprenons la route vers le nord, en pleine forêt. Apr�
 
 Soudain, une bourrasque se lève, soulevant feuilles mortes, branches, moustiques et nous avec. Mais nous parvenons à résister à la tempête.
 
-La créature, d’apparence draconique, laisse entrevoir ses os blanchis sous une peau décharnée. De l’orbite de ses yeux émerge un petit rat, qui prend la parole : « Laissez-nous tranquilles ! »
+La créature, d’apparence draconique, laisse entrevoir ses os blanchis sous une peau décharnée. De l’orbite de ses yeux émerge un petit rat, qui prend la parole : "Laissez-nous tranquilles !" 
 Krilli, saisie d’effroi, recule. C’est un kobold zombie !
 
 Le kobold mort-vivant, ou plutôt le rat qui l’habite, tente de fuir à l’aide d’un sortilège. Puis il lance un éclair magique en direction de Ké'Ton'Toh.
