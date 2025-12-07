@@ -15,10 +15,10 @@
 
 | Joueur    | Personnage   | Métier (niveau 0)     | Origines                                                       | Classe          | Niveau | PX                       |
 |-----------|--------------|-----------------------|----------------------------------------------------------------|-----------------|--------|--------------------------|
-| Evan      | Erohye       | Elfe Avocat           | Caerwynd                                                       | Elfe            | 1      | 51 <!-- 4+10+4+4+3+4+10+12 --> |
+| Evan      | Erohye       | Elfe Avocat           | Caerwynd                                                       | Elfe            | 2      | 51 <!-- 4+10+4+4+3+4+10+12 --> |
 | Evan      | Vala         | Trappeur              | Caerwynd                                                       | Voleur          | 1      | 42 <!-- 4+10+4+2+3+8+05+06 --> |
-| Thomas    | Britanice    | Fromagère             | Caerwynd                                                       | Clerc (Pélagia) | 1      | 58 <!-- 4+10+4+4+6+8+10+12 --> |
-| Thomas    | Yttruyakin   | Apprentie magiciennce | Strathford ; Libérée dans la Forteresse des Seigneurs du Chaos | Mage            | 1      | 52 <!-- 4+10+4+2+6+8+10+12 --> |
+| Thomas    | Britanice    | Fromagère             | Caerwynd                                                       | Clerc (Pélagia) | 2      | 58 <!-- 4+10+4+4+6+8+10+12 --> |
+| Thomas    | Yttruyakin   | Apprentie magiciennce | Strathford ; Libérée dans la Forteresse des Seigneurs du Chaos | Mage            | 2      | 52 <!-- 4+10+4+2+6+8+10+12 --> |
 | Sacha     | Willy-Claude | Vidangeur de Latrines | Strathford                                                     | Guerrier        | 1      | 45 <!-- 0+10+2+4+3+4+10+12 --> |
 | Sacha     | Shul         | Serrurier             | Strathford                                                     | ??              | 1      | 32 <!-- 0+10+2+2+3+4+05+06 --> |
 | Sacha     | Dollex       | Collecteur d'Impots   | Strathford ; Libéré dans la Forteresse des Seigneurs du Chaos  | ??              | 1      | 32 <!-- 0+10+2+2+3+4+05+06 --> |
