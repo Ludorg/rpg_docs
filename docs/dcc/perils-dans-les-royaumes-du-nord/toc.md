@@ -22,3 +22,4 @@ Ci-après, mes notes, résumés et documents pour les joueurs sur les sessions p
 - [La route de Strathford à Hirot](./assets/strathford_hirot-r.jpg)
 - [Les alentours des villages de Hirot et Strathford](./assets/Environs-de-Strathford-et-Hirot-r.jpg)
 - [Liste des personnages joueurs et PX](./dcc_cdt_persos)
+- [Liste des personnages non joueurs notoires et des lieux notables](./dcc_cdt_pnj_lieux)
