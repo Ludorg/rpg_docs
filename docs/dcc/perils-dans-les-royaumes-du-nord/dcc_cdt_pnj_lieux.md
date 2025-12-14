@@ -31,6 +31,7 @@
 | Les Bâtisseurs                  | Siège d’Ivrian                          | Antique peuple d’hybrides entre mille-pattes et scorpions marins qui mirent au jour d’innombrables secrets scientifiques et magiques. |
 | Ivrian de Dalcia                | Siège d’Ivrian                          | Esprit / aïeule de Britanice en quête de son corps inaltérable.              |
 | Aagazzbagh le Doré              | Siège d’Ivrian                          | Démon gardien de l'astrolithe, renvoyé sur son plan grâce à Ecrochenuit.     |
+| Pyrrhus l’Incorruptible         | Hirot                                   | Prêtre de Loptir, le Seigneur des Flammes, préside les feux sacrés des festivités du solstice d’hiver. |
 
 ## Lieux notables
 
