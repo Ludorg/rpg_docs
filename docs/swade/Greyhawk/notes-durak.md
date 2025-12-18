@@ -67,29 +67,27 @@ Le kobold mort-vivant, ou plutôt le rat qui l’habite, tente de fuir à l’ai
 
 ### Session 3 (2025/12/18) - La forêt
 
-Asgeirr achève le kobold zombie et le rat d’un coup de poing magistral. 
-Transformé en loup, V. suite la piste.
+Asgeirr achève le kobold zombie et le rat d’un coup de poing magistral.
+Transformé en loup, V. suit sa piste et nous suivons à distance.
+
 Après une traque de plusieurs heures, nous trouvons un endroit propice au campement.
-Asgeirr trouve de la mousse qui peut produire de la lumière.
-
-Avant de nous endormir, nous organisons un tour de garde.
-A la fin de la nuit, durant le tour de Durak, il commence à pleuvoir.
-
+Asgeirr trouve de la mousse qui peut produire de la lumière.Avant de nous endormir, nous organisons un tour de garde.
+À la fin de la nuit, durant le tour de Durak, il commence à pleuvoir.
 Au matin, nous reprenons notre route en suivant le bord du lac.
-Nous tombons sur uns scène macabre : des pixies crucifiées sur des arbres. 
 
-Ces créatures féeriques ont été saignées. D'après Krilli, ça pourrait être une espèce de rituel pour transformer le fer en or.
+Dans la  journée, nous tombons sur une scène macabre : des pixies crucifiées sur des arbres.
+Ces créatures féeriques ont été saignées. D’après Krilli, cela pourrait être une espèce de rituel pour transformer le fer en or. 
 V. les enterre dignement et nous reprenons notre route.
 
-Dans l'après-midi, une ombre passe au dessus de nous.
-Ca ressemble à un gros dragon bleu vert.
-D'après V., c'est une vouivre, une créature plutôt hostile.
+Au cours de l’après-midi, une ombre passe au-dessus de nous.
+Ça ressemble à un gros dragon bleu-vert.
+D’après V., c’est une vouivre, une créature plutôt hostile.
+L’après-midi touche à sa fin. Nous décidons de monter le camp et la nuit se passe sans encombre.
 
-L'après-midi touche à sa fin. Nous décidons de monter le camp et la nuit se passe sans encombre.
 Lorsque nous marchons le long du lac, des petits jappements se font entendre.
-C'est un petit renard roux prisonnier dans un piège à loup.
-
+C’est un petit renard roux, prisonnier dans un piège à loup.
 Soudain, une flèche touche V. !
-Un hobgobelin nous attaque et une nuit de corbeaux s'abat sur nous.
-Sous l'effet du sort d'étourdissement de Durak, le hobgobelin chancelle et tombe adossé à la paroi.
-Nous le maîtrisons et nous nous préparons à l'interroger.
+
+Un hobgobelin nous attaque et une nuée de corbeaux s’abat sur nous.
+Sous l’effet du sort d’étourdissement de Durak, le hobgobelin chancelle et tombe, adossé à la paroi.
+Nous le maîtrisons et nous nous préparons à l’interroger.
