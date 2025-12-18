@@ -1,6 +1,6 @@
-# DCC - Périls dans les Royaumes du Nord - Liste des personnages non joueurs notoires et des lieux notables
+# DCC - Périls dans les Royaumes du Nord - Liste des personnages non-joueurs notoires et des lieux notables
 
-## Personnages non joueurs notoires
+## Personnages non-joueurs notoires
 
 | Nom                             | Lieu                                    | En bref                                                                      |
 |---------------------------------|-----------------------------------------|------------------------------------------------------------------------------|
@@ -48,4 +48,4 @@
 | Repaire des Trois Rats             | Bouge mal famé de Hirot, tenu par Maître Jenks.                             |
 | Tour de Draupnir                   | Tour du mage Draupnir, un portail menant au Siège d’Ivrian y est apparu.    |
 | Siège d’Ivrian                     | Complexe souterrain lié aux Bâtisseurs et à Ivrian de Dalcia.               |
-| Abbaye des Bois                    | Ruines indiquées sur une carte, où se trouverait un important trésor.         |
+| Abbaye des Bois                    | Ruines indiquées sur une carte, où se trouverait un important trésor.       |
