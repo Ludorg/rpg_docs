@@ -1482,3 +1482,49 @@ Dylak se precipite et in extremis lui sauve la vie grace à une imposition des m
 
 Senerik était en train de brosser les tapisseries dans l'entrée et il s'est retrouvé pendu.
 
+### Session 34 ; 2024/10/18
+
+Senerik, à la vue du symbole de Choranus veut se confesser.
+Il revient après un certain temps et retourne préparer le sanglier pour la réception ce soir.
+
+Dylak nous donne quelques explications sur ce qui s'est passé.
+Il y a une cinquantaine d'années, après le décès de Lady Baethor, les enfants, à part Ilse, sont morts mystérieusement.
+Ilse a accusé Senerik d'avoir empoisonné la famille.
+Ilse et tout le manoir serait sous emprise maléfique.
+Lors d'une prière à Choranus, Senerik a été contacté par sa divinité. Senerik était allé sonner la cloche.
+La foudre a frappé le clocher et elle a écrasé Ilse.
+
+Les ossements dans la crypte sont ceux des enfants de la famille Liss.
+Le squelette sous la cloche est celui de Ilse.
+
+Nous montons à l'étage à la recherche de vêtements pour la réception.
+En fouillant, nous trouvons des portraits dans chaque chambre et des masques :
+
+- Ursula, Jost dit Juste (Masque de lézard), Ilse, Sabian (Masque de loup)
+- Keth (Masque de corneille), Josef (Masque à trois visages), Demut (Masque de Méduse), Matias, un petit enfant (Masque de fer), Lady Baethor.
+
+Le masque de Ilse serait celui cornu trouvé dans la chapelle...
+Celui d'Ursula, le lion touvé sous le pont de Levis.
+
+Le squellette d'Ilse, que nous avions précédemment, vu sous la cloche s'est retrouvé dans la chambre.
+
+Alors que nous préparonsle banquet, dans la pièce principale, Kroc l'amuseur arrive par la cheminée.
+Il porte un masque de bouc. Quand j'évoque le sanglier préparé par Senerik, il nous indique "Mammon va apprécier".
+J'en parle à Dylak et aux autres. D'après Dylak, ce serait une créature chaotique...
+
+Ca évoque vaguement quelques souvenirs à Senerik. Celui-ci note également que la tapisserie a changé, un des pans
+
+Une autre personne arrive par la cheminée, c'est une femme avec une belle robe de bal et elle porte un masque de chèvre !
+Dylak tente de la saluer par un baise main, mais elle l'embrasse sur la bouche et il sent affaibli (la créature lui a absorbé un sort).
+Le combat s'engage.
+Mammon ne va pas être content ! nous dit Kroc.
+Rannok, d'un coup de marteau éclate la tête de Kroc.
+
+Alors que la femme-chèvre est en train de souffrir sous le symbole sacré de Dylak, elle prononce par trois fois le nom de "Mammon".
+Il arrive alors par la cheminée !
+C'est un grand démon cornu à la peau noire.
+La succube succombe sous les coups de Vandascia.
+Le démon invoque un sort d'effroi : seuls Dagozaille et Vandascia ne fuient pas.
+Dagozaille utilise son parchemin de Lame d'Athropos pour rendre son arme magique afin d'être efficace contre le démon.
+Après avoir repris nos esprits, nous revenons au combat !
+Le démon tombe au combat : Dylak avec son symbole sacré de Choranus lui porte le coup fatal.
