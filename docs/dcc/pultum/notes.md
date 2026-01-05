@@ -18,38 +18,38 @@ Pultum est apprenti de Raa Zhel, la magicienne de Pornell.
 
 On est rentrés en héros au village après avoir ramené les restes de différents villageois.
 
-- Dagozaï le Magniat
+- Dagozaille le Magniat
 - Pultum l'Apprenti Magicien
 - Ranok le Cosaque
-- Dilac le Témoin
+- Dylak le Témoin
 - Vandassia la Muette
 
-Un jour chez Raa Zhel, deux étrangers viennent frapper. Ils sont encacpuchonés.
+Un jour chez Raa Zhel, deux étrangers viennent frapper. Ils sont encapuchonnés.
 Elle me congédie et me demande d'aller chercher des graines pour les oiseaux.
-Elle me demande de servir les graine dans un bol !
+Elle me demande de servir les graines dans un bol !
 Puis elle me demande de retourner chez moi.
 
 Elle propose 50 Po par personne pour monter une expédition.
-Il nous faut ramener un produit et chaque personne qui ramène du produit aura droit à la récompense.
+Il nous faut ramener un produit et chaque personne qui ramène un produit aura droit à la récompense.
 Les deux personnes qui nous accompagnent sont des Disciples de la Divinité Céleste.
-Ils sont des toges et les mains gantés.
+Ils portent des toges et les mains gantées.
 
 Nous nous mettons en route à cheval.
 
 Nous arrivons à une colline.
-Il y a un atroupement d'une dizaine de personnes.
-Une nuage couleur bronze est dans le ciel au dessus de l'atroupement.
+Il y a un attroupement d'une dizaine de personnes.
+Un nuage couleur bronze est dans le ciel au-dessus de l'attroupement.
 
-On suit Rhaa Zheel.
-Elle se dirige vers l'atroupement. A 50 mètres, elle atache son cheval.
+On suit Raa Zhel.
+Elle se dirige vers l'attroupement. À 50 mètres, elle attache son cheval.
 Elle sort des tenues avec des plumes dessus.
 Elle nous demande de les mettre.
 Nous nous approchons de la troupe.
 Ils sont tous habillés en oiseaux et semblent effectuer un rituel autour d'une vasque remplie de graines.
 Certains semblent dire "Momoa".
-Soudain, l'air se met à tourbilloner
+Soudain, l'air se met à tourbillonner
 
-Raa Zheel nous donne des fioles.
+Raa Zhel nous donne des fioles.
 Elle nous dit "c'est pour l'elixir !"
 Nous sommes pris dans le tourbillon.
 Nous voyons un arc en ciel qui descend du nuage.
@@ -65,7 +65,7 @@ Près de la fontaine, il y a un tunnel avec des pierres qui scintillent et écla
 Elles changent de couleurs toutes les minutes en suivant le cycle des cinq couleurs de la fontaine.
 
 Mon sort de détection de la magie m'apprend que le piège est magique
-Dilac, le Témoin de Coranus, a la bonne idée de se recouvrir le corps du liquide de couleur.
+Dylak, le Témoin de Coranus, a la bonne idée de se recouvrir le corps du liquide de couleur.
 Quand elle est de la même couleur que celle du tunnel, on peut passer sans problème.
 Nous nous apprêtons à tous faire de même.
 
@@ -96,15 +96,15 @@ Il s'agit de Momoa la juge dorée.
 Certains sont jugés digne ou indigne et prennent l'une ou l'autre des arches.
 Les humains qui sont en file sont a priori morts.
 Nous nous déguisons en zombie et nous nous mettons dans la file.
-Dagozai s'est faufilé discrètement dans l'arche des personnes "dignes".
-J'ai été jugé digne et Dilac aussi.
+Dagozaille s'est faufilé discrètement dans l'arche des personnes "dignes".
+J'ai été jugé digne et Dylak aussi.
 Quant à Vandassia et Ranok, ils sont jugés "indignes".
 Dans la salle, un bassin dans lequel se trouve un zombie.
 Il en sort tout revigoré. Il monte vers un grand lézard ailé. C'est un Dimorphodon.
 La créature lui arrache les bras et il lui pousse des ailes.
 
 Dans l'autre salle, les autres ont fait demi-tour et ils ont attaqué la harpie.
-Dans la salle du bassin et de la créature, Dilac et Dagozaï tentent de voler un peu de liquide du bassin.
+Dans la salle du bassin et de la créature, Dylak et Dagozaille tentent de voler un peu de liquide du bassin.
 On combat les harpies et on fuit par le couloir d'où viennent les zombies.
 Pendant ce temps, Vandassia va effectuer le rituel et reçoit des ailes mebraneuses.
 En traversant le couloir des zombies, nous arrivons dans la terre (probablement enterrés).
@@ -115,12 +115,12 @@ En traversant le couloir des zombies, nous arrivons dans la terre (probablement 
 
 ### Session 3 ; 2023/07/09
 
-On est quatre : moi (Pultum), Dagozai, Dilac et Rannok dans de la terre (quelques centimètres), dans une forêt.
+On est quatre : moi (Pultum), Dagozai, Dylak et Ranok dans de la terre (quelques centimètres), dans une forêt.
 Nous entendons des bruits de corbeaux. C'est assez lugubre.
 
 De la forêt sort un hobbit bouru ! Panasonix, est son nom.
 Dans l'arbre habité par les corbeaux, des crânes de chèvres noircis.
-Dilac brise un des crânes, ils contiennent des ossements à l'intérieur.
+Dylak brise un des crânes, ils contiennent des ossements à l'intérieur.
 Il y a assez peu de magie, il reste quelques résidus du rituel, mais pas de magie.
 Les crânes sont noircis et récouverts de suie noire et gravés de pentacles.
 
@@ -136,19 +136,19 @@ Ils font partie des 5 présents sur la porte et répésentent les 5 Fléaux des 
 Nous descendons par un tunnel sur une vingtaine de mètres.
 Une pièce avec des débris de bois, au fond, un trone.
 Vandassia va s'y asseoir. Rien de particulier se passe.
-Dagozai inspecte le trone et découvre deux mécanismes.
+Dagozaille inspecte le trone et découvre deux mécanismes.
 Le premier au niveau des bras, le deuxième au niveau de la tête sur le trone.
 Il y a un coffre caché dans la tête.
-Soudain, Dilac aperçoit un tourbillon et sort de la salle par l'entrée d'où nous sommes venus.
-Vandassia et Dagozaï sont partis par l'autre couloir.
+Soudain, Dylak aperçoit un tourbillon et sort de la salle par l'entrée d'où nous sommes venus.
+Vandassia et Dagozaille sont partis par l'autre couloir.
 
 En descendant, ils tombent sur un créature animale qui dort.
 L'odeur est assez forte. Il y a des cadavres de petits animaux à ses pieds.
 Il est enchainé au mur, mais il a arraché l'une des pierres.
-Avec Dilac, on attend le retour des autres.
+Avec Dylak, on attend le retour des autres.
 Au bout d'un certain temps, ils reviennent par l'autre couloir.
 Ils ont été poursuivis par des rats malades.
-Vandassia et Dagozaï ont ramassé différents bouts de statue en or.
+Vandassia et Dagozaille ont ramassé différents bouts de statue en or.
 On retourne explorer, mais les tunnels se mettent de nouveau à trembler.
 On ressort de la chapelle. La chapelle s'effondre.
 Retour à Pornell.
@@ -171,14 +171,14 @@ Fin Session 3 : +4 -->
 
 ### Sessions 4 et 5 2023/08/28 et 2023/08/29 (ABSENT, en vacances) ; Résumé par mes camarades
 
-- Dagozaï le Magniat
+- Dagozaille le Magniat
 <!-- Pultum l'Apprenti Magicien -->
 - Ranok le Cosaque, (va probablement un adepte de Justicia)
-<!-- Dilac le Témoin -->
+<!-- Dylak le Témoin -->
 - Vandassia la Muette
 - Panasonix, le Halfelin (porte-chance) le Druide
 
-Osric, le neveu de Dagozaï arrive à cheval du village Hirot.
+Osric, le neveu de Dagozaille arrive à cheval du village Hirot.
 Morgane, sa soeur devait être sacrifiée pour apaiser un molosse qui terrorise la région.
 Brogan, le beau-frère de Dagozai.
 Vandassia a récupéré une orbe noire.
@@ -196,7 +196,7 @@ Vandassia a récupéré une orbe noire.
 Nous sommes invités dans quelques semaines à une fête d'un village voisin qui se tient tous les dix ans.
 Ce village est à deux ou trois jours de voyage.
 
-Avec Dilac, nous retrouvons nos compagnons à proximité de la maison de Prospero un pêcheur qui vit dans une cabane sur pilotis.
+Avec Dylak, nous retrouvons nos compagnons à proximité de la maison de Prospero un pêcheur qui vit dans une cabane sur pilotis.
 Nous laissons nos camarades et suivons le chien de Prospero qui jappe.
 
 Nous suivons le chien et laissons nos chevaux quand nous pouvons plus avancer.
@@ -219,14 +219,14 @@ Cierges, pas de magie.
 Proche du sarcophage, une autre fresque représentant un homme brandissant un sceptre au milieu de crapauds.
 Un peu comme si l'humain controlait une armée de crapauds.
 
-Nous aidons Dagozaï à ouvrir.
+Nous aidons Dagozaille à ouvrir.
 
 Si reposerait en les viscères du grand crapaud ailé et m'en réjouirait !
 Il y a une dizaine de crapauds momifiés. Ils mesurent environ 20 cm de large.
 
 Nous nous dirigeons vers l'autel pour continuer nos investigations.
 
-Dilac repère des alcoves, vides à gauche. Avec des statuettes de crapaud à droite.
+Dylak repère des alcoves, vides à gauche. Avec des statuettes de crapaud à droite.
 La fresque à proximité des alcoves représente un combat entre deux groupes d'humains, dont l'un est mené par le même humain avec son sceptre.
 Le sceptre est en forme de baton avec un crapaud.
 Les Gargrenouilles attaquent quand Vandassia s'approche dans la nef.
@@ -356,7 +356,7 @@ Des orcs sont regroupés autour d'une palissade d'où nous pouvons voir des main
 Ils semblent qu'il y ait un shaman orc et 4 autres orcs.
 Ils nous attaquent ! Notre entrée n'est pas vraiment discrète.
 Je tente un sort de vetriloquisme pour reproduire la voie, mais c'est un beau raté.
-Panasonix et Dagozai découpe trois orcs coup sur coup !
+Panasonix et Dagozaille découpe trois orcs coup sur coup !
 Le shaman a effectué un rituel autour de l'arbre et des orbres se mettent à léviter autour de lui.
 Le nain achève finalement le shaman !
 Le hobbit ramasse la dague qu'il utilisait.
@@ -496,9 +496,9 @@ De  gauche à droite : mandarine, azure, dorée, prune, écarlate, émeraude.
 
 Vandassia invoque Momoa qui lui envoie une vision d'un pont arc en ciel.
 Je bois du liquide écarlate, mais c'est assez douloureux.
-Mes veines gonflent, après avoir bu le liquide. Dilac me soigne et la douleur cesse.
+Mes veines gonflent, après avoir bu le liquide. Dylak me soigne et la douleur cesse.
 
-Nous trions les fioles dans l'ordre des couleurs de l'arc en ciel, puis Dilac les boit dans l'ordre.
+Nous trions les fioles dans l'ordre des couleurs de l'arc en ciel, puis Dylak les boit dans l'ordre.
 Des larmes arc en ciel se mettent à couler et le flot de ses larmes se transforme en un pont multicolore
 
 __Jugement__
@@ -507,10 +507,10 @@ Une balance géante  avec deux grands plateaux
 La balance fait 5 fois la hauteur d'un homme.
 Il y a une clé azurée.
 Il y 4 lions au pelage argenté et à la crinère doré.
-Panasonix et Dagozai essaient de se faufiler, mais ils nous empechent de passer.
+Panasonix et Dagozaille essaient de se faufiler, mais ils nous empechent de passer.
 Nous entendons une voix qui nous indique que l'ascencion est pour ceux qui
 
-Dylac et Ranok narrent leur actes héroïques et les plateaux montent.
+Dylak et Ranok narrent leur actes héroïques et les plateaux montent.
 Avec l'aide de Vandassia, ils récupère la clé en or.
 
 Après être retourné dans la salle du pentacle, un escalier mène vers le haut.
@@ -520,15 +520,15 @@ Autour de l'oeuf, nous voyons 7 silhouettes qui s'avèrent être nos doubles !
 
 Elles nous demandent si on a le sceau.
 Comme nous ne l'avons pas, nous essayons différents stratagèmes.
-Finalement, avec une fiole d'aphrodisiaque, nos doubles se mettent à s'enlacer et Vandascia.
+Finalement, avec une fiole d'aphrodisiaque, nos doubles se mettent à s'enlacer et Vandassia.
 Après quelques discussions, la salle nous décidons de le confier à l'émissaire du Clair Obscur.
 La fleur ayant été utilisée, nous nous retrouvons à la cour du Chaos.
-A la surprise générale, Vandascia se dirige vers Hekanhoda.
-Panasonix décoche un carreau d'arbalète à Vandascia.
+A la surprise générale, Vandassia se dirige vers Hekanhoda.
+Panasonix décoche un carreau d'arbalète à Vandassia.
 
 Des bulles apparaissent !
 
-Dans la précipitation et dans la panique, Vandascia fait tomber l'oeuf.
+Dans la précipitation et dans la panique, Vandassia fait tomber l'oeuf.
 Ranok le ramasse et il le confit à la servante.
 Elle fait surgir un bouclier lumineux sous son bras.
 Les titans font jaillir des flammes de leur mains.
@@ -546,7 +546,7 @@ Et nous nous retrouverons dans la salle du spectacle pendant les applaudissement
 
 ### Session 14 ; 2023/12/06
 
-Vandascia a reçu un parchemin contenant un sort du magicien Ostafar, mais il faut crier des insultes.
+Vandassia a reçu un parchemin contenant un sort du magicien Ostafar, mais il faut crier des insultes.
 Comme elle est muette, ça n'a que peu d'utilité : Ostafars_Odiferous_Opprobrium (sort niveau 2)
 
 On levelle !
@@ -558,7 +558,7 @@ Il y a un stand de personnes qui viennent des Shudder Mountains, les trembles mo
 The Rhime le 13ème mois (mois du givre, qui annonnce l'hiver)
 (solstice d'hiver)
 
-La nièce de Dagozai nous a ramené ce qui ressemble à un calendrier de l'avent.
+La nièce de Dagozaille nous a ramené ce qui ressemble à un calendrier de l'avent.
 Blessing from the Shudder Mountains
 
 Amber fade (avant dernier mois de l'année).
@@ -574,10 +574,10 @@ Au bout d'une heure en barque, il apreçoit la tour avec sa longue-vue.
 Il me passe la longue vue.
 La tour est immergée et une grande barque est attachée.
 Elle est un peu plus grande que la nôtre.
-En s'approchant, Vandascia a pris une flêche.
+En s'approchant, Vandassia a pris une flêche.
 Elle est tombée dans l'eau.
 
-Nous nous approchons, pendant que Panasonix et Dagozai viennent discrétement par derrière.
+Nous nous approchons, pendant que Panasonix et Dagozaille viennent discrétement par derrière.
 C'est a priori des hommes de main de Qwen la Brute.
 Les hommes de main ont un accent étrange.
 Ils ont des traits gobelinoïdes.
@@ -587,7 +587,7 @@ Nous les avons vaincu, ils ont des arcs et des petites épées courtes.
 
 ### Session 15 ; 2023/12/11
 
-Dagozai va récupérer la barque.
+Dagozaille va récupérer la barque.
 Nous nous dirigeons vers l'entrée de la tour.
 C'est une trappe.
 En l'ouvrant, elle donne sur une échelle qui donne dans une pièce.
@@ -596,11 +596,11 @@ Un beau livre noir relié d'or est posé sur un piédestal.
 Une détection de la magie m'indique que les bougies sont reliées au livre.
 En observant bien, il y a des noms gravés sur les bougies.
 On en rallume une et le nom barré ne l'est plus dans le livre.
-Dans le livre, il y a le nom de Ranok et Dilak, mais il ne sont pas barrés.
+Dans le livre, il y a le nom de Ranok et Dylak, mais il ne sont pas barrés.
 Nous descendons par l'escalier en colimaçon.
 
 Dans l'escalier, nous trouvons une sorte de poupée vaudou dans une alcove.
-Vandascia s'en saisit. Elle commence à lui mettre des petits coups avec ses petits bras de bois.
+Vandassia s'en saisit. Elle commence à lui mettre des petits coups avec ses petits bras de bois.
 On la brule avec une torche.
 
 Au pied de l'escalier, trois portails.
@@ -615,9 +615,9 @@ Nous entendons les bruits d'une barque qui approche.
 Dessus, une créature squelettique tend la main.
 Dagozai, Hasbrutisch et moi lui donnons une pièce.
 Il nous laisse passer.
-Vandascia lui donne une plume, mais il ne la laisse pas passer.
+Vandassia lui donne une plume, mais il ne la laisse pas passer.
 Finalement, après que tout le monde lui ait donné une pièce, la traversée commence.
-Vandascia essaie de lui enlever sa cape, mais il ne se laisse pas faire.
+Vandassia essaie de lui enlever sa cape, mais il ne se laisse pas faire.
 
 Après deux cavernes, un autre ponton, mais celui-ci est en pierres.
 Une petite troupe de 7 brigands goblinoides est devant un portail.
@@ -636,7 +636,7 @@ Le pont mène à un sarcophage.
 Le tombeau représente un dragon reposant sur des crânes.
 Nous poussons le couvercle du sarcophage.
 A l'intérieur, un squelette avec une courone et une cape.
-Vandascia est paralysée quand elle essaie de récupérer la robe.
+Vandassia est paralysée quand elle essaie de récupérer la robe.
 On prend les deux rubis dans la main du squelette.
 C'est a priori la dépouille de Sezrekan.
 
@@ -645,7 +645,7 @@ Nous retournons aux carrefours de trois portes.
 Nous mettons les deux pierres dans les yeux du dragon et avec un peu de son sang, elle ouvre la porte.
 Elle mène à une statue de dragon avec la perle noire dans la gueule.
 Au pied, ça grouille de vipères d'eau.
-Vandascia va chercher la pierre puis nous repartons à Azure.
+Vandassia va chercher la pierre puis nous repartons à Azure.
 
 <!-- Session 16 2024/01/03 -->
 
@@ -656,7 +656,7 @@ Hazbrutisch discute avec les brigands gobelins et nous annonce qu'il repart avec
 Nous retournons à Azure.
 Je prends la perle pour la nuit.
 
-A Azure, au petit matin nous constantons que les avis de recherche de Qwen la Brute sont enlevées.
+A Azure, au petit matin nous constatons que les avis de recherche de Qwen la Brute sont enlevées.
 Nous apprenons que dans la nuit, quelqu'un (probablement Hazbrutisch) a ramené un des doigts de Qwen la Brute qui a permis de l'identifier.
 En rangeant les affaires du marché, nous apercevons Hazbrutisch en train de boire des coups à l'auberge.
 Il est avec une certaine Maria la Noire et sont en train de réfléchir à leur nouveau commerce avec le bateau qu'ils ont récupéré à Qwen.
@@ -676,8 +676,8 @@ En attendant, je la garde avec moi.
 
 ## The Doom that Came to Christmastown
 
-Nous sommes chez Dagozaï en train de discuter du sort de la Pierre quand on frappe à la porte.
-C'est un elfe qui cherche Vandascia et les aventuriers de Pornell.
+Nous sommes chez Dagozaille en train de discuter du sort de la Pierre quand on frappe à la porte.
+C'est un elfe qui cherche Vandassia et les aventuriers de Pornell.
 
 C'est Boss Elf, il vient du village de Noël !
 Il est venu avec un traineau rouge.
@@ -696,7 +696,7 @@ Le père Claus est mal en point, c'est peut être lié à la Lumière, mais rien
 Dylak tente une imposition des mains, mais c'est a priori sans effet.
 Boss Elf est son assistant et aussi le chef de choeur de la Chorale du village de Noël.
 
-Madame Claus nous donne un Parchemin de Recette des créations magiques de Vaylo (pourrait intéresser Vandascia).
+Madame Claus nous donne un Parchemin de Recette des créations magiques de Vaylo (pourrait intéresser Vandassia).
 Cependant, il faut une heure de préparation et surtout, les ingrédients.
 Il y a un nain non loin qui cherche du Pepermint dans une mine.
 
@@ -727,22 +727,22 @@ Je fais apparaitre une corde qui enserre le ver et l'immobilise.
 Cela aide mes acolytes !
 Je lui met un grand coup de fourche et Dylak l'achève presque avec son marteau !
 Le ver se venge !
-Et c'est finalement Dagozai qui l'achève !
+Et c'est finalement Dagozaille qui l'achève !
 Yukon le nain nous remercie de l'avoir sauvé de ce ver.
 Il a creusé trop profondément et a mis à jour ce nid de ver qui bouffe son minerai !
 Pour nous récompenser, il nous offre sa deuxième pioche.
-Dagozai et Dylak sont blessés !
+Dagozaille et Dylak sont blessés !
 
 <!-- Session 17 2024/01/15 -->
 
 ### Session 17 ; 2024/01/15
 
-Vandascia est restée avec Madame Claus pour faire des cookies !
+Vandassia est restée avec Madame Claus pour faire des cookies !
 Pepermint = roche striée de veine rouge.
 La commande de Pepermint provient du roi Moonracer (il a son chateau Entre Who-ville et la banquise).
 C'est un roi auto-proclamé qui n'a pas de sujets.
 
-Nous allons retourner au village de Noël pour aller chercher Vandascia qui a dû finir sa recette grâce au Parchemin de Recette des créations magiques de Vaylo.
+Nous allons retourner au village de Noël pour aller chercher Vandassia qui a dû finir sa recette grâce au Parchemin de Recette des créations magiques de Vaylo.
 Elle nous donne des chewing gums qui permettent de léviter pendant 5 rounds.
 
 Nous repartons en direction de la Tour du Sorcier (Winter Warlock).
@@ -750,7 +750,7 @@ La tour est abandonnée et il y a des traces d'un incendie.
 Un escalier en colimaçon monte à l'étage.
 Nous entendons quelques bruits et ricanements.
 Il s'agit de 3 petites créatures ressemblant à des gremlins (des mini-trolls !) qui font de la cuisine autour d'un chaudron
-Dagozai en pousse deux dans leur marmite pendant que Panasonix en tie à l'arbalète.
+Dagozaille en pousse deux dans leur marmite pendant que Panasonix en tie à l'arbalète.
 
 Flacon avec de la poudre qui pourrait servir comme ingrédients.
 Nous trouvons également des bougies de sorcier qui permettent (+1 au lancer de sort, permet d'augmenter au lieu de spell burn).
@@ -781,7 +781,7 @@ Deux tours ne sont pas terminées.
 Les murs sont en marbre.
 Nous avons également vu des traces dans la neige.
 
-Vandascia part en reconnaissance en volant. Sur une des tours, un objet rond flotte au vent.
+Vandassia part en reconnaissance en volant. Sur une des tours, un objet rond flotte au vent.
 C'est une montgolfière !
 
 Nous allons finalement passer par la porte.
@@ -791,7 +791,7 @@ Il y a également une autre créature éléphant et il y a une odeur d'animal et
 Avec sa trompe, il nous prend un des sacs.
 Nous arrivons dans un grand Hall avec un trône.
 Sur le trône un vieillard avec une couronne sur la tête qui dort.
-Vandascia tente de lui subtiliser sa couronne, mais elle le réveille.
+Vandassia tente de lui subtiliser sa couronne, mais elle le réveille.
 
 Nous lui parlons de la Lumière qui décroit.
 Il nous invite à monter sur une des tours.
@@ -805,12 +805,12 @@ La lumière verte provient d'un gros bloc de glace.
 Au pied de la glace, il y a des décorations qui pourraient aller sur un sapin.
 La caverne se poursuit au délà du bloc.
 Soudain, de derrière le bloc émerge une créature verte qui ressemble à un grinche.
-Il sent l'ail et la vieille chausette !
+Il sent l'ail et la vieille chaussette !
 La créature se plaint de ne pas avoir eu de cadeaux de Noël.
-Vandascia lui offre la couronne.
+Vandassia lui offre la couronne.
 Ca semble avoir un effet bénéfique sur la créature et sur la lumière qui se mete à briller de façon plus vive et augmenter de taille.
-Je lui donne les cookies de Vandascia et en retour, une chauve-souris vient se poser près de moi.
-Vandascia fait un calin au grinch.
+Je lui donne les cookies de Vandassia et en retour, une chauve-souris vient se poser près de moi.
+Vandassia fait un calin au grinch.
 La glace se fend encore plus et la lumière est libérée.
 C'est la Lumière de Yule !
 
@@ -820,7 +820,7 @@ Il garde quelques décorations de Noël pour égayer sa caverne.
 En sortant de la caverne, le vent s'est arrêté !
 Nous revenons au village avec la Lumière et sommes accueillis en héros.
 
-Nous nous faisons offrir des cadeaux : je reçois un marteau de forgeron, Dagozai des menottes rouillées, Panasonix, une pelotte de ficelle...
+Nous nous faisons offrir des cadeaux : je reçois un marteau de forgeron, Dagozaille des menottes rouillées, Panasonix, une pelotte de ficelle...
 
 <!-- Session 19 2024/02/07 -->
 
@@ -844,7 +844,7 @@ Une place est décorée (plutôt chargé) pour danser. Il y a de nombreuses gond
 La tradition veut que les participants aux festivités trempe une baguette dans une mixture spéciale et désigne leur prétendant ou prétendante avec.
 Les festivités sont lancées avec un premier couple, dont la femme a recouvré le matin grâce à l'amour !
 
-Alors que Dagozai est proche de la tente du prêtre de Markhall, il entend un cri humain !
+Alors que Dagozaille est proche de la tente du prêtre de Markhall, il entend un cri humain !
 Les deux castors qui étaient morts se sont réveillés et ont tué le prêtre.
 Dylak les repousse avec son pouvoir de clerc et les enferme dans une cage.
 Ils ont une petite cloche autour du cou.
@@ -869,7 +869,7 @@ Il a ainsi récupéré une petite fiole de potion de lévitation.
 La détection de la magie révèle que la flèche est magique.
 Elle a un certain pouvoir lié à un patron.
 D'apès Valentinus, assez surpris, ce serait plutôt lié à Markhall.
-Dagozai tente de prendre également du miel, mais il rate lamentablement et se fait piquer par les insectes.
+Dagozaille tente de prendre également du miel, mais il rate lamentablement et se fait piquer par les insectes.
 
 La gondole repart sur le canal !
 
@@ -892,7 +892,7 @@ On est passé à gauche et une femme endormie sur un cercueil tenait une flèche
 Il s'agissait d'un vampire et on a bien fait de ne pas la réveiller !
 Un escalier caché dans le cercueil nous a mené à l'antre d'une hydre à 4 têtes dont les couleurs correspondaient aux flèches.
 On s'y est tous mis et on a vaincu la bête, récupérant le vrai coeur de  Valentinus.
-Dagozaï a réparé la partie mécanique (récupérant le nounours !) et le clerc a refermé le corps.
+Dagozaille a réparé la partie mécanique (récupérant le nounours !) et le clerc a refermé le corps.
 
 <!-- Session 21 2024/03/18 -->
 
@@ -908,10 +908,10 @@ Il y a également une taverne Chez Arnell et Rosalie.
 Certains d'entre nous vont chez le moustachier de la ville qui est très réputé.
 C'est un des meilleurs ouvriers d'Aereth !
 Dylak se fait faire une belle moustache chevron.
-Vandascia aussi.
+Vandassia aussi.
 
 Nous nous arrêtons chez un marchand de bijoux.
-Un détection de la magie m'apprend qu'il y a plusieurs bracelets et bijoux magiques.
+Une détection de la magie m'apprend qu'il y a plusieurs bracelets et bijoux magiques.
 Une lueur plus forte émane du sac de Dylak.
 
 Sur les colliers, nous remarquons des inscriptions.
@@ -934,7 +934,7 @@ Ils courent vers le marché, une lumière violette.
 Le boucher s'effondre. En s'approchant, on ne voit qu'un tas de cendres.
 Il ne reste qu'une jambe qui se met à sautiller.
 La jambe attaque le poissonier et il tombe.
-Vandascia le décapite et nous ramène sa tête dans ses serres.
+Vandassia le décapite et nous ramène sa tête dans ses serres.
 Les villageois se barricadent !
 
 <!-- Session 22 2024/03/25 -->
@@ -943,26 +943,26 @@ Les villageois se barricadent !
 
 Devant l'auberge, deux personnes sur des chevaux disparaissent subitement après un flash violet.
 En s'approchant, on ne voit plus que des tas de cendres !
-Un détection de la magie permet de découvrir un mur invisible au niveau des tas de cendres.
-L'ours mécanique de Dagozaï a pu traverser.
+Un sort de détection de la magie permet de découvrir un mur invisible au niveau des tas de cendres.
+L'ours mécanique de Dagozaille a pu traverser.
 En utilisant, des oeufs (considérés comme vivants), nous arrivons à déterminer les limites du dôme.
 A proximité du temple, je note la présence d'une autre pierre similaire à celles autour du village.
 
-Vandascia lance un sort un sort de mur de force qui fendille une pierre.
+Vandassia lance un sort un sort de mur de force qui fendille une pierre.
 Une petite étincelle violette et il semble qu'une faille est apparue dans le mur invisible.
 Cela nous permet d'avoir une vue sur le nouveau cimetière où nous voyons des créatures humanoïdes qui semblent être sorties des tombes !
 Nous nous réfugions dans le temple de Justicia.
-Depuis le clocher du temple Dagozai lance des fleches après que Vandascia ait aspergé d'huile les zombies.
+Depuis le clocher du temple Dagozaille lance des fleches après que Vandassia ait aspergé d'huile les zombies.
 Nous tentons une sortie, les zombies sont repoussés par le pouvoir de Dylak.
 
 Direction le marché !
 Les étales ont été renversées.
 
 A la bouche d'égouts, une autre pierre.
-Vandascia la brise de nouveau avec son sort.
+Vandassia la brise de nouveau avec son sort.
 
 Au moment où nous nous approchons de la bouche des égouts, une espèce de masse informe de chair morte et de squelettes nous attaque !
-Avec les sphère de force de Vandascia, combinées à ma corde enchantée, la créature tombe au sol et nous l'achevons !
+Avec les sphère de force de Vandassia, combinées à ma corde enchantée, la créature tombe au sol et nous l'achevons !
 
 <!-- Session 23 2024/04/01 -->
 
@@ -970,7 +970,7 @@ Avec les sphère de force de Vandascia, combinées à ma corde enchantée, la cr
 
 Dylak a renvoyé les morts-vivants dans leur tombe.
 Après le combat, nous fouillons les décombres.
-Dagozaï trouve un poulet vivant et Vandascia le prend sous son aile (au sens propre et figuré).
+Dagozaille trouve un poulet vivant et Vandassia le prend sous son aile (au sens propre et figuré).
 Elle est nommée KOKOTT et devient rapidement la mascotte de notre groupe !
 
 Au matin, nous nous prenons le bateau pour Punjar.
@@ -990,7 +990,7 @@ Il pleut beaucoup sur Punjar !
 Sa maison est très cossue et elle a même un petit jardin.
 Les volets de la maison sont fermés.
 Nous frappons à la porte, mais pas de réponse.
-Vandascia part en volant. Elle me dépose de l'autre côté.
+Vandassia part en volant. Elle me dépose de l'autre côté.
 Les autres passent par dessus le mur avec une corde et un grappin.
 Dans le jardin, un arbre avec une quantité anormale de toile d'araignée qui a même piégé un corbeau.
 On rentre dans la maison par la porte du jardin qui était restée ouverte.
@@ -1008,12 +1008,12 @@ En approchant une torche, on remarque que la carapace des bêtes est très mate 
 Dylak soigne les blessés (et lui-même également).
 Nous rentrons dans la maison.
 Une porte à gauche, à droite du couloir un escalier qui monte.
-Dagozaï ouvre à gauche et ça donne sur la partie boutique de la maison.
+Dagozaille ouvre à gauche et ça donne sur la partie boutique de la maison.
 Il y a pas mal de bijoux, c'est une bijouterie, normal donc !
 Il y a des toiles d'araignée, mais pas plus de poussières que ça.
 La quantité de toiles d'araignées est inhabituelle.
 
-Dagozaï retrouve un carnet avec des notes, mais elles sont illisibles.
+Dagozaille retrouve un carnet avec des notes, mais elles sont illisibles.
 
 Dice Maiden (qui nous écoute !!) :
 
@@ -1024,10 +1024,10 @@ Dice Maiden (qui nous écoute !!) :
 C'est finalement Dylak qui réussit.
 Il y a une dizaine de jours, Boss Ogo a acheté une pierre bleue à Woolpit and Flayne à Punjar.
 En se dirigeant vers l'escalier, on trouve un corps allongé.
-Il est recouvert de toiles d'araignées et aussi de bandelettes.
+Il est recouvert de toiles d'araignée et aussi de bandelettes.
 Il a aussi une bête dans son cou.
 C'est l'apprenti de Boss Ogo, par contre, il est toujours vivant.
-Nous le sortons dans la jardin. Avec Dagozaï, nous tentons d'enlever la bête, mais sans succés.
+Nous le sortons dans le jardin. Avec Dagozaille, nous tentons d'enlever la bête, mais sans succés.
 Finalement, c'est Ranok qui l'éclate avec son marteau.
 
 Joriss est réanimé par Dylak.
@@ -1088,14 +1088,14 @@ La pierre bleue a été obtenue en échange de la vente de 20 toges rouges aux a
 Nous leur proposons de leur vendre la pierre : ils nous en offrent 500 Po.
 Dylak demande 600 Po, le petit vendeur nous propose de rajouter les morceaux de pierre bleue.
 
-En bonus, Vandascia récupère des bandages de Onwa Marama.
+En bonus, Vandassia récupère des bandages de Onwa Marama.
 
 ## Coup Monté contre Emirikol
 
 En ressortant de la boutique, nous voyons une personne immolée qui court dans la rue. Un singe avec des ailes dans le dos lui court après. Deux autres le suivent en volant.
 J'invoque une corde de 30 mètres et entrave un des singes avec !
-Panasonix, monté sur les épaules de Vandascia attaque un de ceux en vol.
-Celui au sol, tombe sous les coups de Rannok.
+Panasonix, monté sur les épaules de Vandassia attaque un de ceux en vol.
+Celui au sol, tombe sous les coups de Ranok.
 Les deux en vol finissent par tomber sous nos coups.
 Après le combat, Dylak voit au loin un homme en robe noire sur un cheval qui repart. Il semble qu'il était en train de lancer un sort et regardait dans notre direction.
 
@@ -1125,11 +1125,11 @@ Ils étaient probablement sous une influence ou un contrôle magique.
 
 Je récupère un des sabres qui s'utilise comme une épée courte.
 
-Avant de passer, je repasse dans le quartier du Temple voir Moon Dweb du temple de Schul.
-Il a quelques informations sur Sezrekhan. Il connaitrait un endroit dans lequel aurait vécu Sezrekhan.
+Avant de passer, je repasse dans le quartier du Temple voir Moon Dweb du temple de Belle.
+Il a quelques informations sur Sezrekan. Il connaitrait un endroit dans lequel aurait vécu Sezrekan.
 C'est cependant un endroit tabou pour eux, situé sous les égouts, au sud Ouest de Punjar.
 Un objet de leur culte a disparu.
-Un adepte de Sezrekhan leur a dérobé un objet de mesure du temps précieux pour le culte.
+Un adepte de Sezrekan leur a dérobé un objet de mesure du temps précieux pour le culte.
 
 Après nous avoir offert un coup à la taverne, Moon Dweb nous montre la plaque d'égouts menant au lieu où serait l'objet dérobé au culte.
 
@@ -1192,7 +1192,7 @@ La pièce suivante est décorée de bois.
 Des crânes de différentes tailles sont empilés sur des étagères de bibliothèques.
 Il y a plusieurs centaines de crânes.
 
-Dagozai décrypte des mots inscrits sur les cranes : Journal intime, tortures, sacrifices humains, propriétés des pierres, plantes carnivores, poisons, .
+Dagozaille décrypte des mots inscrits sur les cranes : Journal intime, tortures, sacrifices humains, propriétés des pierres, plantes carnivores, poisons, .
 Les crânes sont a priori tous enchantés.
 En touchant les crânes, des visions assaillent Ranok, mais ils ne les comprend pas.
 
@@ -1259,10 +1259,10 @@ La présence des gorilles volants les a inquiétés.
 
 ### Session 29 ; 2024/07/15
 
-Le capitaine Rakh va raconter nos exploits au roi.
+Le capitaine Rhak va raconter nos exploits au roi.
 Nous serons reçus le lendemain en fin d'après-midi.
 
-Dans l'attente, nous allons aller dans les égouts pour accomplir la mission de Shul.
+Dans l'attente, nous allons aller dans les égouts pour accomplir la mission de Schul.
 En face de l'entrée des égouts, un autel dédié à la Carnifex, une déesse dédiée aux miséreux, aux malades et aux pauvres.
 
 Nous descendons par une grille.
@@ -1275,7 +1275,7 @@ C'est a priori écrit dans la langue du Chaos.
 Dagozaille déchiffre que c'est un sceau. Ca délimite une zone.
 Au milieu, une espèce de pentagramme qui est inachevé.
 Le sablier est au milieu, mais il y a un trou.
-Dans le fond, Vandascia voit des jambes (un bout de cadavre).
+Dans le fond, Vandassia voit des jambes (un bout de cadavre).
 
 Nous descendons avec une corde.
 Une personne a été étranglée.
@@ -1296,15 +1296,15 @@ Nous revenons vers le pentagramme.
 Lorsque le dernier passe (Ranok), il tombe.
 La corde a été sectionnée.
 Avec une flêche enflammée lancée par Panasonix, il touche une créature invisible.
-Arrivée en bas, Rannok l'achève.
-C'est un espèce de démon, le même que celui du grimmoire. Il était retenu dans les lieux grâce au pentagramme (et son sable).
+Arrivée en bas, Ranok l'achève.
+C'est un espèce de démon, le même que celui du grimoire. Il était retenu dans les lieux grâce au pentagramme (et son sable).
 
 <!-- Session 30 2024/09/09 -->
 
 ### Session 30 ; 2024/09/09
 
 Nous ressortons avec le matériel d'alchimie, le grimmoire de Sezrekan.
-Vandascia porte Joe le Champignhomme dans ses griffes. Il se déplace lentement.
+Vandassia porte Joe le Champignhomme dans ses griffes. Il se déplace lentement.
 
 Nous ramenons le sablier à Moon Dweb, qui est malgré tout déçu qu'il soit brisé.
 Cependant, il nous offre deux objets :
@@ -1334,23 +1334,23 @@ Elles n'y ont plus accès. Le lieu est a priori corrompu. Des forces du Chaos so
 Avec un fil qu'elles relient à chacun de nos doigts, elles tissent une espèce de cocon autour de nous.
 Un anneau nous protège des forces du Chaos. Elles nous mentionnent aussi les chiffres 7 et 3...
 Nous nous retrouvons au sommet d'une montagne avec des très forts vents.
-Vandascia n'arrive pas à s'envoler.
+Vandassia n'arrive pas à s'envoler.
 
-Un escalier gravé de runes. Grâce à son ingéniosité, Rannok découvre qu'il y a un ordre particulier dans les marches (3, 9, 12, 15).
-Rannok et Vandascia s'avancent dessus.
+Un escalier gravé de runes. Grâce à son ingéniosité, Ranok découvre qu'il y a un ordre particulier dans les marches (3, 9, 12, 15).
+Ranok et Vandassia s'avancent dessus.
 Au niveau de la 21ème marche, ils découvrent une cache avec une épée à deux mains dedans. Elle est a priori magique. Tranchefable, Epée de la Loi, (Epée +2).
 
 Je déclenche un piège en tombant sur une des marches par maladresse et mon anneau de protection contre le chaos se brise.
 
-A l'arrivée sur la plateforme, des peaux et visages sont comme clouées sur le portail.
-Vandascia fait traverser Panasonix puis Rannok.
+À l'arrivée sur la plateforme, des peaux et visages sont comme cloués sur le portail.
+Vandassia fait traverser Panasonix puis Ranok.
 
 <!-- Session 30 2024/09/18 -->
 
 ### Session 31 ; 2024/09/18
 
 Derrière la porte d'entrée du temple, les autres tendent une embuscade à un garde avec un chien à deux têtes !
-Grâce à leur invisibilité, ils les prennnent par surprise et s'en débarrassent sans souci. Le chien est décapité.
+Grâce à leur invisibilité, ils les prennent par surprise et s'en débarrassent sans souci. Le chien est décapité.
 
 Dagozaille ouvre la porte et nous les rejoignons.
 Je récupère une toge avec un symbole d'un patron : un rond noir dans un rond blanc.
@@ -1365,16 +1365,16 @@ l’aide qu’il procure a souvent pour contrepartie d’accroître sa dominatio
 Nous rentrons dans une grange. Dylak trouve un tabac exotique qui fournit un bonus aux incantations magiques (+1 pendant une heure).
 Direction le temple.
 
-Vandascia part en éclaireur en volant.
+Vandassia part en éclaireur en volant.
 Dans la nef, un prêtre semble être en communication avec Obitu-que via des flammes magiques.
 Les statues des Moires ont été profanées par des symboles et marques de Obitu-que.
 
-Grâce à son invibilité aux forces du Chaos, Dagozaille attaque sournoisement un de deux prêtres.
+Grâce à son invisibilité aux forces du Chaos, Dagozaille attaque sournoisement un de deux prêtres.
 Le prêtre devant les flammes crie alors "Tremblez devant le pouvoir de Glipkerio !".
-Il est décapité par Rannok !
+Il est décapité par Ranok !
 
 Sur un des prêtres, un talisman qui est une Amulette Chronomantique (permet de relancer un jet d'incantation).
-Sur une table, des parchemins avec des Sorts d'Obit-uqe. Nous les laissons.
+Sur une table, des parchemins avec des Sorts d'Obitu-que. Nous les laissons.
 
 Dagozaille commence à nettoyer les statues souillées.
 Aussitôt, elles rétrécissent et ce sont alors les Moires qui apparaissent.
@@ -1409,7 +1409,7 @@ Direction le manoir. L'orage menace et le temps est couvert !
 Les batisses sont passablement en ruines.
 C'est à se demander si le Chambellan de Punjar ne nous a pas fait un cadeau empoisonné...
 
-Vandascia va faire une reconnaissance en volant.
+Vandassia va faire une reconnaissance en volant.
 Nous approchons du manoir du côté du pont levis qui franchit les douves.
 
 En approchant, nous apercevons un vieux bonhomme à l'intérieur de la Barbacane.
@@ -1421,13 +1421,13 @@ Il nous invite à le suivre dans la batisse. Le grand hall est en sale état.
 Portes à droite et à gauche, ainsi que des escaliers qui montent à l'étage.
 Des tapisseries sont suspendues sous les escaliers.
 
-En traversant le pont-levis, Vandascia et Dagozaille remarquent des objets brillants sous le pont.
-Vandascia ramène un morceau d'armure.
+En traversant le pont-levis, Vandassia et Dagozaille remarquent des objets brillants sous le pont.
+Vandassia ramène un morceau d'armure.
 Il y a des corps sous le pont.
 Le vieux Senerik nous explique que ce sont les soldats de Dame Ursula.
 C'est de l'histoire ancienne a priori...
 
-En cherchant bien, Vandascia trouve un coffre rouillé sous l'eau.
+En cherchant bien, Vandassia trouve un coffre rouillé sous l'eau.
 Dagozaille l'ouvre. A l'intérieur, un masque en terre en forme de tête de lion.
 Quand Senerik l'aperçoit, il se souvient que celui-ci appartenait à Dame Ursula.
 
@@ -1437,7 +1437,7 @@ Senerik nous abandonne pour aller préparer le bal.
 Nous allons dans la chapelle.
 Un tapis devant l'autel qui est d'une étrange pierre noire.
 
-Avec le masque sur la tête, Vandascia détecte une lueur rouge dans le mur. Sans le masque, on ne la voit pas.
+Avec le masque sur la tête, Vandassia détecte une lueur rouge dans le mur. Sans le masque, on ne la voit pas.
 
 Dylak réussit à lancer un détection de la magie (ce qui n'est pas le cas de Pultum).
 Une aura magique au niveau du mur. Avec une dague, nous ouvrons une cache. Derrière la pierre, une main en cire.
@@ -1446,7 +1446,7 @@ C'est une main de gloire, un objet utile pour repousser les créatures impies.
 Une autre aura magique à l'étage, elle provient d'un missel.
 Dylak entend des chants en le feuilletant. Il réussit à refermer ce livret, mais se met à saigner du nez.
 
-Vandascia soulève le tapis devant l'autel. Dessous, une trappe avec un anneau.
+Vandassia soulève le tapis devant l'autel. Dessous, une trappe avec un anneau.
 En la soulevant, un escalier descend...
 
 ### Session 33 ; 2024/10/14
@@ -1457,9 +1457,9 @@ Dylak lance un sort de protection contre le mal. Son symbole sacré devient éva
 
 Dans le fond du trou, un objet qui brille. Avec l'aide de ma fourche, nous creusons et ressortons une grosse pierre à facettes.
 C'est plus sombre que du diamant.
-Grâce à sa grande perspicacité, Vandascia comprend que le trou a été creusé par la pierre elle-même...
+Grâce à sa grande perspicacité, Vandassia comprend que le trou a été creusé par la pierre elle-même...
 
-Vandascia ramasse la pierre avec ses serres. Une des faces de la pierre a disparu.
+Vandassia ramasse la pierre avec ses serres. Une des faces de la pierre a disparu.
 
 Nous remontons dans la chapelle à la recherche de Senerik.
 
@@ -1469,16 +1469,16 @@ Sur la main d'un des ossements, Dylak trouve un anneau.
 Il lance un sort de détection de la magie et réussit magistralement.
 L'anneau est lié à une des facettes de la pierre trouvée dans la crypte.
 
-Vandascia se dirige vers le jardinet. Huit statues.
+Vandassia se dirige vers le jardinet. Huit statues.
 
 Dans la salle de réception, la table a été dressée.
-Vandascia se dirige en volant vers un majestueux fauteuil.
+Vandassia se dirige en volant vers un majestueux fauteuil.
 Elle nous alerte d'un péril imminent.
 
 Soudain, la cloche se met à sonner.
-Vandascia va voir. C'est Senerik qui est pendu, il est mort !
+Vandassia va voir. C'est Senerik qui est pendu, il est mort !
 La cloche a repris sa place dans le clocher...
-Dylak se precipite et in extremis lui sauve la vie grace à une imposition des mains (malgré une série de défaveurs).
+Dylak se précipite et in extremis lui sauve la vie grace à une imposition des mains (malgré une série de défaveurs).
 
 Senerik était en train de brosser les tapisseries dans l'entrée et il s'est retrouvé pendu.
 
@@ -1518,13 +1518,55 @@ Une autre personne arrive par la cheminée, c'est une femme avec une belle robe 
 Dylak tente de la saluer par un baise main, mais elle l'embrasse sur la bouche et il sent affaibli (la créature lui a absorbé un sort).
 Le combat s'engage.
 Mammon ne va pas être content ! nous dit Kroc.
-Rannok, d'un coup de marteau éclate la tête de Kroc.
+Ranok, d'un coup de marteau éclate la tête de Kroc.
 
 Alors que la femme-chèvre est en train de souffrir sous le symbole sacré de Dylak, elle prononce par trois fois le nom de "Mammon".
 Il arrive alors par la cheminée !
 C'est un grand démon cornu à la peau noire.
-La succube succombe sous les coups de Vandascia.
-Le démon invoque un sort d'effroi : seuls Dagozaille et Vandascia ne fuient pas.
+La succube succombe sous les coups de Vandassia.
+Le démon invoque un sort d'effroi : seuls Dagozaille et Vandassia ne fuient pas.
 Dagozaille utilise son parchemin de Lame d'Athropos pour rendre son arme magique afin d'être efficace contre le démon.
 Après avoir repris nos esprits, nous revenons au combat !
 Le démon tombe au combat : Dylak avec son symbole sacré de Choranus lui porte le coup fatal.
+
+### Session 35 ; 2026/01/05
+
+Les ossements trouvés dans la chapelle sont ceux des anciens propriétaires et de leur héritiers.
+La chapelle a été désacralisée par Mammon le démon.
+Elle était initialement dédiée à Choranus.
+
+On passe la nuit dans notre manoir.
+
+## Cats of Rahtlü
+
+Au matin, on toque à la porte. C'est un artiste roux qui nous propose de faire le portrait de notre troupe.
+C'est au village de Rathlu, non loin de Bourbeville.
+A l'ouest vers Portnell, Punjar est à deux heures de cheval.
+
+La famille Liis possédait un chalet dans les Tremblemonts.
+C'est à une semaine de voyage à cheval, mais nous irons plus tard.
+
+Pultum reste 
+
+Le lendemain, nous partons pour Rathlu à cheval.
+
+Jean-Jacques le cordonnier nous accueille dans sa boutique.
+Dagozaille lui achète une paire de souliers jaunes.
+Le peintre Rackam est a priori parti pour affaires
+
+On discute avec un autre habitant du village.
+Les habitants se cachent chez eux à la tombée de la nuit par peur des chats.
+
+Dagozaille ouvre la porte (en la crochetant) de l'atelier de Rackam.
+Nous y rentrons et fouillons les lieux.
+Rien de notable à part une facture de bougies parfumées, achetées la veille à Punjar.
+Le destinataire de la commande est le cordonnier, mais les bougies ne sont pas là.
+
+Nous attendons la nuit.
+
+Des grattements se font entendre sur la porte.
+Dylak ouvre la porte et un chat dépose des mocassins. Ranok le suit et se retrouve à les suivre également, contrôlé par une force invisible.
+Je résiste à la tentation d'enfiler les mocassins, mais comme je résiste, les chats m'empêchent d'avancer.
+Ils me griffent, mais avec mon sabre, j'en décapite probablement deux d'un coup de sabre circulaire (un critique).
+
+### Session 36 ; 2026/01/12
