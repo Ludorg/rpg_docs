@@ -1540,17 +1540,20 @@ On passe la nuit dans notre manoir.
 ## Cats of Rahtlü
 
 Au matin, on toque à la porte. C'est un artiste roux qui nous propose de faire le portrait de notre troupe.
+Il s'appelle Rackam.
 C'est au village de Rathlu, non loin de Bourbeville.
 A l'ouest vers Portnell, Punjar est à deux heures de cheval.
 
 La famille Liis possédait un chalet dans les Tremblemonts.
 C'est à une semaine de voyage à cheval, mais nous irons plus tard.
 
-Pultum reste 
+Dans la journée, Pultum étudie le grimoire de Sezrekan.
+Vandassia en profite pour apprendre le sort d'Ostafar, après que Dylak lui ait soigné la voix.
+Elle n'est plus muette !
 
 Le lendemain, nous partons pour Rathlu à cheval.
 
-Jean-Jacques le cordonnier nous accueille dans sa boutique.
+Jean-Jacques, le cordonnier nous accueille dans sa boutique.
 Dagozaille lui achète une paire de souliers jaunes.
 Le peintre Rackam est a priori parti pour affaires
 
@@ -1570,3 +1573,5 @@ Je résiste à la tentation d'enfiler les mocassins, mais comme je résiste, les
 Ils me griffent, mais avec mon sabre, j'en décapite probablement deux d'un coup de sabre circulaire (un critique).
 
 ### Session 36 ; 2026/01/12
+
+__A SUIVRE...__
