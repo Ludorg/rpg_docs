@@ -115,7 +115,7 @@ En traversant le couloir des zombies, nous arrivons dans la terre (probablement 
 
 ### Session 3 ; 2023/07/09
 
-On est quatre : moi (Pultum), Dagozai, Dylak et Ranok dans de la terre (quelques centimètres), dans une forêt.
+On est quatre : moi (Pultum), Dagozaille, Dylak et Ranok dans de la terre (quelques centimètres), dans une forêt.
 Nous entendons des bruits de corbeaux. C'est assez lugubre.
 
 De la forêt sort un hobbit bouru ! Panasonix, est son nom.
@@ -613,7 +613,7 @@ Des bocaux avec des organes humains sur les étagères.
 L'escalier débouche sur une caverne avec un ponton de bois sur un lac souterrain.
 Nous entendons les bruits d'une barque qui approche.
 Dessus, une créature squelettique tend la main.
-Dagozai, Hasbrutisch et moi lui donnons une pièce.
+Dagozaille, Hasbrutisch et moi lui donnons une pièce.
 Il nous laisse passer.
 Vandassia lui donne une plume, mais il ne la laisse pas passer.
 Finalement, après que tout le monde lui ait donné une pièce, la traversée commence.
@@ -994,7 +994,7 @@ Vandassia part en volant. Elle me dépose de l'autre côté.
 Les autres passent par dessus le mur avec une corde et un grappin.
 Dans le jardin, un arbre avec une quantité anormale de toile d'araignée qui a même piégé un corbeau.
 On rentre dans la maison par la porte du jardin qui était restée ouverte.
-Quand Dagozai, Ranok et Dylak rentrent dans la maison, des espèces d'insectes géants les attaquent et tombent du perron.
+Quand Dagozaille, Ranok et Dylak rentrent dans la maison, des espèces d'insectes géants les attaquent et tombent du perron.
 Ce sont des espèces de tiques géantes.
 Nous les combattons, mais elles nous mordent et certains d'entre nous souffrent de quelques blessures.
 Elles s'accrochent et sont plutôt coriaces !
