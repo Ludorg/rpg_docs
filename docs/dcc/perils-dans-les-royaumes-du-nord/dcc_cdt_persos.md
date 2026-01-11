@@ -26,10 +26,10 @@ Erohye reçoit alors 4 PX, car (20 / (4 + 1)). -->
 | Joueur    | Personnage   | Métier (niveau 0)     | Origines                                                       | Classe          | Niveau | PX                       |
 |-----------|--------------|-----------------------|----------------------------------------------------------------|-----------------|--------|--------------------------|
 | Evan      | Erohye       | Elfe Avocat           | Caerwynd                                                       | Elfe            | 2      | 55 <!-- 4+10+4+4+3+4+10+12+2+2  --> |
-| Evan      | Vala         | Trappeur              | Caerwynd                                                       | Voleur          | 1      | 52 <!-- 4+10+4+2+3+8+05+06+4+6  --> |
+| Evan      | Vala         | Trappeur              | Caerwynd                                                       | Voleur          | 2      | 52 <!-- 4+10+4+2+3+8+05+06+4+6  --> |
 | Thomas    | Britanice    | Fromagère             | Caerwynd                                                       | Clerc (Pélagia) | 2      | 66 <!-- 4+10+4+4+6+8+10+12+4+6  --> |
 | Thomas    | Yttruyakin   | Apprentie magiciennce | Strathford ; Libérée dans la Forteresse des Seigneurs du Chaos | Mage            | 2      | 56 <!-- 4+10+4+2+6+8+10+12+2+2  --> |
-| Sacha     | Willy-Claude | Vidangeur de Latrines | Strathford                                                     | Guerrier        | 1      | 55 <!-- 0+10+2+4+3+4+10+12+4+6  --> |
+| Sacha     | Willy-Claude | Vidangeur de Latrines | Strathford                                                     | Guerrier        | 2      | 55 <!-- 0+10+2+4+3+4+10+12+4+6  --> |
 | Sacha     | Shul         | Serrurier             | Strathford                                                     | ??              | 1      | 37 <!-- 0+10+2+2+3+4+05+06+2+3  --> |
 | Sacha     | Dollex       | Collecteur d'Impots   | Strathford ; Libéré dans la Forteresse des Seigneurs du Chaos  | ??              | 1      | 37 <!-- 0+10+2+2+3+4+05+06+2+3  --> |
 | Eoghan    | Toska        | Garde de Caravane     | Strathford                                                     | Guerrier        | 1      | 48 <!-- 0+00+0+4+6+8+10+12+2+6  --> |
