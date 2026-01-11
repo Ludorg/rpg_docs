@@ -38,7 +38,7 @@ Erohye reçoit alors 4 PX, car (20 / (4 + 1)). -->
 | Félix     | Enoriel      | Elfe Forestier        | Hirot                                                          | Elfe            | 1      | 31 <!-- 0+00+0+4+3+8+05+06+2+3  --> |
 | Augustin  | Artus Stinc  | Coupeur de bourse     | Hirot                                                          | Voleur          | 1      | 42 <!-- 0+10+0+0+0+0+10+12+4+6  --> |
 | Augustin  | Horos        | Elfe Sage             | Hirot                                                          | Elfe            | 1      | 26 <!-- 0+10+0+0+0+0+05+06+2+3  --> |
-| Augustin  | Theldur      | Fermier               | ?                                                              | Clerc (Crom)    | 1      | 21 <!-- 0+21+0+0+0+0+00+00+0+0  --> |
+| Augustin  | Theldur      | Fermier               | Frosteye Mountains                                             | Clerc (Crom)    | 1      | 21 <!-- 0+21+0+0+0+0+00+00+0+0  --> |
 
 ### Table des Points d'Expérience
 
