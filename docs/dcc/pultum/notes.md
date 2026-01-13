@@ -1574,4 +1574,29 @@ Ils me griffent, mais avec mon sabre, j'en décapite probablement deux d'un coup
 
 ### Session 36 ; 2026/01/12
 
-__A SUIVRE...__
+Dagozaille monte sur un des toits pour observer la situation.
+Ranok et Dylak, toujours sous l'emprise des chausses, avancent vers des ruines à l'éxtérieur du village.
+Vandassia rentre dans la maison du cordonnier par la cheminée. Elle y trouve des statuettes de chats en bois.
+
+Les deux soumis aux chaussures magiques se dirigent vers les ruines.
+En arrivant, nous découvrons le cordonnier dans une robe de magicien.
+Il a un bâton qui émet de la lumière.
+Ranok et Dylak se dirigent vers lui, contrôlés par les chaussures. Ils s'allongent sur des stèles.
+
+Je charge le magicien avec mon sabre. Dagozaille et Vandassia me rejoignent dans le combat.
+Vandassia utilise son sort de Mur de Force pour conjurer une sphère de force et achever le magicien.
+
+En soulevant une cloche en métal, nous découvrons un puits avec un charnier.
+Le bruit qu'elle fait en tintant réveille Rannok et Rackam de leur transe.
+
+Une ombre semble vouloir émerger du charnier.
+Dagozaille jette le corps du magicien dans le charnier, l'ombre retourne dans le puits.
+D'après Vandassia, la magie de Shadria est à l'origine des troubles dans le village.
+
+Nous retournons dans la maison du cordonnier pour la fouiller.
+Des peaux humaines ont été préparées et été tannées pour des rituels dédiés à la divinité Shadria.
+Rannok et Dagozaille trouvent des pièces d'or cachées.
+
+Baton (à réparer) : 1d4+5 (après l'avoir lié) / +1 aux jets de sauvegarde. _Bâton à identifier_
+
+**A SUIVRE...**
