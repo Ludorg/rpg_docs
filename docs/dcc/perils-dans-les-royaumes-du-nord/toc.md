@@ -16,6 +16,7 @@ Ci-après, mes notes, résumés et documents pour les joueurs sur les sessions p
 - [Session 10 : Disparitions à la Tour de Draupnir](./dcc_cdt_2025_11_14) - La Sorcière Inaltérable (L'Avènement du Chaos)
 - [Session 11 : Démon et Descendance au Siège d’Ivrian](./dcc_cdt_2025_11_28) - La Sorcière Inaltérable (L'Avènement du Chaos)
 - [Session 12 : Troubles durant le Festival des Feux Sacrés du Solstice d'Hiver](./dcc_cdt_2025_12_12) - Le Retour du dieu ancestral
+- [Session 13 : Exploration de ruines hyperboréennes sur un iceberg volant](./dcc_cdt_2026_01_09) - Le Retour du dieu ancestral
 
 ## Accessoires et documents utiles aux joueurs
 
