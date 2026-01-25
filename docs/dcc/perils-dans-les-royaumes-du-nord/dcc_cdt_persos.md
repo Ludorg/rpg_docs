@@ -22,23 +22,24 @@ Erohye reçoit alors 4 PX, car (20 / (4 + 1)). -->
 <!-- La Sorcière Inaltérable Session 11 = 12 PX -->
 <!-- Le Retour du dieu ancestral / Session 12 = 4 PX -->
 <!-- Le Retour du dieu ancestral / Session 13 = 6 PX -->
+<!-- Terror in the Tree / Session 14 = 6 PX -->
 
 | Joueur    | Personnage   | Métier (niveau 0)     | Origines                                                       | Classe          | Niveau | PX                       |
 |-----------|--------------|-----------------------|----------------------------------------------------------------|-----------------|--------|--------------------------|
-| Evan      | Erohye       | Elfe Avocat           | Caerwynd                                                       | Elfe            | 2      | 55 <!-- 4+10+4+4+3+4+10+12+2+2  --> |
-| Evan      | Vala         | Trappeur              | Caerwynd                                                       | Voleur          | 2      | 52 <!-- 4+10+4+2+3+8+05+06+4+6  --> |
-| Thomas    | Britanice    | Fromagère             | Caerwynd                                                       | Clerc (Pélagia) | 2      | 66 <!-- 4+10+4+4+6+8+10+12+4+6  --> |
-| Thomas    | Yttruyakin   | Apprentie magiciennce | Strathford ; Libérée dans la Forteresse des Seigneurs du Chaos | Mage            | 2      | 56 <!-- 4+10+4+2+6+8+10+12+2+2  --> |
-| Sacha     | Willy-Claude | Vidangeur de Latrines | Strathford                                                     | Guerrier        | 2      | 55 <!-- 0+10+2+4+3+4+10+12+4+6  --> |
-| Sacha     | Shul         | Serrurier             | Strathford                                                     | ??              | 1      | 37 <!-- 0+10+2+2+3+4+05+06+2+3  --> |
-| Sacha     | Dollex       | Collecteur d'Impots   | Strathford ; Libéré dans la Forteresse des Seigneurs du Chaos  | ??              | 1      | 37 <!-- 0+10+2+2+3+4+05+06+2+3  --> |
-| Eoghan    | Toska        | Garde de Caravane     | Strathford                                                     | Guerrier        | 1      | 48 <!-- 0+00+0+4+6+8+10+12+2+6  --> |
-| Eoghan    | Ciarrior     | Nain Mineur           | Hirot                                                          | Nain            | 1      | 32 <!-- 0+00+0+4+6+4+05+06+2+3 (+2) --> |
-| Félix     | Talion       | Coupeur de bourse     | Hirot                                                          | Voleur          | 1      | 47 <!-- 0+00+0+4+3+8+10+12+4+6  --> |
-| Félix     | Enoriel      | Elfe Forestier        | Hirot                                                          | Elfe            | 1      | 31 <!-- 0+00+0+4+3+8+05+06+2+3  --> |
-| Augustin  | Artus Stinc  | Coupeur de bourse     | Hirot                                                          | Voleur          | 1      | 42 <!-- 0+10+0+0+0+0+10+12+4+6  --> |
-| Augustin  | Horos        | Elfe Sage             | Hirot                                                          | Elfe            | 1      | 26 <!-- 0+10+0+0+0+0+05+06+2+3  --> |
-| Augustin  | Theldur      | Fermier               | Frosteye Mountains                                             | Clerc (Crom)    | 1      | 21 <!-- 0+21+0+0+0+0+00+00+0+0  --> |
+| Evan      | Erohye       | Elfe Avocat           | Caerwynd                                                       | Elfe            | 2      | 57 <!-- 4+10+4+4+3+4+10+12+2+2+2  --> |
+| Evan      | Vala         | Trappeur              | Caerwynd                                                       | Voleur          | 2      | 58 <!-- 4+10+4+2+3+8+05+06+4+6+6  --> |
+| Thomas    | Britanice    | Fromagère             | Caerwynd                                                       | Clerc (Pélagia) | 2      | 68 <!-- 4+10+4+4+6+8+10+12+4+6+2  --> |
+| Thomas    | Yttruyakin   | Apprentie magiciennce | Strathford ; Libérée dans la Forteresse des Seigneurs du Chaos | Mage            | 2      | 62 <!-- 4+10+4+2+6+8+10+12+2+2+6  --> |
+| Sacha     | Willy-Claude | Vidangeur de Latrines | Strathford                                                     | Guerrier        | 2      | 57 <!-- 0+10+2+4+3+4+10+12+4+6+2  --> |
+| Sacha     | Shul         | Serrurier             | Strathford                                                     | ??              | 1      | 39 <!-- 0+10+2+2+3+4+05+06+2+3+2  --> |
+| Sacha     | Dollex       | Collecteur d'Impots   | Strathford ; Libéré dans la Forteresse des Seigneurs du Chaos  | ??              | 1      | 39 <!-- 0+10+2+2+3+4+05+06+2+3+2  --> |
+| Eoghan    | Toska        | Garde de Caravane     | Strathford                                                     | Guerrier        | 2      | 54 <!-- 0+00+0+4+6+8+10+12+2+6+6  --> |
+| Eoghan    | Ciarrior     | Nain Mineur           | Hirot                                                          | Nain            | 1      | 35 <!-- 0+00+0+4+6+4+05+06+2+3+3 (+2) --> |
+| Félix     | Talion       | Coupeur de bourse     | Hirot                                                          | Voleur          | 2      | 53 <!-- 0+00+0+4+3+8+10+12+4+6+6  --> |
+| Félix     | Enoriel      | Elfe Forestier        | Hirot                                                          | Elfe            | 1      | 34 <!-- 0+00+0+4+3+8+05+06+2+3+3  --> |
+| Augustin  | Artus Stinc  | Coupeur de bourse     | Hirot                                                          | Voleur          | 1      | 45 <!-- 0+10+0+0+0+0+10+12+4+6+3  --> |
+| Augustin  | Horos        | Elfe Sage             | Hirot                                                          | Elfe            | 1      | 29 <!-- 0+10+0+0+0+0+05+06+2+3+3  --> |
+| Augustin  | Theldur      | Fermier               | Frosteye Mountains                                             | Clerc (Crom)    | 1      | 24 <!-- 0+21+0+0+0+0+00+00+0+0+3  --> |
 
 ### Table des Points d'Expérience
 
