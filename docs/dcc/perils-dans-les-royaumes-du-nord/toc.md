@@ -9,14 +9,15 @@ Ci-après, mes notes, résumés et documents pour les joueurs sur les sessions p
 - [Session 3 : Les Disparus de Caerwynd](./dcc_cdt_2025_04_18) - Navigateurs sur une mer sans étoiles
 - [Session 4 : A l'assaut de la Forteresse des Seigneurs du Chaos](./dcc_cdt_2025_05_02) - Navigateurs sur une mer sans étoiles
 - [Session 5 : Sous la Forteresse des Seigneurs du Chaos](./dcc_cdt_2025_05_16) - Navigateurs sur une mer sans étoiles
-- [Session 6 : A l'aventure vers le village de Hirot](./dcc_cdt_2025_06_13) - Le Fléau des Rois barbares
-- [Session 7 : Au village de Hirot](./dcc_cdt_2025_09_19) - Le Fléau des Rois barbares
-- [Session 8 : La Tombe de l’Ulfheonar](./dcc_cdt_2025_10_03) - Le Fléau des Rois barbares
-- [Session 9 : La Fin du Fléau des Rois barbares](./dcc_cdt_2025_10_17) - Le Fléau des Rois barbares
+- [Session 6 : A l'aventure vers le village de Hirot](./dcc_cdt_2025_06_13) - Le Fléau des Rois Barbares
+- [Session 7 : Au village de Hirot](./dcc_cdt_2025_09_19) - Le Fléau des Rois Barbares
+- [Session 8 : La Tombe de l’Ulfheonar](./dcc_cdt_2025_10_03) - Le Fléau des Rois Barbares
+- [Session 9 : La Fin du Fléau des Rois Barbares](./dcc_cdt_2025_10_17) - Le Fléau des Rois Barbares
 - [Session 10 : Disparitions à la Tour de Draupnir](./dcc_cdt_2025_11_14) - La Sorcière Inaltérable (L'Avènement du Chaos)
 - [Session 11 : Démon et Descendance au Siège d’Ivrian](./dcc_cdt_2025_11_28) - La Sorcière Inaltérable (L'Avènement du Chaos)
 - [Session 12 : Troubles durant le Festival des Feux Sacrés du Solstice d'Hiver](./dcc_cdt_2025_12_12) - Le Retour du dieu ancestral
 - [Session 13 : Exploration de ruines hyperboréennes sur un iceberg volant](./dcc_cdt_2026_01_09) - Le Retour du dieu ancestral
+- [Session 14 : Terreur dans l'Arbre](./dcc_cdt_2026_01_23)
 
 ## Accessoires et documents utiles aux joueurs
 
