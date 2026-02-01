@@ -27,11 +27,17 @@ Un aperçu rapide des sessions organisées par Les Gongfarmers de l'Anjou, class
 
 [<img alt="visuel-2026/01/30" title ="2026/01/30" src="./img/2026-01-30_frozen-in-time_affiche_v1-red.jpg" class="center" width="20%">](./img/2026-01-30_frozen-in-time_affiche_v1-red.jpg) 
 
-- Lieu : Ludothèque de Belle-Beille
-- Juge : Ludovic/Ludorg
-- Scénario : Dans les Glaces du Temps (Frozen in Time)
-- Joueurs : 6
-
+- Lieu : Ludothèque de Belle-Beille (avec les Conjurés du Temporel)
+- 2 sessions :
+    - Session 1
+        - Juge : Augustin
+        - Scénario : La porte des Brumes
+        - Joueurs : 5
+    - Session 2
+        - Juge : Ludovic/Ludorg
+        - Scénario : Dans les Glaces du Temps (Frozen in Time)
+        - Joueurs : 6
+    
 ### 2025/10/04 : L'Hypercube de Myt
 
 [<img alt="visuel-2025/10/04" title ="2025/10/04" src="./img/2025-10-04_2-jours-en-jeux_affiche_n-b_v0.1-1-red.jpg" class="center" width="20%">](./img/2025-10-04_2-jours-en-jeux_affiche_n-b_v0.1-1-red.jpg) 
