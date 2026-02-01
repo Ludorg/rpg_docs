@@ -23,7 +23,7 @@ Un aperçu rapide des sessions organisées par Les Gongfarmers de l'Anjou, class
 - Joueurs : J -->
 
 
-### 2026/01/30 : Dans les Glaces du Temps
+### 2026/01/30 : Soirée Jeu de Rôle à Belle-Beille
 
 [<img alt="visuel-2026/01/30" title ="2026/01/30" src="./img/2026-01-30_frozen-in-time_affiche_v1-red.jpg" class="center" width="20%">](./img/2026-01-30_frozen-in-time_affiche_v1-red.jpg) 
 
