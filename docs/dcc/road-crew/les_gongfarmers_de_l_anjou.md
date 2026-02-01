@@ -57,7 +57,7 @@ Un aperçu rapide des sessions organisées par Les Gongfarmers de l'Anjou, class
 
 - Lieu : LudoTrotter avec Id20
 - Juge : Augustin et Ludovic/Ludorg
-- Scénario : Le Portail sous les Étoiles (Dungeon Crawl Classics #0/The Portal Under the Stars)
+- Scénario : Le Portail sous les Étoiles (The Portal Under the Stars)
 - Joueurs : 3+4
 
 ### 2025/03/29 : Jeux de rôles, drôles de jeux
@@ -120,7 +120,7 @@ Un aperçu rapide des sessions organisées par Les Gongfarmers de l'Anjou, class
 
 - Lieu : Centre Ginette Leroux (avec les Arts Ludiques)
 - Juge : Ludovic/Ludorg
-- Scénario : Les légendes ne naissent pas (Dungeon Crawl Classics #0 – Legends are made not born) 
+- Scénario : Les légendes ne naissent pas (Dungeon Crawl Classics #0 - Legends are made not born) 
 - Joueurs : 6
 
 ### 2024/07/05 : Dig Hard
