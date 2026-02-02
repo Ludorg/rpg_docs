@@ -1604,6 +1604,7 @@ Baton (à réparer) : 1d4+5 (après l'avoir lié) / +1 aux jets de sauvegarde. _
 Après avoir libéré le village de Rathlu de la menace des chats, nous retournons au manoir des Liis.
 
 Dans les quelques jours qui suivent, Pultum étudie le grimoire de Sezrekan. Il y apprend le sort Fracassement et s’entraîne à le lancer pendant plusieurs jours.
+
 Il s’installe dans l’une des chambres du manoir, celle où se trouve le vivarium.
 Il en profite également pour réparer le bâton magique qu’il a trouvé.
 C’est un simple bâton de mage : il n’a plus de propriétés magiques, mais reste un très bel objet.
