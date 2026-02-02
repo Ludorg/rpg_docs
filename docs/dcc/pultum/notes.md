@@ -1599,7 +1599,7 @@ Rannok et Dagozaille trouvent des pièces d'or cachées.
 
 Baton (à réparer) : 1d4+5 (après l'avoir lié) / +1 aux jets de sauvegarde. _Bâton à identifier_
 
-### Session 37 ; 2026/02/02 <!-- Love Mutants of Castle Heartache -->
+### Session 37 ; 2026/02/02
 
 Après avoir libéré le village de Rathlu de la menace des chats, nous retournons au manoir des Liis.
 
@@ -1608,6 +1608,8 @@ Dans les quelques jours qui suivent, Pultum étudie le grimoire de Sezrekan. Il 
 Il s’installe dans l’une des chambres du manoir, celle où se trouve le vivarium.
 Il en profite également pour réparer le bâton magique qu’il a trouvé.
 C’est un simple bâton de mage : il n’a plus de propriétés magiques, mais reste un très bel objet.
+
+<!-- Love Mutants of Castle Heartache -->
 
 #### Discorde à la Grande Bourbe (et à Punjar) !
 
@@ -1651,6 +1653,5 @@ Dans le temple, des bruits de plaisir résonnent… puis un énorme fracas reten
 Lorsque nous ressortons du temple, nous nous retrouvons ailleurs.
 Un château à cinq tours se dresse devant nous.
 La herse se lève, et deux étranges créatures — dont l’une semble formée de deux corps — s’avancent vers nous…
-
 
 **A SUIVRE...**
