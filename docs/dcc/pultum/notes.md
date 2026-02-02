@@ -1599,4 +1599,57 @@ Rannok et Dagozaille trouvent des pièces d'or cachées.
 
 Baton (à réparer) : 1d4+5 (après l'avoir lié) / +1 aux jets de sauvegarde. _Bâton à identifier_
 
+### Session 37 ; 2026/02/02 <!-- Love Mutants of Castle Heartache -->
+
+Après avoir libéré le village de Rathlu de la menace des chats, nous retournons au manoir des Liis.
+
+Dans les quelques jours qui suivent, Pultum étudie le grimoire de Sezrekan. Il y apprend le sort Fracassement et s’entraîne à le lancer pendant plusieurs jours.
+Il s’installe dans l’une des chambres du manoir, celle où se trouve le vivarium.
+Il en profite également pour réparer le bâton magique qu’il a trouvé.
+C’est un simple bâton de mage : il n’a plus de propriétés magiques, mais reste un très bel objet.
+
+#### Discorde à la Grande Bourbe (et à Punjar) !
+
+Un matin, pendant le petit déjeuner, nous entendons deux souris se disputer le long du mur.
+La première semble chasser la seconde de leur logis.
+
+En nous approchant, nous découvrons une petite porte dissimulée dans la paroi.
+
+Pultum invoque quatre lézards pour explorer les lieux.
+Mais en approchant de la souricière, les lézards se mettent soudain à se battre deux par deux.
+
+Dylak lance une injonction pour forcer la souris à ouvrir la porte.
+Elle obtempère, révélant un véritable capharnaüm de mobilier miniature.
+Pultum tente d’invoquer d’autres animaux, mais le sort échoue et est perdu pour la journée lors de sa deuxième tentative.
+
+Grâce à une détection de la magie, Pultum perçoit une aura magique autour des souris et des lézards.
+
+Dans le jardin, Vandassia remarque qu’un couple d’oiseaux se dispute violemment, eux aussi.
+
+L’un d’entre nous propose alors de se rendre à Bourbeville pour vérifier si les humains sont également touchés.
+
+À l’auberge, les hommes sont moroses et noient leur chagrin dans l’alcool.
+Un soldat nous apprend que la reine de Punjar veut divorcer.
+D’après ce même soldat, des émeutes secouent le quartier des temples.
+
+Nous partons pour Punjar.
+
+Les prêtres de Markhall, aidés par la milice, tentent de calmer la foule mécontente.
+Certains pensent que les cultistes d’Olathvee sont derrière tout cela.
+
+#### Rituel au temple d’Olathvee
+
+Au temple d’Olathvee, dieu du plaisir charnel, Dagozaille se faufile derrière les gardes en faction et crochette l’entrée.
+Dylak crée une diversion pendant que Ranok et Pultum le suivent à l’intérieur.
+Dylak et Vandassia les rejoignent ensuite.
+
+Un moine remarque notre présence et nous informe qu’un rituel est en cours — un rituel puissant, selon lui.
+
+Dans le temple, des bruits de plaisir résonnent… puis un énorme fracas retentit, suivi d’un silence total. Au milieu de la nef, des corps nus, repus, gisent immobiles.
+
+Lorsque nous ressortons du temple, nous nous retrouvons ailleurs.
+Un château à cinq tours se dresse devant nous.
+La herse se lève, et deux étranges créatures — dont l’une semble formée de deux corps — s’avancent vers nous…
+
+
 **A SUIVRE...**
