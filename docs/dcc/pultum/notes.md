@@ -1609,7 +1609,7 @@ Il s’installe dans l’une des chambres du manoir, celle où se trouve le viva
 Il en profite également pour réparer le bâton magique qu’il a trouvé.
 C’est un simple bâton de mage : il n’a plus de propriétés magiques, mais reste un très bel objet.
 
-<!-- Love Mutants of Castle Heartache -->
+## Love Mutants of Castle Heartache
 
 #### Discorde à la Grande Bourbe (et à Punjar) !
 
@@ -1653,5 +1653,78 @@ Dans le temple, des bruits de plaisir résonnent… puis un énorme fracas reten
 Lorsque nous ressortons du temple, nous nous retrouvons ailleurs.
 Un château à cinq tours se dresse devant nous.
 La herse se lève, et deux étranges créatures — dont l’une semble formée de deux corps — s’avancent vers nous…
+
+### Session 38 ; 2026/02/09 - résumé par écrit par Sarah (Vandassia)
+
+<!-- 
+Dylak tente de soigner une des créatures afin de communiquer avec elles.
+L'une d'elles mentionne Dirgadellia, qui serait une sorcière qui aurait brisé le coeur d'Olathvee, ce qui aurait provoqué la situation actuelle.
+
+Ranok d'un coup d'épée sépare les deux corps de la créature et DYlak, invoque la puissance de Choranus pour les soigner.
+
+Nous rentrons sur les conseils des créatures.
+
+#### Dans le château
+
+Une baignoire immense dans laquelle se trouve une grand homme aux cheveux longs et noirs. Ce semble être Olathvee lui même, mais il est endormi.
+Une créature aux mains palmées et à la peau verte lui verse de l'eau chaude dessus, tout en lui chantant une berceuse.
+
+Nous prenons les escaliers à gauche. Ils mènent à une salle avec une fontaine où tombent régulièrement des pièces.
+Dagozaille s'approche pour en ramasser une.
+Il est écrit dessus "Donne‑le‑moi à refaire autrement."
+En inspectant la pièce, il lui semble reconnaitre que le liquide qui tombe de la fontaine est des larmes.
+
+Nous poursuivons notre exploration du château.
+La pièce suivante est une salle de torture. 
+Dans le fond de la pièce, des barreaux avec derrière une créature mutante, constituée de plusieurs têtes, .
+
+Dagozaille tente de s'approcher discrètement, mais la créature le repère et s'empare de lui avec un ses tentacules.
+Dylak lui lance une injoction "lâche". Il laisse tomber Dagozaille, mais mais également un fragment d'objet multicolore.
+Avec la détection de la magie, Pultum identifie le fragment comme provanant d'un objet magique puissant.
+
+En poursuivant notre exploration, nous arrivons dans une pièce avec une bibliothèque et des tentures.
+-->
+
+Nous rencontrons quatre créatures mutantes devant le château d’Olathvee. 
+Dylak, dans sa grande bonté, décide de les soigner malgré leur orientation chaotique, et il parvient même, grâce à une réussite critique, à guérir les deux siamois que Ranock avait séparés d’un coup d’épée bien placé. 
+Ils ont perdu la mémoire, mais se souviennent que leur dieu a l’âme brisée à cause de son dernier crush, nommé Dirgadellia, une puissante sorcière.
+
+Ils nous accompagnent jusqu’au château, où nous découvrons une immense pièce dans laquelle on aperçoit Olathvee endormi dans une baignoire. 
+Une de ses disciples, une mutante batracienne, lui verse de l’eau en lui chantant une berceuse.
+
+Nous descendons un escalier biscornu et explorons trois salles différentes :
+- 1re salle : trois fontaines à vœux remplies des larmes des fidèles d’Olathvee, dans lesquelles tombent des pièces. Dagozaille réussit à attraper l’une d’entre elles, sur laquelle est inscrit un vœu et le visage du fidèle qui a jeté la pièce.
+- 2e salle, plus bas : une salle de torture dans laquelle une créature difforme aux multiples tentacules est enfermée dans une cage. Dylak parvient, grâce à son sort d’injonction, à lui faire lâcher une sorte de pierre brisée qui change constamment de couleur. Pultum détecte qu’il s’agit d’un objet magique : un fragment d’âme divine.
+- 3e salle : une bibliothécaire mutante nous apprend que l’âme d’Olathvee a été brisée en deux morceaux, et que nous possédons déjà l’un d’eux. Elle nous donne les fragments d’un poème que le dieu avait déchiré ; nous parvenons à le remettre dans le bon ordre (__ça vaut au moins 50 PX !__) :
+
+<i>
+My Void-Spawn Love’s Tentacles Can But Kill, <br/>
+Inflicting Wounds That Steal A Body’s Breath <br/>
+Like Demon’s Talons, Murdering At Will <br/>
+And Causing Pious Men To Pray For Death! <br/>
+<br/>
+My Dark Love’s Tongue Is Best To Doom Pronounce, <br/>
+Each Syllable A Hellish Damning Curse; <br/>
+Philosophers Their Faith In Grace Renounce <br/>
+As Souls At Her Command Do Leave The Earth! <br/>
+<br/>
+The Blood My Love Doth Bleed Is Poison Fell, <br/>
+A Single Wound Might Drown A Breathing Town <br/>
+When Sanguine Riches Bloody Wounds Expel<br/>
+And Venom From Her Veins Doth Patter Down! <br/>
+<br/>
+All Parts Of Her Apart Are Lethal Art; <br/>
+Together They Have Claimed My Beating Heart. <br/>
+<br/>
+</i>
+
+Nous remontons explorer la dernière pièce du rez-de-chaussée, dans laquelle Dylak avait entendu des aboiements à notre arrivée.
+
+Nous arrivons dans une salle où trois chiens anthropomorphes sont installés à une table et semblent très agressifs. Une serveuse à tête de chat se tient derrière un bar. Derrière les chiens, une fumée semble dissimuler quelque chose, et grâce au sort de détection de Pultum, nous devinons qu’il s’agit d’un objet magique. Dagozaille distrait les chiens en leur lançant un bâton pendant que Dylak s’approche de l’objet : il s’agit d’un cube duquel sort une chanson d’amour (à la manière d’une enceinte Bluetooth), et dans lequel se trouve une fente comme une tirelire. Dagozaille y glisse la pièce ramassée dans la fontaine : la boîte s’ouvre et nous trouvons le deuxième fragment d’âme du dieu.
+
+Nous recollons les deux morceaux, qui s’emboîtent parfaitement. Les trois chiens et la serveuse retrouvent forme humaine, et dans la pièce principale, la fidèle qui chantait la berceuse ainsi que les autres disciples perdent également leurs mutations. **Nous échangeons l’âme du dieu contre l’apprentissage de l’une des sept chansons secrètes auprès de la disciple d’Olathvee : il s’agit d’une berceuse létale permettant de maintenir une créature endormie.** Seuls ceux qui ne pratiquent pas la magie peuvent l’apprendre. Dagozaille et Ranock y parviennent, puis nous remettons l’âme d’Olathvee à sa disciple, qui plonge le fragment dans le bain.
+
+À la manière d’un bain moussant, l’eau devient multicolore et Olathvee sort de l’eau, nu comme un ver, devant nos yeux médusés. **Nous parvenons à l’inviter dans notre manoir en lui promettant un dîner romantique avec Dirgadellia pour lui donner une dernière chance de la séduire.** Nous lui rapportons son peignoir rouge en soie brodé d’or, et ses disciples nous raccompagnent dans notre monde.
+Nous rentrons chez nous le cœur léger, les poches pleines de PX et l’esprit chargé d’une nouvelle mission : convaincre la sorcière Dirgadellia qu’Olathvee est un bon parti.
 
 **A SUIVRE...**
