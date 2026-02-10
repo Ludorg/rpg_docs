@@ -1654,7 +1654,7 @@ Lorsque nous ressortons du temple, nous nous retrouvons ailleurs.
 Un château à cinq tours se dresse devant nous.
 La herse se lève, et deux étranges créatures — dont l’une semble formée de deux corps — s’avancent vers nous…
 
-### Session 38 ; 2026/02/09 - résumé par écrit par Sarah (Vandassia)
+### Session 38 ; 2026/02/09 - résumé écrit par Sarah (Vandassia)
 
 <!-- 
 Dylak tente de soigner une des créatures afin de communiquer avec elles.
