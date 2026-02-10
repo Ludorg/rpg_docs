@@ -18,6 +18,7 @@ Ci-après, mes notes, résumés et documents pour les joueurs sur les sessions p
 - [Session 12 : Troubles durant le Festival des Feux Sacrés du Solstice d'Hiver](./dcc_cdt_2025_12_12) - Le Retour du dieu ancestral
 - [Session 13 : Exploration de ruines hyperboréennes sur un iceberg volant](./dcc_cdt_2026_01_09) - Le Retour du dieu ancestral
 - [Session 14 : Terreur dans l'Arbre](./dcc_cdt_2026_01_23)
+- [Session 15 : Exploration de l'Abbaye des Bois](./dcc_cdt_2026_02_06) - L'Abbé des Bois
 
 ## Accessoires et documents utiles aux joueurs
 
