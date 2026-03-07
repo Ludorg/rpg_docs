@@ -38,7 +38,7 @@ Erohye reçoit alors 4 PX, car (20 / (4 + 1)). -->
 | Eoghan    | Ciarrior     | Nain Mineur           | Hirot                                                          | Nain            | 1      | 40 <!-- 0+00+0+4+6+4+05+06+2+3+3+3+2 (+2) --> |
 | Félix     | Talion       | Coupeur de bourse     | Hirot                                                          | Voleur          | 2      | 68 <!-- 0+00+0+4+3+8+10+12+4+6+6+9+6  --> |
 | Félix     | Enoriel      | Elfe Forestier        | Hirot                                                          | Elfe            | 1      | 39 <!-- 0+00+0+4+3+8+05+06+2+3+3+3+2  --> |
-| Augustin  | Artus Stinc  | Coupeur de bourse     | Hirot                                                          | Voleur          | 1      | 51 <!-- 0+10+0+0+0+0+10+12+4+6+3+3+3  --> |
+| Augustin  | Artus Stinc  | Coupeur de bourse     | Hirot                                                          | Voleur          | 2      | 51 <!-- 0+10+0+0+0+0+10+12+4+6+3+3+3  --> |
 | Augustin  | Horos        | Elfe Sage             | Hirot                                                          | Elfe            | 1      | 35 <!-- 0+10+0+0+0+0+05+06+2+3+3+3+3  --> |
 | Augustin  | Theldur      | Fermier               | Frosteye Mountains                                             | Clerc (Crom)    | 1      | 39 <!-- 0+21+0+0+0+0+00+00+0+0+3+9+6  --> |
 
@@ -62,16 +62,16 @@ Erohye reçoit alors 4 PX, car (20 / (4 + 1)). -->
 
 | Joueur | Personnage | Métier (niveau 0) | Village d'origine | Classe | Niveau | PX |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| Thomas | Lucard (RIP) | Bedeau | Caerwynd ; En charge du temple dédié à Amun Tor au village de Stratford |  | 0 | | 
-| Thomas | Poinstiné (RIP) | Astrologue | Caerwynd |  | 0 | |  
-| Thomas | Ewan | Fermier | Caerwynd ; Libéré dans les Fosses d'Invocation |  | 0 | 14 |
-| Evan | Vixela |  Nain Apothicaire | Caerwynd |  | 0 | 14 |
-| Evan | Farnoc |  Nain Berger | Caerwynd ; Libéré dans les Fosses d'Invocation |  | 0 | 14 |
 | Sacha | Sclavor (RIP) | Esclave | Strathford |  | 0 |  |
 | Sacha | Giken (RIP) | Garde de Caravane | Strathford ; Libéré dans la Forteresse des Seigneurs du Chaos |  | 0 |  |
 | Sacha     | Willy-Claude | Vidangeur de Latrines | Strathford                                                     | Guerrier        | 2      | 72 <!-- 0+10+2+4+3+4+10+12+4+6+2+9+6  --> |
 | Sacha     | Shul         | Serrurier             | Strathford                                                     | ??              | 1      | 44 <!-- 0+10+2+2+3+4+05+06+2+3+2+3+2  --> |
 | Sacha     | Dollex       | Collecteur d'Impots   | Strathford ; Libéré dans la Forteresse des Seigneurs du Chaos  | ??              | 1      | 44 <!-- 0+10+2+2+3+4+05+06+2+3+2+3+2  --> |
+| Thomas | Lucard (RIP) | Bedeau | Caerwynd ; En charge du temple dédié à Amun Tor au village de Stratford |  | 0 | | 
+| Thomas | Poinstiné (RIP) | Astrologue | Caerwynd |  | 0 | |  
+| Thomas | Ewan | Fermier | Caerwynd ; Libéré dans les Fosses d'Invocation |  | 0 | 14 |
+| Evan | Vixela |  Nain Apothicaire | Caerwynd |  | 0 | 14 |
+| Evan | Farnoc |  Nain Berger | Caerwynd ; Libéré dans les Fosses d'Invocation |  | 0 | 14 |
 | Joseph | Kadabra | Elfe Cirier | Strathford |  | 0 | 10 |
 | Joseph | Nehic | Nain Forgeron | Strathford |  | 0 | 10 |
 | Joseph | Thulan (RIP)      | Alchimiste            | Strathford                                                     | Mage            | 1      | 22 <!-- 0+10+4+2+6+0 --> |
