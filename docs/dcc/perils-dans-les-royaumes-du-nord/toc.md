@@ -19,6 +19,7 @@ Ci-après, mes notes, résumés et documents pour les joueurs sur les sessions p
 - [Session 13 : Exploration de ruines hyperboréennes sur un iceberg volant](./dcc_cdt_2026_01_09) - Le Retour du dieu ancestral
 - [Session 14 : Terreur dans l'Arbre](./dcc_cdt_2026_01_23)
 - [Session 15 : Exploration de l'Abbaye des Bois](./dcc_cdt_2026_02_06) - L'Abbé des Bois
+- [Session 16 : La Chute de l'Abbé des Bois](./dcc_cdt_2026_03_06) - L'Abbé des Bois
 
 ## Accessoires et documents utiles aux joueurs
 
