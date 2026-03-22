@@ -25,22 +25,23 @@ Erohye reçoit alors 4 PX, car (20 / (4 + 1)). -->
 <!-- Terror in the Tree / Session 14 = 6 PX -->
 <!-- L'abbé des Bois / Session 15 = 9 PX -->
 <!-- L'abbé des Bois / Session 16 = 6 PX -->
+<!-- L'enchanteur d'Emeraude / Session 17 = 6 PX -->
 
 <!-- echo 4+10+4+4+6+8+10+12+4+6+6+9 | bc -->
 
 | Joueur    | Personnage   | Métier (niveau 0)     | Origines                                                       | Classe          | Niveau | PX                       |
 |-----------|--------------|-----------------------|----------------------------------------------------------------|-----------------|--------|--------------------------|
-| Evan      | Erohye       | Elfe Avocat           | Caerwynd                                                       | Elfe            | 2      | 62 <!-- 4+10+4+4+3+4+10+12+2+2+2+3+2  --> |
-| Evan      | Vala         | Trappeur              | Caerwynd                                                       | Voleur          | 2      | 73 <!-- 4+10+4+2+3+8+05+06+4+6+6+9+6  --> |
-| Thomas    | Britanice    | Fromagère             | Caerwynd                                                       | Clerc (Pélagia) | 2      | 75 <!-- 4+10+4+4+6+8+10+12+4+6+2+3+2  --> |
-| Thomas    | Yttruyakin   | Apprentie magiciennce | Strathford ; Libérée dans la Forteresse des Seigneurs du Chaos | Mage            | 2      | 81 <!-- 4+10+4+2+6+8+10+12+2+2+6+9+6  --> |
-| Eoghan    | Toska        | Garde de Caravane     | Strathford                                                     | Guerrier        | 2      | 65 <!-- 0+00+0+4+6+8+10+12+2+6+6+9+2  --> |
-| Eoghan    | Ciarrior     | Nain Mineur           | Hirot                                                          | Nain            | 1      | 40 <!-- 0+00+0+4+6+4+05+06+2+3+3+3+2 (+2) --> |
-| Félix     | Talion       | Coupeur de bourse     | Hirot                                                          | Voleur          | 2      | 68 <!-- 0+00+0+4+3+8+10+12+4+6+6+9+6  --> |
-| Félix     | Enoriel      | Elfe Forestier        | Hirot                                                          | Elfe            | 1      | 39 <!-- 0+00+0+4+3+8+05+06+2+3+3+3+2  --> |
-| Augustin  | Artus Stinc  | Coupeur de bourse     | Hirot                                                          | Voleur          | 2      | 51 <!-- 0+10+0+0+0+0+10+12+4+6+3+3+3  --> |
-| Augustin  | Horos        | Elfe Sage             | Hirot                                                          | Elfe            | 1      | 35 <!-- 0+10+0+0+0+0+05+06+2+3+3+3+3  --> |
-| Augustin  | Theldur      | Fermier               | Frosteye Mountains                                             | Clerc (Crom)    | 1      | 39 <!-- 0+21+0+0+0+0+00+00+0+0+3+9+6  --> |
+| Evan      | Erohye       | Elfe Avocat           | Caerwynd                                                       | Elfe            | 2      | 68 <!-- 4+10+4+4+3+4+10+12+2+2+2+3+2+6  --> |
+| Evan      | Vala         | Trappeur              | Caerwynd                                                       | Voleur          | 2      | 79 <!-- 4+10+4+2+3+8+05+06+4+6+6+9+6+6  --> |
+| Thomas    | Britanice    | Fromagère             | Caerwynd                                                       | Clerc (Pélagia) | 2      | 81 <!-- 4+10+4+4+6+8+10+12+4+6+2+3+2+6  --> |
+| Thomas    | Yttruyakin   | Apprentie magiciennce | Strathford ; Libérée dans la Forteresse des Seigneurs du Chaos | Mage            | 2      | 87 <!-- 4+10+4+2+6+8+10+12+2+2+6+9+6+6  --> |
+| Eoghan    | Toska        | Garde de Caravane     | Strathford                                                     | Guerrier        | 2      | 71 <!-- 0+00+0+4+6+8+10+12+2+6+6+9+2+6  --> |
+| Eoghan    | Ciarrior     | Nain Mineur           | Hirot                                                          | Nain            | 1      | 46 <!-- 0+00+0+4+6+4+05+06+2+3+3+3+2+6 (+2) --> |
+| Félix     | Talion       | Coupeur de bourse     | Hirot                                                          | Voleur          | 2      | 70 <!-- 0+00+0+4+3+8+10+12+4+6+6+9+6+2  --> |
+| Félix     | Enoriel      | Elfe Forestier        | Hirot                                                          | Elfe            | 1      | 41 <!-- 0+00+0+4+3+8+05+06+2+3+3+3+2+2  --> |
+| Augustin  | Artus Stinc  | Coupeur de bourse     | Hirot                                                          | Voleur          | 2      | 57 <!-- 0+10+0+0+0+0+10+12+4+6+3+3+3+6  --> |
+| Augustin  | Horos        | Elfe Sage             | Hirot                                                          | Elfe            | 1      | 41 <!-- 0+10+0+0+0+0+05+06+2+3+3+3+3+6  --> |
+| Augustin  | Theldur      | Fermier               | Frosteye Mountains                                             | Clerc (Crom)    | 1      | 41 <!-- 0+21+0+0+0+0+00+00+0+0+3+9+6+2  --> |
 
 ### Table des Points d'Expérience
 
