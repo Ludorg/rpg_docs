@@ -1725,6 +1725,36 @@ Nous arrivons dans une salle où trois chiens anthropomorphes sont installés à
 Nous recollons les deux morceaux, qui s’emboîtent parfaitement. Les trois chiens et la serveuse retrouvent forme humaine, et dans la pièce principale, la fidèle qui chantait la berceuse ainsi que les autres disciples perdent également leurs mutations. **Nous échangeons l’âme du dieu contre l’apprentissage de l’une des sept chansons secrètes auprès de la disciple d’Olathvee : il s’agit d’une berceuse létale permettant de maintenir une créature endormie.** Seuls ceux qui ne pratiquent pas la magie peuvent l’apprendre. Dagozaille et Ranock y parviennent, puis nous remettons l’âme d’Olathvee à sa disciple, qui plonge le fragment dans le bain.
 
 À la manière d’un bain moussant, l’eau devient multicolore et Olathvee sort de l’eau, nu comme un ver, devant nos yeux médusés. **Nous parvenons à l’inviter dans notre manoir en lui promettant un dîner romantique avec Dirgadellia pour lui donner une dernière chance de la séduire.** Nous lui rapportons son peignoir rouge en soie brodé d’or, et ses disciples nous raccompagnent dans notre monde.
-Nous rentrons chez nous le cœur léger, les poches pleines de PX et l’esprit chargé d’une nouvelle mission : convaincre la sorcière Dirgadellia qu’Olathvee est un bon parti.
+
+### Session 39 ; 2026/04/27 - Un Diner pour Olathvee
+
+À la sortie du château, Olathvee accepte qu’Esmée, l’une de ses disciples, nous accompagne afin d’organiser le dîner romantique avec Dirgadellia.
+Après quelques instants, et une fois qu’Esmée a rassemblé quelques affaires, nous nous retrouvons dans le temple de Punjar.
+
+En interpellant l’un des fidèles, nous apprenons que deux jours se sont écoulés.
+Les couples se sont réconciliés, les émeutes ont cessé, et la reine de Punjar a finalement décidé de ne pas divorcer.
+
+Nous rentrons ensuite au manoir des Liis pour le faire visiter à Esmée et préparer avec elle le dîner romantique destiné à Olathvee.
+
+Esmée nous indique que notre manoir devrait convenir à Olathvee.  
+Nous retournons donc à Punjar.
+
+Au temple d’Olathvee, Esmée apprend qu’il accepte de venir dans notre manoir pour le dîner avec Dirgadellia.  
+En revanche, il souhaite que nous forgions un anneau spectral destiné à Dirgadellia.
+
+Nous nous rendons donc chez Boss Oggo, le bijoutier de Punjar que nous connaissons déjà, afin de lui demander de forger cet anneau.  
+Il peut le faire, mais il a besoin d’une pierre très particulière.
+Une fois l’anneau serti de cette pierre, il faudra le tremper dans l’ichor cérébral d’une créature, une grande abomination.
+
+Depuis deux semaines, il est sans nouvelles d’une troupe d’aventuriers qu’il avait engagée pour aller chercher une pierre dans le désert de Xattoth.  
+Le dernier pharaon de cette lignée a été inhumé avec une pierre magique enchâssée entre les yeux.  
+Et c’est précisément cette pierre qui est nécessaire pour forger l’anneau spectral.
+
+Esmée lui rachète la carte menant au désert de Xattoth.
+
+Après quelques provisions à Punjar, nous partons pour le désert sur le tapis volant d’Esmée.
+
+Dylak manque de tomber du tapis volant...
 
 **A SUIVRE...**
+
