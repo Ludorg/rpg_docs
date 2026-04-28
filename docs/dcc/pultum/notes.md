@@ -1754,7 +1754,7 @@ Esmée lui rachète la carte menant au désert de Xattoth.
 
 Après quelques provisions à Punjar, nous partons pour le désert sur le tapis volant d’Esmée.
 
-Dylak manque de tomber du tapis volant...
+Dylak réussit à tomber du tapis volant, en voulant rattraper un goéland qui se jetait de la falaise...
 
 **A SUIVRE...**
 
