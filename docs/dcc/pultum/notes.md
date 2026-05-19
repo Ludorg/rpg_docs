@@ -1736,18 +1736,20 @@ Les couples se sont réconciliés, les émeutes ont cessé, et la reine de Punja
 
 Nous rentrons ensuite au manoir des Liis pour le faire visiter à Esmée et préparer avec elle le dîner romantique destiné à Olathvee.
 
-Esmée nous indique que notre manoir devrait convenir à Olathvee.  
+Esmée nous indique que notre manoir devrait convenir à Olathvee.
 Nous retournons donc à Punjar.
 
-Au temple d’Olathvee, Esmée apprend qu’il accepte de venir dans notre manoir pour le dîner avec Dirgadellia.  
+## En forgeant l'anneau spectral
+
+Au temple d’Olathvee, Esmée apprend qu’il accepte de venir dans notre manoir pour le dîner avec Dirgadellia.
 En revanche, il souhaite que nous forgions un anneau spectral destiné à Dirgadellia.
 
-Nous nous rendons donc chez Boss Oggo, le bijoutier de Punjar que nous connaissons déjà, afin de lui demander de forger cet anneau.  
+Nous nous rendons donc chez Boss Oggo, le bijoutier de Punjar que nous connaissons déjà, afin de lui demander de forger cet anneau.
 Il peut le faire, mais il a besoin d’une pierre très particulière.
 Une fois l’anneau serti de cette pierre, il faudra le tremper dans l’ichor cérébral d’une créature, une grande abomination.
 
-Depuis deux semaines, il est sans nouvelles d’une troupe d’aventuriers qu’il avait engagée pour aller chercher une pierre dans le désert de Xattoth.  
-Le dernier pharaon de cette lignée a été inhumé avec une pierre magique enchâssée entre les yeux.  
+Depuis trois semaines, il est sans nouvelles d’une troupe d’aventuriers qu’il avait engagée pour aller chercher une pierre dans le désert de Xattoth.
+Le dernier pharaon de cette lignée a été inhumé avec une pierre magique enchâssée entre les yeux.
 Et c’est précisément cette pierre qui est nécessaire pour forger l’anneau spectral.
 
 Esmée lui rachète la carte menant au désert de Xattoth.
@@ -1756,5 +1758,33 @@ Après quelques provisions à Punjar, nous partons pour le désert sur le tapis 
 
 Dylak réussit à tomber du tapis volant, en voulant rattraper un goéland qui se jetait de la falaise...
 
-**A SUIVRE...**
+### Session 40 ; 2026/05/19 - Le désert de Xattoth
 
+Par chance, Vandascia s'envole juste à temps et arrive à rattraper in extremis Dylak.
+Au bout de deux heures de vol, nous arrivons à proximité d'une pyramide dans le désert de Xattoth.
+Elle est entourée de dunes. 
+
+Sur le côté de la pyramide, un trou.
+A coté, un chameau qui semble être mort de soif.
+Il est là depuis plusieurs jours.
+
+On rentre dans la pyramide. Une statue représente un serpent qui pourrait être une évocation de Serbok.
+Dagozaille tente de monter sur la statue, il se transforme en serpent.
+Dylak lui enlève cette malédiction grâce un sort de désenvoutement.
+
+Sur le côté de la porte, des trous se sont ouverts.
+Une détection de la magie révèle que des auras magiques émanent du bâton et au delà de la statue.
+
+Finalement, Vandassia retouche le bâton de la statue, se transforme en cobra et passe dans un des trous.
+De l'autre côté, elle active un mécanisme et une porte s'ouvre.
+
+A la lueur d'une torche, nous découvrons une salle avec de nombreux objets, dont des coffres.
+De l'énergie magique en émane.
+
+Dagozaille ouvre un coffre et un serpent de sable l'attaque.
+D'un coup de marteau, Ranok lui écrase la tête et le tue.
+
+Le sable continue de s'agiter à l'intérieur du coffre.
+Nous le refermons...
+
+**A SUIVRE...**
