@@ -26,6 +26,21 @@ Un aperçu rapide des sessions organisées par Les Gongfarmers de l'Anjou, class
 - Scénario : SSSSSSSSS
 - Joueurs : J -->
 
+### 2026/05/23+24 : Salon ImaJn'ère
+
+[<img alt="visuel-2026/05/23+24" title ="2026/05/23+24" src="./img/2026-05-23-24_imjnr-prv2.1-1-r.jpg" class="center" width="20%">](./img/2026-05-23-24_imjnr-prv2.1-1-r.jpg)
+
+- Lieu : Salon ImaJn'ère, Angers
+- 2 sessions :
+    - Session 1 (Samedi 23/05)
+        - Juge : Augustin
+        - Scénario : La Maison des Gnoles
+        - Joueurs : 4    
+    - Session 2 (Dimanche 24/05)
+        - Juge : Ludovic/Ludorg
+        - Scénario : Inside Cyclop's Kitchen (module DCK #1)
+        - Joueurs : 4
+
 ### 2026/05/16+17 : Dungeon Crawl Kitchen #1 (DCK #1)
 
 [<img alt="visuel-2026/05/16+17" title ="2026/05/16+17" src="./img/2026-05-16-17_dcc-dck1-dcc-0-r.jpg" class="center" width="20%">](./img/2026-05-16-17_dcc-dck1-dcc-0-r.jpg)
