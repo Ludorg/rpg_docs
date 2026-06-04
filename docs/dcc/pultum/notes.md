@@ -1787,4 +1787,33 @@ D'un coup de marteau, Ranok lui écrase la tête et le tue.
 Le sable continue de s'agiter à l'intérieur du coffre.
 Nous le refermons...
 
+### Session 41 ; 2026/06/04 - Dans la pyramide de Xattoth
+
+Dagozaille inspecte le sarcophage principal de la tombe.
+Une fresque représente la mort d'un pharaon dont les mains ont été coupées, et remplacées par des avants-bras en bronze.
+Il a une pierre magique enchâssée entre les yeux.
+
+Dans un coffre, trois lingots d'or.
+
+En poussant le couvercle du sarcophage, une main de bronze finit de le déplacer.
+Un mort-vivant en sort et nous attaque.
+Un éclair divin de Dylak, un coup de sabre de Pultum et un puissant coup de marteau de Ranok le tuent rapidement.
+Dans son cou, un tube en cuivre avec un parchemin qui contient le sort de résistance au feu.
+
+On récupère la pierre magique, qui est de couleur orangée.
+Elle brille moins intensément depuis la deuxième mort du pharaon.
+
+Grace au tapis volant, nous repartons de la pyramide avec la pierre magique, et nous retournons à Punjar pour la faire forger en anneau par Boss Oggo.
+Après une inspection de la pierre, il nous indique qu'il peut en faire quatre.
+
+Ca nous coute une fortune, mais nous acceptons.
+
+Chaque anneau coute 400 pièces d'or. Le premier est pour la promise d'Olathvee et son prix est payé par Esmée.
+Pultum en paie deux, un pour lui et un pour Dylak avec 8 disques de platine.
+Avec les lingots, une sceptre en ivoire ramassé dans la tombe, on rassemble de quoi en payer un pour Vandassia.
+
+
+Boss Oggo, nous informe que dans l'est d'Aereth, un Odototyrannus a été enseveli il y a deux cents ans.
+Cette créature pourrait être une source d'ichor cérébral pour tremper l'anneau...
+
 **A SUIVRE...**
