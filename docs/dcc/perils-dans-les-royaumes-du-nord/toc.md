@@ -22,6 +22,7 @@ Ci-après, mes notes, résumés et documents pour les joueurs sur les sessions p
 - [Session 16 : La Chute de l'Abbé des Bois](./dcc_cdt_2026_03_06) - L'Abbé des Bois
 - [Session 17 : Trouble Troublant à Timberdock](./dcc_cdt_2026_03_20) - L'Enchanteur d'Émeraude
 - [Session 18 : Assaut sur la Citadelle de l'Enchanteur d'Émeraude](./dcc_cdt_2026_04_03) - L'Enchanteur d'Émeraude
+- [Session 19 : Le combat final contre l'Enchanteur d'Émeraude](./dcc_cdt_2026_05_29) - L'Enchanteur d'Émeraude
 
 ## Accessoires et documents utiles aux joueurs
 
@@ -31,3 +32,4 @@ Ci-après, mes notes, résumés et documents pour les joueurs sur les sessions p
 - [Strathford, Hirot et Ferryton](./assets/strathford-hirot-ferryton-r.jpg)
 - [Liste des personnages joueurs et PX](./dcc_cdt_persos)
 - [Liste des personnages non joueurs notoires et des lieux notables](./dcc_cdt_pnj_lieux)
+- [Les modules et scénarios joués](./assets/timeline-2026-06-r.jpg)
