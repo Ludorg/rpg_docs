@@ -315,7 +315,7 @@ Il y a d'autres orcs qui rodent dans les alentours du village.
 La piste des orcs mène à la forêt des Pendus !
 Il y a une trouée dans les végétaux.
 
-## Le labyrinthe d’Yddgrrl
+## Le labyrinthe d'Yddgrrl
 
 ### Session 10 ; 2023/10/16
 
@@ -824,7 +824,7 @@ Nous nous faisons offrir des cadeaux : je reçois un marteau de forgeron, Dagoza
 
 <!-- Session 19 2024/02/07 -->
 
-## Love in the Age of Gongfarmers - Special Valentine’s Day-themed adventure
+## Love in the Age of Gongfarmers - Special Valentine's Day-themed adventure
 
 ### Session 19 ; 2024/02/07
 
@@ -1359,8 +1359,8 @@ C'est celui du Seigneur Obitu-que seigneur des Cinq, Diantrefosse et Balor. Il m
 _Le seigneur des Cinq est un général, un diantrefosse et un balor, doté de cinq yeux rouge rubis dus à des mutations expérimentales.
 Sa forme physique a été détruite par une lignée de nobles barbares, mais son esprit dominateur a survécu, tapi dans les zones
 envahies par le déclin et la pourriture, où sont accomplies les cérémonies pour se lier à lui.
-Il exige de ses adeptes qu’ils poursuivent son plan de conquête cryptique, et s’il est prompt à répondre quand on l’invoque,
-l’aide qu’il procure a souvent pour contrepartie d’accroître sa domination sur l’incantateur._
+Il exige de ses adeptes qu'ils poursuivent son plan de conquête cryptique, et s'il est prompt à répondre quand on l'invoque,
+l'aide qu'il procure a souvent pour contrepartie d'accroître sa domination sur l'incantateur._
 
 Nous rentrons dans une grange. Dylak trouve un tabac exotique qui fournit un bonus aux incantations magiques (+1 pendant une heure).
 Direction le temple.
@@ -1603,11 +1603,11 @@ Baton (à réparer) : 1d4+5 (après l'avoir lié) / +1 aux jets de sauvegarde. _
 
 Après avoir libéré le village de Rathlu de la menace des chats, nous retournons au manoir des Liis.
 
-Dans les quelques jours qui suivent, Pultum étudie le grimoire de Sezrekan. Il y apprend le sort Fracassement et s’entraîne à le lancer pendant plusieurs jours.
+Dans les quelques jours qui suivent, Pultum étudie le grimoire de Sezrekan. Il y apprend le sort Fracassement et s'entraîne à le lancer pendant plusieurs jours.
 
-Il s’installe dans l’une des chambres du manoir, celle où se trouve le vivarium.
-Il en profite également pour réparer le bâton magique qu’il a trouvé.
-C’est un simple bâton de mage : il n’a plus de propriétés magiques, mais reste un très bel objet.
+Il s'installe dans l'une des chambres du manoir, celle où se trouve le vivarium.
+Il en profite également pour réparer le bâton magique qu'il a trouvé.
+C'est un simple bâton de mage : il n'a plus de propriétés magiques, mais reste un très bel objet.
 
 ## Love Mutants of Castle Heartache
 
@@ -1623,36 +1623,36 @@ Mais en approchant de la souricière, les lézards se mettent soudain à se batt
 
 Dylak lance une injonction pour forcer la souris à ouvrir la porte.
 Elle obtempère, révélant un véritable capharnaüm de mobilier miniature.
-Pultum tente d’invoquer d’autres animaux, mais le sort échoue et est perdu pour la journée lors de sa deuxième tentative.
+Pultum tente d'invoquer d'autres animaux, mais le sort échoue et est perdu pour la journée lors de sa deuxième tentative.
 
 Grâce à une détection de la magie, Pultum perçoit une aura magique autour des souris et des lézards.
 
-Dans le jardin, Vandassia remarque qu’un couple d’oiseaux se dispute violemment, eux aussi.
+Dans le jardin, Vandassia remarque qu'un couple d'oiseaux se dispute violemment, eux aussi.
 
-L’un d’entre nous propose alors de se rendre à Bourbeville pour vérifier si les humains sont également touchés.
+L'un d'entre nous propose alors de se rendre à Bourbeville pour vérifier si les humains sont également touchés.
 
-À l’auberge, les hommes sont moroses et noient leur chagrin dans l’alcool.
+À l'auberge, les hommes sont moroses et noient leur chagrin dans l'alcool.
 Un soldat nous apprend que la reine de Punjar veut divorcer.
-D’après ce même soldat, des émeutes secouent le quartier des temples.
+D'après ce même soldat, des émeutes secouent le quartier des temples.
 
 Nous partons pour Punjar.
 
 Les prêtres de Markhall, aidés par la milice, tentent de calmer la foule mécontente.
-Certains pensent que les cultistes d’Olathvee sont derrière tout cela.
+Certains pensent que les cultistes d'Olathvee sont derrière tout cela.
 
-#### Rituel au temple d’Olathvee
+#### Rituel au temple d'Olathvee
 
-Au temple d’Olathvee, dieu du plaisir charnel, Dagozaille se faufile derrière les gardes en faction et crochette l’entrée.
-Dylak crée une diversion pendant que Ranok et Pultum le suivent à l’intérieur.
+Au temple d'Olathvee, dieu du plaisir charnel, Dagozaille se faufile derrière les gardes en faction et crochette l'entrée.
+Dylak crée une diversion pendant que Ranok et Pultum le suivent à l'intérieur.
 Dylak et Vandassia les rejoignent ensuite.
 
-Un moine remarque notre présence et nous informe qu’un rituel est en cours — un rituel puissant, selon lui.
+Un moine remarque notre présence et nous informe qu'un rituel est en cours — un rituel puissant, selon lui.
 
-Dans le temple, des bruits de plaisir résonnent… puis un énorme fracas retentit, suivi d’un silence total. Au milieu de la nef, des corps nus, repus, gisent immobiles.
+Dans le temple, des bruits de plaisir résonnent… puis un énorme fracas retentit, suivi d'un silence total. Au milieu de la nef, des corps nus, repus, gisent immobiles.
 
 Lorsque nous ressortons du temple, nous nous retrouvons ailleurs.
 Un château à cinq tours se dresse devant nous.
-La herse se lève, et deux étranges créatures — dont l’une semble formée de deux corps — s’avancent vers nous…
+La herse se lève, et deux étranges créatures — dont l'une semble formée de deux corps — s'avancent vers nous…
 
 ### Session 38 ; 2026/02/09 - résumé écrit par Sarah (Vandassia)
 
@@ -1685,25 +1685,25 @@ Avec la détection de la magie, Pultum identifie le fragment comme provanant d'u
 En poursuivant notre exploration, nous arrivons dans une pièce avec une bibliothèque et des tentures.
 -->
 
-Nous rencontrons quatre créatures mutantes devant le château d’Olathvee. 
-Dylak, dans sa grande bonté, décide de les soigner malgré leur orientation chaotique, et il parvient même, grâce à une réussite critique, à guérir les deux siamois que Ranock avait séparés d’un coup d’épée bien placé. 
-Ils ont perdu la mémoire, mais se souviennent que leur dieu a l’âme brisée à cause de son dernier crush, nommé Dirgadellia, une puissante sorcière.
+Nous rencontrons quatre créatures mutantes devant le château d'Olathvee. 
+Dylak, dans sa grande bonté, décide de les soigner malgré leur orientation chaotique, et il parvient même, grâce à une réussite critique, à guérir les deux siamois que Ranock avait séparés d'un coup d'épée bien placé. 
+Ils ont perdu la mémoire, mais se souviennent que leur dieu a l'âme brisée à cause de son dernier crush, nommé Dirgadellia, une puissante sorcière.
 
-Ils nous accompagnent jusqu’au château, où nous découvrons une immense pièce dans laquelle on aperçoit Olathvee endormi dans une baignoire. 
-Une de ses disciples, une mutante batracienne, lui verse de l’eau en lui chantant une berceuse.
+Ils nous accompagnent jusqu'au château, où nous découvrons une immense pièce dans laquelle on aperçoit Olathvee endormi dans une baignoire. 
+Une de ses disciples, une mutante batracienne, lui verse de l'eau en lui chantant une berceuse.
 
 Nous descendons un escalier biscornu et explorons trois salles différentes :
-- 1re salle : trois fontaines à vœux remplies des larmes des fidèles d’Olathvee, dans lesquelles tombent des pièces. Dagozaille réussit à attraper l’une d’entre elles, sur laquelle est inscrit un vœu et le visage du fidèle qui a jeté la pièce.
-- 2e salle, plus bas : une salle de torture dans laquelle une créature difforme aux multiples tentacules est enfermée dans une cage. Dylak parvient, grâce à son sort d’injonction, à lui faire lâcher une sorte de pierre brisée qui change constamment de couleur. Pultum détecte qu’il s’agit d’un objet magique : un fragment d’âme divine.
-- 3e salle : une bibliothécaire mutante nous apprend que l’âme d’Olathvee a été brisée en deux morceaux, et que nous possédons déjà l’un d’eux. Elle nous donne les fragments d’un poème que le dieu avait déchiré ; nous parvenons à le remettre dans le bon ordre (__ça vaut au moins 50 PX !__) :
+- 1re salle : trois fontaines à vœux remplies des larmes des fidèles d'Olathvee, dans lesquelles tombent des pièces. Dagozaille réussit à attraper l'une d'entre elles, sur laquelle est inscrit un vœu et le visage du fidèle qui a jeté la pièce.
+- 2e salle, plus bas : une salle de torture dans laquelle une créature difforme aux multiples tentacules est enfermée dans une cage. Dylak parvient, grâce à son sort d'injonction, à lui faire lâcher une sorte de pierre brisée qui change constamment de couleur. Pultum détecte qu'il s'agit d'un objet magique : un fragment d'âme divine.
+- 3e salle : une bibliothécaire mutante nous apprend que l'âme d'Olathvee a été brisée en deux morceaux, et que nous possédons déjà l'un d'eux. Elle nous donne les fragments d'un poème que le dieu avait déchiré ; nous parvenons à le remettre dans le bon ordre (__ça vaut au moins 50 PX !__) :
 
 <i>
-My Void-Spawn Love’s Tentacles Can But Kill, <br/>
-Inflicting Wounds That Steal A Body’s Breath <br/>
-Like Demon’s Talons, Murdering At Will <br/>
+My Void-Spawn Love's Tentacles Can But Kill, <br/>
+Inflicting Wounds That Steal A Body's Breath <br/>
+Like Demon's Talons, Murdering At Will <br/>
 And Causing Pious Men To Pray For Death! <br/>
 <br/>
-My Dark Love’s Tongue Is Best To Doom Pronounce, <br/>
+My Dark Love's Tongue Is Best To Doom Pronounce, <br/>
 Each Syllable A Hellish Damning Curse; <br/>
 Philosophers Their Faith In Grace Renounce <br/>
 As Souls At Her Command Do Leave The Earth! <br/>
@@ -1720,18 +1720,18 @@ Together They Have Claimed My Beating Heart. <br/>
 
 Nous remontons explorer la dernière pièce du rez-de-chaussée, dans laquelle Dylak avait entendu des aboiements à notre arrivée.
 
-Nous arrivons dans une salle où trois chiens anthropomorphes sont installés à une table et semblent très agressifs. Une serveuse à tête de chat se tient derrière un bar. Derrière les chiens, une fumée semble dissimuler quelque chose, et grâce au sort de détection de Pultum, nous devinons qu’il s’agit d’un objet magique. Dagozaille distrait les chiens en leur lançant un bâton pendant que Dylak s’approche de l’objet : il s’agit d’un cube duquel sort une chanson d’amour (à la manière d’une enceinte Bluetooth), et dans lequel se trouve une fente comme une tirelire. Dagozaille y glisse la pièce ramassée dans la fontaine : la boîte s’ouvre et nous trouvons le deuxième fragment d’âme du dieu.
+Nous arrivons dans une salle où trois chiens anthropomorphes sont installés à une table et semblent très agressifs. Une serveuse à tête de chat se tient derrière un bar. Derrière les chiens, une fumée semble dissimuler quelque chose, et grâce au sort de détection de Pultum, nous devinons qu'il s'agit d'un objet magique. Dagozaille distrait les chiens en leur lançant un bâton pendant que Dylak s'approche de l'objet : il s'agit d'un cube duquel sort une chanson d'amour (à la manière d'une enceinte Bluetooth), et dans lequel se trouve une fente comme une tirelire. Dagozaille y glisse la pièce ramassée dans la fontaine : la boîte s'ouvre et nous trouvons le deuxième fragment d'âme du dieu.
 
-Nous recollons les deux morceaux, qui s’emboîtent parfaitement. Les trois chiens et la serveuse retrouvent forme humaine, et dans la pièce principale, la fidèle qui chantait la berceuse ainsi que les autres disciples perdent également leurs mutations. **Nous échangeons l’âme du dieu contre l’apprentissage de l’une des sept chansons secrètes auprès de la disciple d’Olathvee : il s’agit d’une berceuse létale permettant de maintenir une créature endormie.** Seuls ceux qui ne pratiquent pas la magie peuvent l’apprendre. Dagozaille et Ranock y parviennent, puis nous remettons l’âme d’Olathvee à sa disciple, qui plonge le fragment dans le bain.
+Nous recollons les deux morceaux, qui s'emboîtent parfaitement. Les trois chiens et la serveuse retrouvent forme humaine, et dans la pièce principale, la fidèle qui chantait la berceuse ainsi que les autres disciples perdent également leurs mutations. **Nous échangeons l'âme du dieu contre l'apprentissage de l'une des sept chansons secrètes auprès de la disciple d'Olathvee : il s'agit d'une berceuse létale permettant de maintenir une créature endormie.** Seuls ceux qui ne pratiquent pas la magie peuvent l'apprendre. Dagozaille et Ranock y parviennent, puis nous remettons l'âme d'Olathvee à sa disciple, qui plonge le fragment dans le bain.
 
-À la manière d’un bain moussant, l’eau devient multicolore et Olathvee sort de l’eau, nu comme un ver, devant nos yeux médusés. **Nous parvenons à l’inviter dans notre manoir en lui promettant un dîner romantique avec Dirgadellia pour lui donner une dernière chance de la séduire.** Nous lui rapportons son peignoir rouge en soie brodé d’or, et ses disciples nous raccompagnent dans notre monde.
+À la manière d'un bain moussant, l'eau devient multicolore et Olathvee sort de l'eau, nu comme un ver, devant nos yeux médusés. **Nous parvenons à l'inviter dans notre manoir en lui promettant un dîner romantique avec Dirgadellia pour lui donner une dernière chance de la séduire.** Nous lui rapportons son peignoir rouge en soie brodé d'or, et ses disciples nous raccompagnent dans notre monde.
 
 ### Session 39 ; 2026/04/27 - Un Diner pour Olathvee
 
-À la sortie du château, Olathvee accepte qu’Esmée, l’une de ses disciples, nous accompagne afin d’organiser le dîner romantique avec Dirgadellia.
-Après quelques instants, et une fois qu’Esmée a rassemblé quelques affaires, nous nous retrouvons dans le temple de Punjar.
+À la sortie du château, Olathvee accepte qu'Esmée, l'une de ses disciples, nous accompagne afin d'organiser le dîner romantique avec Dirgadellia.
+Après quelques instants, et une fois qu'Esmée a rassemblé quelques affaires, nous nous retrouvons dans le temple de Punjar.
 
-En interpellant l’un des fidèles, nous apprenons que deux jours se sont écoulés.
+En interpellant l'un des fidèles, nous apprenons que deux jours se sont écoulés.
 Les couples se sont réconciliés, les émeutes ont cessé, et la reine de Punjar a finalement décidé de ne pas divorcer.
 
 Nous rentrons ensuite au manoir des Liis pour le faire visiter à Esmée et préparer avec elle le dîner romantique destiné à Olathvee.
@@ -1741,20 +1741,20 @@ Nous retournons donc à Punjar.
 
 ## En forgeant l'anneau spectral
 
-Au temple d’Olathvee, Esmée apprend qu’il accepte de venir dans notre manoir pour le dîner avec Dirgadellia.
+Au temple d'Olathvee, Esmée apprend qu'il accepte de venir dans notre manoir pour le dîner avec Dirgadellia.
 En revanche, il souhaite que nous forgions un anneau spectral destiné à Dirgadellia.
 
 Nous nous rendons donc chez Boss Oggo, le bijoutier de Punjar que nous connaissons déjà, afin de lui demander de forger cet anneau.
-Il peut le faire, mais il a besoin d’une pierre très particulière.
-Une fois l’anneau serti de cette pierre, il faudra le tremper dans l’ichor cérébral d’une créature, une grande abomination.
+Il peut le faire, mais il a besoin d'une pierre très particulière.
+Une fois l'anneau serti de cette pierre, il faudra le tremper dans l'ichor cérébral d'une créature, une grande abomination.
 
-Depuis trois semaines, il est sans nouvelles d’une troupe d’aventuriers qu’il avait engagée pour aller chercher une pierre dans le désert de Xattoth.
+Depuis trois semaines, il est sans nouvelles d'une troupe d'aventuriers qu'il avait engagée pour aller chercher une pierre dans le désert de Xattoth.
 Le dernier pharaon de cette lignée a été inhumé avec une pierre magique enchâssée entre les yeux.
-Et c’est précisément cette pierre qui est nécessaire pour forger l’anneau spectral.
+Et c'est précisément cette pierre qui est nécessaire pour forger l'anneau spectral.
 
 Esmée lui rachète la carte menant au désert de Xattoth.
 
-Après quelques provisions à Punjar, nous partons pour le désert sur le tapis volant d’Esmée.
+Après quelques provisions à Punjar, nous partons pour le désert sur le tapis volant d'Esmée.
 
 Dylak réussit à tomber du tapis volant, en voulant rattraper un goéland qui se jetait de la falaise...
 
@@ -1810,10 +1810,33 @@ Ca nous coute une fortune, mais nous acceptons.
 
 Chaque anneau coute 400 pièces d'or. Le premier est pour la promise d'Olathvee et son prix est payé par Esmée.
 Pultum en paie deux, un pour lui et un pour Dylak avec 8 disques de platine.
-Avec les lingots, une sceptre en ivoire ramassé dans la tombe, on rassemble de quoi en payer un pour Vandassia.
+Avec les lingots, un sceptre en ivoire ramassé dans la tombe, on rassemble de quoi en payer un pour Vandassia.
 
 
-Boss Oggo, nous informe que dans l'est d'Aereth, un Odototyrannus a été enseveli il y a deux cents ans.
+Boss Oggo, nous informe que dans l'est d'Aereth, un Odontotyrannus a été enseveli il y a deux cents ans.
 Cette créature pourrait être une source d'ichor cérébral pour tremper l'anneau...
+
+### Session 42 ; 2026/08/31 - L'Odontotyrannus dans la forteresse en ruines
+
+Après avoir quitté Boss Oggo, qui s'est attelé à la forge des anneaux, nous profitons de deux jours de repos bien mérités dans notre manoir.
+
+Puis, grâce au tapis volant d'Esmée, nous mettons le cap sur la forteresse en ruines où serait retenu le spécimen d'Odontotyrannus dont nous devons abattre la tête pour tremper les anneaux dans son ichor cérébral.
+
+La forteresse est éventrée, silencieuse. Vandassia, usant d'un mur de force pour dégager la pierre, parvient à excaver une portion de la muraille.
+Derrière les blocs déplacés, on aperçoit des écailles.
+
+Après quelques débats philosophiques, et peu productifs, sur la meilleure approche tactique, Pultum finit par trancher la question en donnant un coup de sabre. Ranok enchaîne aussitôt avec un coup de marteau.
+
+La créature réagit violemment : les murs tremblent, des pierres s'effondrent, mais nous parvenons à les éviter.
+Le combat s'engage. L'Odontotyrannus, une bête féroce à deux ou trois cornes, déchaîne sa fureur, renversant les murs autour de nous.
+Sabres, lances et marteau s'abattent sur lui dans un fracas de pierre et de chair.
+
+Dans la mêlée, Dagozaille brise sa lance.
+Vandassia, imperturbable, achève finalement la bête d'une salve de projectiles de force.
+
+Une fois le monstre terrassé, nous trempons les anneaux dans son ichor.
+Ils se mettent aussitôt à luire.
+
+Sur les squellettes des soldats, nous ramassons quelques breloques et repartons vers Punjar pour remettre les anneaux à Boss Oggo.
 
 **A SUIVRE...**
