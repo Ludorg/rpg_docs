@@ -33,11 +33,8 @@ Erohye reçoit alors 4 PX, car (20 / (4 + 1)). -->
 
 | Joueur    | Personnage   | Métier (niveau 0)     | Origines                                                       | Classe          | Niveau | PX                       |
 |-----------|--------------|-----------------------|----------------------------------------------------------------|-----------------|--------|--------------------------|
-| Evan      | Erohye       | Elfe Avocat           | Caerwynd                                                       | Elfe            | 2      | 95  <!-- 4+10+4+4+3+4+10+12+2+2+2+3+2+6+12+15  --> |
-| Evan      | Vala         | Trappeur              | Caerwynd                                                       | Voleur          | 2      | 106 <!-- 4+10+4+2+3+8+05+06+4+6+6+9+6+6+12+15  --> |
-| Thomas    | Britanice    | Fromagère             | Caerwynd                                                       | Clerc (Pélagia) | 2      | 108 <!-- 4+10+4+4+6+8+10+12+4+6+2+3+2+6+12+15  --> |
-| Thomas    | Yttruyakin   | Apprentie magiciennce | Strathford ; Libérée dans la Forteresse des Seigneurs du Chaos | Mage            | 3      | 114 <!-- 4+10+4+2+6+8+10+12+2+2+6+9+6+6+12+15  --> |
-| Eoghan    | Toska        | Garde de Caravane     | Strathford                                                     | Guerrier        | 2      | 98  <!-- 0+00+0+4+6+8+10+12+2+6+6+9+2+6+12+15  --> |
+| Sophie    | Britanice    | Fromagère             | Caerwynd                                                       | Clerc (Pélagia) | 2      | 108 <!-- 4+10+4+4+6+8+10+12+4+6+2+3+2+6+12+15  --> |
+| Sophie    | Yttruyakin   | Apprentie magiciennce | Strathford ; Libérée dans la Forteresse des Seigneurs du Chaos | Mage            | 3      | 114 <!-- 4+10+4+2+6+8+10+12+2+2+6+9+6+6+12+15  --> |
 | Félix     | Talion       | Coupeur de bourse     | Hirot                                                          | Voleur          | 2      | 87  <!-- 0+00+0+4+3+8+10+12+4+6+6+9+6+2+12+05  --> |
 | Félix     | Enoriel      | Elfe Forestier        | Hirot                                                          | Elfe            | 2      | 50  <!-- 0+00+0+4+3+8+05+06+2+3+3+3+2+2+04+05  --> |
 | Augustin  | Artus Stinc  | Coupeur de bourse     | Hirot                                                          | Voleur          | 2      | 84  <!-- 0+10+0+0+0+0+10+12+4+6+3+3+3+6+12+15  --> |
@@ -65,16 +62,19 @@ Erohye reçoit alors 4 PX, car (20 / (4 + 1)). -->
 | Joueur | Personnage | Métier (niveau 0) | Village d'origine | Classe | Niveau | PX |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 | Eoghan    | Ciarrior (RIP)    | Nain Mineur           | Hirot                                                          | Nain            | 2      | 73  <!-- 0+00+0+4+6+4+05+06+2+3+3+3+2+6+12+15 (+2) --> |
+| Eoghan    | Toska        | Garde de Caravane     | Strathford                                                     | Guerrier        | 2      | 98  <!-- 0+00+0+4+6+8+10+12+2+6+6+9+2+6+12+15  --> |
 | Sacha | Sclavor (RIP) | Esclave | Strathford |  | 0 |  |
 | Sacha | Giken (RIP) | Garde de Caravane | Strathford ; Libéré dans la Forteresse des Seigneurs du Chaos |  | 0 |  |
 | Sacha     | Willy-Claude | Vidangeur de Latrines | Strathford                                                     | Guerrier        | 2      | 72 <!-- 0+10+2+4+3+4+10+12+4+6+2+9+6  --> |
 | Sacha     | Shul         | Serrurier             | Strathford                                                     | ??              | 1      | 44 <!-- 0+10+2+2+3+4+05+06+2+3+2+3+2  --> |
 | Sacha     | Dollex       | Collecteur d'Impots   | Strathford ; Libéré dans la Forteresse des Seigneurs du Chaos  | ??              | 1      | 44 <!-- 0+10+2+2+3+4+05+06+2+3+2+3+2  --> |
-| Thomas | Lucard (RIP) | Bedeau | Caerwynd ; En charge du temple dédié à Amun Tor au village de Stratford |  | 0 | | 
-| Thomas | Poinstiné (RIP) | Astrologue | Caerwynd |  | 0 | |  
-| Thomas | Ewan | Fermier | Caerwynd ; Libéré dans les Fosses d'Invocation |  | 0 | 14 |
+| Sophie | Lucard (RIP) | Bedeau | Caerwynd ; En charge du temple dédié à Amun Tor au village de Stratford |  | 0 | | 
+| Sophie | Poinstiné (RIP) | Astrologue | Caerwynd |  | 0 | |  
+| Sophie | Ewan | Fermier | Caerwynd ; Libéré dans les Fosses d'Invocation |  | 0 | 14 |
 | Evan | Vixela |  Nain Apothicaire | Caerwynd |  | 0 | 14 |
 | Evan | Farnoc |  Nain Berger | Caerwynd ; Libéré dans les Fosses d'Invocation |  | 0 | 14 |
+| Evan      | Erohye       | Elfe Avocat           | Caerwynd                                                       | Elfe            | 2      | 95  <!-- 4+10+4+4+3+4+10+12+2+2+2+3+2+6+12+15  --> |
+| Evan      | Vala         | Trappeur              | Caerwynd                                                       | Voleur          | 2      | 106 <!-- 4+10+4+2+3+8+05+06+4+6+6+9+6+6+12+15  --> |
 | Joseph | Kadabra | Elfe Cirier | Strathford |  | 0 | 10 |
 | Joseph | Nehic | Nain Forgeron | Strathford |  | 0 | 10 |
 | Joseph | Thulan (RIP)      | Alchimiste            | Strathford                                                     | Mage            | 1      | 22 <!-- 0+10+4+2+6+0 --> |
