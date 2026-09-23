@@ -24,6 +24,7 @@ Ci-après, mes notes, résumés et documents pour les joueurs sur les sessions p
 - [Session 1.18 : Assaut sur la Citadelle de l'Enchanteur d'Émeraude](./dcc_cdt_2026_04_03) - L'Enchanteur d'Émeraude
 - [Session 1.19 : Le combat final contre l'Enchanteur d'Émeraude](./dcc_cdt_2026_05_29) - L'Enchanteur d'Émeraude
 - [Session 2.01 : Un périlleux voyage vers une Brèche dans le Ciel](./dcc_cdt_2026_09_04) - La Brèche dans le Ciel
+- [Session 2.02 : La Libération de Drezzta](./dcc_cdt_2026_09_18) - La Brèche dans le Ciel
 
 ## Accessoires et documents utiles aux joueurs
 

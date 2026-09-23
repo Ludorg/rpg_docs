@@ -26,12 +26,12 @@
 | Frère Aker et Frère Haams       | Hirot                                   | Acolytes du Père Beacom qui ont fait vœu de silence.                         |
 | Maître Jenks                    | Hirot (Repaire des Trois Rats)          | Tenancier du Repaire des Trois Rats, un bouge local.                         |
 | Kej, Stein, Ilham               | Tombe de l'Ulfheonar                    | Trois frères disparus, retrouvés comme goules dans la Tombe.                 |
-| Draupnir                        | Siège d’Ivrian / Tour de Draupnir       | Mage disparu puis retrouvé au Siège d’Ivrian.                                |
-| Rubuld                          | Siège d’Ivrian / Tour de Draupnir       | Apprenti de Draupnir, trouvé dans une cuve au Siège d’Ivrian.                |
-| Les Bâtisseurs                  | Siège d’Ivrian                          | Antique peuple d’hybrides entre mille-pattes et scorpions marins qui mirent au jour d’innombrables secrets scientifiques et magiques. |
-| Ivrian de Dalcia                | Siège d’Ivrian                          | Esprit / aïeule de Britanice en quête de son corps inaltérable.              |
-| Aagazzbagh le Doré              | Siège d’Ivrian                          | Démon gardien de l'astrolithe, renvoyé sur son plan grâce à Ecrochenuit.     |
-| Pyrrhus l’Incorruptible         | Hirot                                   | Prêtre de Loptir, le Seigneur des Flammes, préside les feux sacrés des festivités du solstice d’hiver. |
+| Draupnir                        | Siège d'Ivrian / Tour de Draupnir       | Mage disparu puis retrouvé au Siège d'Ivrian.                                |
+| Rubuld                          | Siège d'Ivrian / Tour de Draupnir       | Apprenti de Draupnir, trouvé dans une cuve au Siège d'Ivrian.                |
+| Les Bâtisseurs                  | Siège d'Ivrian                          | Antique peuple d'hybrides entre mille-pattes et scorpions marins qui mirent au jour d'innombrables secrets scientifiques et magiques. |
+| Ivrian de Dalcia                | Siège d'Ivrian                          | Esprit / aïeule de Britanice en quête de son corps inaltérable.              |
+| Aagazzbagh le Doré              | Siège d'Ivrian                          | Démon gardien de l'astrolithe, renvoyé sur son plan grâce à Ecrochenuit.     |
+| Pyrrhus l'Incorruptible         | Hirot                                   | Prêtre de Loptir, le Seigneur des Flammes, préside les feux sacrés des festivités du solstice d'hiver. |
 | Les Lignées de Brume            | Bosquet des Trois Sœurs (sud de Hirot)  | Petite communauté d'elfes où s'est réfugié Velwyn Murmure-de-Pierres après avoir quitté Strathford. |
 | Esméryl                         | Forêt au sud de Hirot                   | Epimélide, une dryade gardienne d'un verger, devenue folle après avoir planté une graine maudite. |
 
@@ -48,7 +48,7 @@
 | La Tombe de l'Ulfheonar            | Sépulture d'un roi barbare ayant terrasé le Molosse il y a des éons.        |
 | L'Enseigne de la Lance Tue‑Loup    | Auberge de Hirot tenue par Broegan Haverson.                                |
 | Repaire des Trois Rats             | Bouge mal famé de Hirot, tenu par Maître Jenks.                             |
-| Tour de Draupnir                   | Tour du mage Draupnir, un portail menant au Siège d’Ivrian y est apparu.    |
-| Siège d’Ivrian                     | Complexe souterrain lié aux Bâtisseurs et à Ivrian de Dalcia.               |
+| Tour de Draupnir                   | Tour du mage Draupnir, un portail menant au Siège d'Ivrian y est apparu.    |
+| Siège d'Ivrian                     | Complexe souterrain lié aux Bâtisseurs et à Ivrian de Dalcia.               |
 | Abbaye des Bois                    | Ruines indiquées sur une carte, où se trouverait un important trésor.       |
 | Le Bosquet des Trois Sœurs         | Clairière crépusculaire dominée par trois arbres colossaux — le Chêne Noueux, le Hêtre Argenté et le Pin Noir. Lieu de vie d'une une petite communauté d'elfes : les Lignées de Brume. |
