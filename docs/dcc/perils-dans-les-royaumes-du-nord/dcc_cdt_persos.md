@@ -1,5 +1,24 @@
 # DCC - Périls dans les Royaumes du Nord - Liste des Personnages Joueurs
 
+## Novices qui ne le sont plus
+
+| Joueur    | Personnage   | Métier (niveau 0)     | Origines                                                       | Classe          | Niveau | PX                       |
+|-----------|--------------|-----------------------|----------------------------------------------------------------|-----------------|--------|--------------------------|
+| Elena     | Icar         | Scribe                | Guidé vers la Brèche dans le Ciel par la Dame en Bleu          | ??               |      0 | 10                       |
+| Elena     | Lilylia      | Fermière              | Guidée vers la Brèche dans le Ciel par la Dame en Bleu         | ??               |      0 | 10                       |
+| Elena     | Raya         | Serrurière            | Guidée vers la Brèche dans le Ciel par la Dame en Bleu         | ??               |      0 | 10                       |
+| Augustin  | Belle        | Orpheline             | Guidée vers la Brèche dans le Ciel par la Dame en Bleu         | ??               |      0 | 10                       |
+| Augustin  | Siméon       | Garde de Caravane     | Guidé vers la Brèche dans le Ciel par la Dame en Bleu          | ??               |      0 | 10                       |
+| Augustin  | Gloin        | Nain Forgeron         | Guidé vers la Brèche dans le Ciel par la Dame en Bleu          | Nain            |      0 | 10                       |
+| Augustin  | Albert       | Fromager              | Guidé vers la Brèche dans le Ciel par la Dame en Bleu          | ??               |      0 | 10                       |
+| Sophie    | Amalia       | Halfeline Bohémienne  | Guidée vers la Brèche dans le Ciel par la Dame en Bleu         | Halfelin        |      0 | 10                       |
+| Sophie    | Wulf Gangus  | Ménestrel             | Guidé vers la Brèche dans le Ciel par la Dame en Bleu          | ??               |      0 | 10                       |
+| Félix     | Gurdil       | Nain Myciculteur      | Guidé vers la Brèche dans le Ciel par la Dame en Bleu          | Nain            |      0 | 10                       |
+| Félix     | Merry        | Hafelin Usurier       | Guidé vers la Brèche dans le Ciel par la Dame en Bleu          | Halfelin        |      0 | 10                       |
+| Sébastien | Thonger      | Coupeur de bourse     | Guidé vers la Brèche dans le Ciel par la Dame en Bleu          | ??               |      0 | 10                       |
+| Valentin  | Jar          | Astrologue            | Guidé vers la Brèche dans le Ciel par la Dame en Bleu          | ??               |      0 | 10                       |
+| Valentin  | Jarre        | Elfe Artisan          | Guidé vers la Brèche dans le Ciel par la Dame en Bleu          | Elfe            |      0 | 10                       |
+
 ## Héros en devenir
 
 <!-- Au niveau 1, un personnage au repos pour une session gagne la moitié des PX -->
@@ -61,6 +80,14 @@ Erohye reçoit alors 4 PX, car (20 / (4 + 1)). -->
 
 | Joueur | Personnage | Métier (niveau 0) | Village d'origine | Classe | Niveau | PX |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| Chloé | Edna | Halfelin gantière | ??? |  | 0 | |
+| Chloé | Boris  (RIP) | Trappeur  | ??? |  | 0 | |
+| Augustin  | Sir Glubulum  (RIP) | Coupeur de bourse | ??? |  | 0 | |
+| Augustin  | Martin  (RIP) | Trappeur  | ??? |  | 0 | |
+| Sébastien | Sebor  (RIP) | Excavateur | ??? |  | 0 | |
+| Sébastien | Flamme (RIP) | Halfelin Marinier  | Mherkin |  | 0 | |
+| Sophie    | Crow  (RIP)  | Scribe  | ??? |  | 0 | |
+| Valentin  | Disco Pouet  (RIP) | Nain forgeron  | ??? |  | 0 | |
 | Eoghan    | Ciarrior (RIP)    | Nain Mineur           | Hirot                                                          | Nain            | 2      | 73  <!-- 0+00+0+4+6+4+05+06+2+3+3+3+2+6+12+15 (+2) --> |
 | Eoghan    | Toska        | Garde de Caravane     | Strathford                                                     | Guerrier        | 2      | 98  <!-- 0+00+0+4+6+8+10+12+2+6+6+9+2+6+12+15  --> |
 | Sacha | Sclavor (RIP) | Esclave | Strathford |  | 0 |  |
