@@ -32,8 +32,24 @@
 | Ivrian de Dalcia                | Siège d'Ivrian                          | Esprit / aïeule de Britanice en quête de son corps inaltérable.              |
 | Aagazzbagh le Doré              | Siège d'Ivrian                          | Démon gardien de l'astrolithe, renvoyé sur son plan grâce à Ecrochenuit.     |
 | Pyrrhus l'Incorruptible         | Hirot                                   | Prêtre de Loptir, le Seigneur des Flammes, préside les feux sacrés des festivités du solstice d'hiver. |
+| Tjaptar                         | Iceberg Hyperboréen                     | Ancienne divinité sylvestre de la taïga dans l'Hyperborée.                   |
 | Les Lignées de Brume            | Bosquet des Trois Sœurs (sud de Hirot)  | Petite communauté d'elfes où s'est réfugié Velwyn Murmure-de-Pierres après avoir quitté Strathford. |
 | Esméryl                         | Forêt au sud de Hirot                   | Epimélide, une dryade gardienne d'un verger, devenue folle après avoir planté une graine maudite. |
+| Willy-Claude                    | Hirot                                   | Ancien membre des Libérateurs de Hirot, parti pour défendre la cause et la caste des Gongfarmers. |
+| L’abbé des bois                 | L'abbaye des Bois                       | Un grand prêtre qui mena ses disciples dans la nature pour y vivre à l’abri du vice. |
+| Sotar                           | Hirot                                   | Chef d’une troupe de pillards. Tué par les Libérateurs de Hirot.  |
+| Thane Veldrik de Lornhame       | Timberdock                              | Suzerain du Jarl Holgwig. | 
+| Osric                           | Galaron puis Hirot                      | Envoyé par Gazred le Vieux. S'intéressait aux événements liés au Molosse. A disparu à Hirot. |
+| Gazred le Vieux                 | Galaron                                 | Maître‑Livre suppléant du Tome. |
+| Le Tome                         | Galaron et Royaume de Morrain           | Société de magiciens et d'arcanistes ; Collectionneurs de grimoires et mécènes de compagnies d'aventuriers. |
+| L’Enchanteur d’Émeraude         | Citadelle de l'Enchanteur d'Emeraude    | Probablement un réscapé de la confrérie de Yarlford qui a continué ses expériences. |
+| Thesdipèdes                     | Citadelle de l'Enchanteur d'Emeraude    | Cadavre blême qui fut  un transmutateur volubile. |
+| Istrobien                       | Citadelle de l'Enchanteur d'Emeraude    | Cerveau sous cloche réanimé qui était illusionniste dans sa vié précédente. |
+| Gobur                           | Citadelle de l'Enchanteur d'Emeraude    | Crâne en morcreaux d'un guerrier magicien et diaboliste. |
+| La Dame en Bleu                 | Inconnu (recontrée près de Mherkin)     | Puissante entité aux motivations inconnues. |
+| Drezzta                         | Inconnu                                 | Première alliée de La Dame en Bleu |
+| Rolff                           | Mherkin                                 | Seigneur de guerre de Mherkin |
+
 
 ## Lieux notables
 
@@ -51,4 +67,10 @@
 | Tour de Draupnir                   | Tour du mage Draupnir, un portail menant au Siège d'Ivrian y est apparu.    |
 | Siège d'Ivrian                     | Complexe souterrain lié aux Bâtisseurs et à Ivrian de Dalcia.               |
 | Abbaye des Bois                    | Ruines indiquées sur une carte, où se trouverait un important trésor.       |
-| Le Bosquet des Trois Sœurs         | Clairière crépusculaire dominée par trois arbres colossaux — le Chêne Noueux, le Hêtre Argenté et le Pin Noir. Lieu de vie d'une une petite communauté d'elfes : les Lignées de Brume. |
+| Iceberg Hyperboréen                | Iceberg flottant, avec la Ziggourat de Tjaptar dessus. S'est écrasé prés de Hirot. |
+| Le Bosquet des Trois Sœurs         | Clairière crépusculaire dominée par trois arbres colossaux : le Chêne Noueux, le Hêtre Argenté et le Pin Noir. Lieu de vie d'une une petite communauté d'elfes : les Lignées de Brume. |
+| Yarlford                           | Ruines d'une ancienne congrégation de magiciens qui y étudiaient une source d'énergie tellurique. |
+| Timberdock                         | Petit hameau de bûcherons établi sur la rivière, situé à plusieurs kilomètres de Hirot. |
+| Citadelle de l'Enchanteur d'Emeraude | Située au nord de Timberdock, non loin des ruines de Yarlford.            |
+| Mherkin                            | Village où certains ont recontré la Dame en Bleu.                           |
+| La Prison de Drezzta               | Un pont invisble, une brêche dans le ciel et un titan endormi qui garde ce lieu.  |
