@@ -14,7 +14,7 @@
 | Oryx le Roublard                | Strathford                              | Vieux roublard et mentor, enseigna le larcin à certains.                     |
 | Thalios le Murmure-aux-Vagues   | Strathford                              | Ermite mystique qui a initié Britanice à la foi de Pelagia.                  |
 | Iminix                          | Strathford                              | Magicien de Strathford, mentor d'apprentis (Yttruyakin, Thulan).             |
-| Velwyn Murmure-de-Pierres       | Strathford, puis Hirot                  | Elfe énigmatique, vit proche de pierres levées non loin du village.          | 
+| Velwyn Murmure-de-Pierres       | Strathford, puis Hirot                  | Elfe énigmatique, vit proche de pierres levées non loin du village.          |
 | Morgane Haverson                | Hirot                                   | Jeune fille sauvée d'un sacrifice au molosse de Hirot.                       |
 | Broegan Haverson ("le Taureau") | Hirot (L'Enseigne de la Lance Tue‑Loup) | Aubergiste de la Lance Tue‑Loup, père de Morgane.                            |
 | Jarl Holgwig                    | Hirot                                   | Seigneur local de Hirot, organise le tirage au sort pour le sacrifice.       |
@@ -24,6 +24,7 @@
 | Sylle‑Ru                        | Hirot                                   | Conseiller / éminence grise du jarl Holgwig.                                 |
 | Père Beacom                     | Hirot                                   | Clerc de Justicia, convaincu que le molosse est un châtiment pour les péchés du village. |
 | Frère Aker et Frère Haams       | Hirot                                   | Acolytes du Père Beacom qui ont fait vœu de silence.                         |
+| Père Eryndor                    | Kald, Hirot                             | Jeune Prêtre de Justicia, remplaçant du Père Beacom.                         |
 | Maître Jenks                    | Hirot (Repaire des Trois Rats)          | Tenancier du Repaire des Trois Rats, un bouge local.                         |
 | Kej, Stein, Ilham               | Tombe de l'Ulfheonar                    | Trois frères disparus, retrouvés comme goules dans la Tombe.                 |
 | Draupnir                        | Siège d'Ivrian / Tour de Draupnir       | Mage disparu puis retrouvé au Siège d'Ivrian.                                |
@@ -38,7 +39,7 @@
 | Willy-Claude                    | Hirot                                   | Ancien membre des Libérateurs de Hirot, parti pour défendre la cause et la caste des Gongfarmers. |
 | L’abbé des bois                 | L'abbaye des Bois                       | Un grand prêtre qui mena ses disciples dans la nature pour y vivre à l’abri du vice. |
 | Sotar                           | Hirot                                   | Chef d’une troupe de pillards. Tué par les Libérateurs de Hirot.  |
-| Thane Veldrik de Lornhame       | Timberdock                              | Suzerain du Jarl Holgwig. | 
+| Thane Veldrik de Lornhame       | Timberdock                              | Suzerain du Jarl Holgwig. |
 | Osric                           | Galaron puis Hirot                      | Envoyé par Gazred le Vieux. S'intéressait aux événements liés au Molosse. A disparu à Hirot. |
 | Gazred le Vieux                 | Galaron                                 | Maître‑Livre suppléant du Tome. |
 | Le Tome                         | Galaron et Royaume de Morrain           | Société de magiciens et d'arcanistes ; Collectionneurs de grimoires et mécènes de compagnies d'aventuriers. |
@@ -48,14 +49,17 @@
 | Gobur                           | Citadelle de l'Enchanteur d'Emeraude    | Crâne en morcreaux d'un guerrier magicien et diaboliste. |
 | La Dame en Bleu                 | Inconnu (recontrée près de Mherkin)     | Puissante entité aux motivations inconnues. |
 | Drezzta                         | Inconnu                                 | Première alliée de La Dame en Bleu |
-| Rolff                           | Mherkin                                 | Seigneur de guerre de Mherkin |
-
+| Rolff                           | Mherkin                                 | Seigneur de guerre de Mherkin. |
+| Nemid l'Ancien                  | Mherkin                                 | Erudit possédant quelques savoirs magiques. |
+| Vieux Buck                      | Mherkin                                 | Fermier de radis. |
+| Cwentale                        | Mherkin                                 | Fils du Vieux Buck. |
 
 ## Lieux notables
 
 | Lieu                               | Bref descriptif                                                             |
 |------------------------------------|-----------------------------------------------------------------------------|
 | Baie de Valfors                    | Surnommée la Baie des Tempêtes par les pêcheurs locaux, les eaux glacées de la baie de Valfors regorgent d'innombrables espèces marines. |
+| Galaron                            | Capitale du Royaume de Morrain, borde la Baie de Valfors                    |
 | Strathford                         | Village (~~100~~ 50 p.) proche de la Forteresse du Chaos en ruine.          |
 | Caerwynd                           | Hameau (~~50~~ 30 p.) près de la Forteresse.                                |
 | Forteresse des Seigneurs du Chaos  | Ruine cyclopéenne, source d'événements chaotiques et repaire des hommes‑bêtes. |
@@ -64,13 +68,15 @@
 | La Tombe de l'Ulfheonar            | Sépulture d'un roi barbare ayant terrasé le Molosse il y a des éons.        |
 | L'Enseigne de la Lance Tue‑Loup    | Auberge de Hirot tenue par Broegan Haverson.                                |
 | Repaire des Trois Rats             | Bouge mal famé de Hirot, tenu par Maître Jenks.                             |
+| Kald                               | Monastère fortifié à l’est de Hirot. Abrite une cinquantaine de moines‑guerriers vivant en autarcie. |
 | Tour de Draupnir                   | Tour du mage Draupnir, un portail menant au Siège d'Ivrian y est apparu.    |
 | Siège d'Ivrian                     | Complexe souterrain lié aux Bâtisseurs et à Ivrian de Dalcia.               |
 | Abbaye des Bois                    | Ruines indiquées sur une carte, où se trouverait un important trésor.       |
 | Iceberg Hyperboréen                | Iceberg flottant, avec la Ziggourat de Tjaptar dessus. S'est écrasé prés de Hirot. |
 | Le Bosquet des Trois Sœurs         | Clairière crépusculaire dominée par trois arbres colossaux : le Chêne Noueux, le Hêtre Argenté et le Pin Noir. Lieu de vie d'une une petite communauté d'elfes : les Lignées de Brume. |
 | Yarlford                           | Ruines d'une ancienne congrégation de magiciens qui y étudiaient une source d'énergie tellurique. |
-| Timberdock                         | Petit hameau de bûcherons établi sur la rivière, situé à plusieurs kilomètres de Hirot. |
+| Timberdock                         | Petit hameau de bûcherons (100 p.) établi sur la rivière, situé à plusieurs kilomètres de Hirot. |
 | Citadelle de l'Enchanteur d'Emeraude | Située au nord de Timberdock, non loin des ruines de Yarlford.            |
-| Mherkin                            | Village où certains ont recontré la Dame en Bleu.                           |
-| La Prison de Drezzta               | Un pont invisble, une brêche dans le ciel et un titan endormi qui garde ce lieu.  |
+| Mherkin                            | Village (60 p.) où certains ont recontré la Dame en Bleu.                   |
+| La Prison de Drezzta               | Un pont invisble, une brêche dans le ciel et un titan endormi qui garde ce lieu. |
+| Velmir Keep                        | Ville de garnison royale (150 p.) située au sud-ouest de Mherkin, à trois jours de marche. |
