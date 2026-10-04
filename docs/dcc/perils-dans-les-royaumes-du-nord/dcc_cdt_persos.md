@@ -4,20 +4,6 @@
 
 | Joueur    | Personnage   | Métier (niveau 0)     | Origines                                                       | Classe          | Niveau | PX                       |
 |-----------|--------------|-----------------------|----------------------------------------------------------------|-----------------|--------|--------------------------|
-| Elena     | Icar         | Scribe                | Guidé vers la Brèche dans le Ciel par la Dame en Bleu          | ??               |      0 | 10                       |
-| Elena     | Lilylia      | Fermière              | Guidée vers la Brèche dans le Ciel par la Dame en Bleu         | ??               |      0 | 10                       |
-| Elena     | Raya         | Serrurière            | Guidée vers la Brèche dans le Ciel par la Dame en Bleu         | ??               |      0 | 10                       |
-| Augustin  | Belle        | Orpheline             | Guidée vers la Brèche dans le Ciel par la Dame en Bleu         | ??               |      0 | 10                       |
-| Augustin  | Siméon       | Garde de Caravane     | Guidé vers la Brèche dans le Ciel par la Dame en Bleu          | ??               |      0 | 10                       |
-| Augustin  | Gloin        | Nain Forgeron         | Guidé vers la Brèche dans le Ciel par la Dame en Bleu          | Nain            |      0 | 10                       |
-| Augustin  | Albert       | Fromager              | Guidé vers la Brèche dans le Ciel par la Dame en Bleu          | ??               |      0 | 10                       |
-| Sophie    | Amalia       | Halfeline Bohémienne  | Guidée vers la Brèche dans le Ciel par la Dame en Bleu         | Halfelin        |      0 | 10                       |
-| Sophie    | Wulf Gangus  | Ménestrel             | Guidé vers la Brèche dans le Ciel par la Dame en Bleu          | ??               |      0 | 10                       |
-| Félix     | Gurdil       | Nain Myciculteur      | Guidé vers la Brèche dans le Ciel par la Dame en Bleu          | Nain            |      0 | 10                       |
-| Félix     | Merry        | Hafelin Usurier       | Guidé vers la Brèche dans le Ciel par la Dame en Bleu          | Halfelin        |      0 | 10                       |
-| Sébastien | Thonger      | Coupeur de bourse     | Guidé vers la Brèche dans le Ciel par la Dame en Bleu          | ??               |      0 | 10                       |
-| Valentin  | Jar          | Astrologue            | Guidé vers la Brèche dans le Ciel par la Dame en Bleu          | ??               |      0 | 10                       |
-| Valentin  | Jarre        | Elfe Artisan          | Guidé vers la Brèche dans le Ciel par la Dame en Bleu          | Elfe            |      0 | 10                       |
 
 ## Héros en devenir
 
@@ -48,10 +34,22 @@ Erohye reçoit alors 4 PX, car (20 / (4 + 1)). -->
 <!-- L'enchanteur d'Emeraude / Session 18 = 12 PX -->
 <!-- L'enchanteur d'Emeraude / Session 19 = 15 PX -->
 
+<!-- La Brèche dans le Ciel / Session 2.1 + 2.2 = 10 PX -->
+<!-- Quelque chose dort dans la grange du Vieux Buck / Session 2.3 = 4 PX -->
+
 <!-- echo 4+10+4+4+6+8+10+12+4+6+6+9 | bc -->
 
-| Joueur    | Personnage   | Métier (niveau 0)     | Origines                                                       | Classe          | Niveau | PX                       |
-|-----------|--------------|-----------------------|----------------------------------------------------------------|-----------------|--------|--------------------------|
+| Joueur    | Personnage   | Métier (niveau 0)     | Origines                                                       | Classe           | Niveau | PX                       |
+|-----------|--------------|-----------------------|----------------------------------------------------------------|------------------|--------|--------------------------|
+| Elena     | Lilylia      | Fermière              | Guidée vers la Brèche dans le Ciel par la Dame en Bleu         | Guerrier         | 1      | 14 <!-- 10+4 --> |
+| Elena     | Raya         | Serrurière            | Guidée vers la Brèche dans le Ciel par la Dame en Bleu         | Voleur           | 1      | 14 <!-- 10+4 --> |
+| Sophie    | Amalia       | Halfeline Bohémienne  | Guidée vers la Brèche dans le Ciel par la Dame en Bleu         | Halfelin         | 1      | 14 <!-- 10+4 --> |
+| Sophie    | Wulf Gangus  | Ménestrel             | Guidé vers la Brèche dans le Ciel par la Dame en Bleu          | Mage             | 1      | 14 <!-- 10+4 --> |
+| Augustin  | Belle        | Orpheline             | Guidée vers la Brèche dans le Ciel par la Dame en Bleu         | Mage             | 1      | 14 <!-- 10+4 --> |
+| Augustin  | Gloin        | Nain Forgeron         | Guidé vers la Brèche dans le Ciel par la Dame en Bleu          | Nain             | 1      | 14 <!-- 10+4 --> |
+| Ludovic   | Albert       | Fromager              | Guidé vers la Brèche dans le Ciel par la Dame en Bleu          | Clerc (Justicia) | 1      | 14 <!-- 10+4 --> |
+| Félix     | Gurdil       | Nain Myciculteur      | Guidé vers la Brèche dans le Ciel par la Dame en Bleu          | Nain             | 1      | 12 <!-- 10+2 -->                      |
+| Félix     | Merry        | Hafelin Usurier       | Guidé vers la Brèche dans le Ciel par la Dame en Bleu          | Halfelin         | 1      | 12 <!-- 10+2 -->                      |
 | Sophie    | Britanice    | Fromagère             | Caerwynd                                                       | Clerc (Pélagia) | 2      | 108 <!-- 4+10+4+4+6+8+10+12+4+6+2+3+2+6+12+15  --> |
 | Sophie    | Yttruyakin   | Apprentie magiciennce | Strathford ; Libérée dans la Forteresse des Seigneurs du Chaos | Mage            | 3      | 114 <!-- 4+10+4+2+6+8+10+12+2+2+6+9+6+6+12+15  --> |
 | Félix     | Talion       | Coupeur de bourse     | Hirot                                                          | Voleur          | 2      | 87  <!-- 0+00+0+4+3+8+10+12+4+6+6+9+6+2+12+05  --> |
@@ -80,55 +78,60 @@ Erohye reçoit alors 4 PX, car (20 / (4 + 1)). -->
 
 | Joueur | Personnage | Métier (niveau 0) | Village d'origine | Classe | Niveau | PX |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| Chloé | Edna | Halfelin gantière | ??? |  | 0 | |
-| Chloé | Boris  (RIP) | Trappeur  | ??? |  | 0 | |
-| Augustin  | Sir Glubulum  (RIP) | Coupeur de bourse | ??? |  | 0 | |
-| Augustin  | Martin  (RIP) | Trappeur  | ??? |  | 0 | |
-| Sébastien | Sebor  (RIP) | Excavateur | ??? |  | 0 | |
-| Sébastien | Flamme (RIP) | Halfelin Marinier  | Mherkin |  | 0 | |
-| Sophie    | Crow  (RIP)  | Scribe  | ??? |  | 0 | |
-| Valentin  | Disco Pouet  (RIP) | Nain forgeron  | ??? |  | 0 | |
-| Eoghan    | Ciarrior (RIP)    | Nain Mineur           | Hirot                                                          | Nain            | 2      | 73  <!-- 0+00+0+4+6+4+05+06+2+3+3+3+2+6+12+15 (+2) --> |
-| Eoghan    | Toska        | Garde de Caravane     | Strathford                                                     | Guerrier        | 2      | 98  <!-- 0+00+0+4+6+8+10+12+2+6+6+9+2+6+12+15  --> |
-| Sacha | Sclavor (RIP) | Esclave | Strathford |  | 0 |  |
-| Sacha | Giken (RIP) | Garde de Caravane | Strathford ; Libéré dans la Forteresse des Seigneurs du Chaos |  | 0 |  |
-| Sacha     | Willy-Claude | Vidangeur de Latrines | Strathford                                                     | Guerrier        | 2      | 72 <!-- 0+10+2+4+3+4+10+12+4+6+2+9+6  --> |
-| Sacha     | Shul         | Serrurier             | Strathford                                                     | ??              | 1      | 44 <!-- 0+10+2+2+3+4+05+06+2+3+2+3+2  --> |
-| Sacha     | Dollex       | Collecteur d'Impots   | Strathford ; Libéré dans la Forteresse des Seigneurs du Chaos  | ??              | 1      | 44 <!-- 0+10+2+2+3+4+05+06+2+3+2+3+2  --> |
-| Sophie | Lucard (RIP) | Bedeau | Caerwynd ; En charge du temple dédié à Amun Tor au village de Stratford |  | 0 | | 
-| Sophie | Poinstiné (RIP) | Astrologue | Caerwynd |  | 0 | |  
-| Sophie | Ewan | Fermier | Caerwynd ; Libéré dans les Fosses d'Invocation |  | 0 | 14 |
-| Evan | Vixela |  Nain Apothicaire | Caerwynd |  | 0 | 14 |
-| Evan | Farnoc |  Nain Berger | Caerwynd ; Libéré dans les Fosses d'Invocation |  | 0 | 14 |
-| Evan      | Erohye       | Elfe Avocat           | Caerwynd                                                       | Elfe            | 2      | 95  <!-- 4+10+4+4+3+4+10+12+2+2+2+3+2+6+12+15  --> |
-| Evan      | Vala         | Trappeur              | Caerwynd                                                       | Voleur          | 2      | 106 <!-- 4+10+4+2+3+8+05+06+4+6+6+9+6+6+12+15  --> |
-| Joseph | Kadabra | Elfe Cirier | Strathford |  | 0 | 10 |
-| Joseph | Nehic | Nain Forgeron | Strathford |  | 0 | 10 |
-| Joseph | Thulan (RIP)      | Alchimiste            | Strathford                                                     | Mage            | 1      | 22 <!-- 0+10+4+2+6+0 --> |
-| Joseph | Tuhuruc (RIP)     | Halfelin Teinturier   | Strathford ; Libéré dans la Forteresse des Seigneurs du Chaos  | Halfelin        | 1      | 22 <!-- 0+10+4+2+6+0 --> |
-| Lucas | Atzul | Barbier | Strathford |  | 0 | 10 |
-| Lucas | Evadare | Elfe Sage | Strathford |  | 0 | 10 |
-| Lucas | Uccastrog (RIP) | Bûcheron | Strathford |  | 0 | |
-| Lucas | Evadare | Elfe Sage | Strathford |  | 0 | 10 |
-| Thomas | Jeanne Castor (RIP) | Bouchère du village | Pernland |  | 0 | |
-| Thomas | Notirimibus | Halfelin Usurier | Pernland |  | 0 | 10 |
-| Thomas | Debilius le Sage | Diseur de bonne aventure | Pernland |  | 0 | 10 |
-| Thomas |Masquina | Ménestrel | Pernland |  | 0 | 10 |
-| Lucas | Theodorom | Marchand | Pernland |  | 0 | 10 |
-| Lucas | Thraven | Chasseur | Pernland |  | 0 | 10 |
-| Lucas | Fethos | Docker | Pernland |  | 0 | 10 |
-| Lucas | Kevin (RIP) | Halfelin Bohémien | Pernland |  | 0 |  |
-| Evan | Lauri | Palfrenier | Pernland |  | 0 | 10 |
-| Evan | Gerard | Mercenaire | Pernland |  | 0 | 10 |
-| Evan | Sipril (RIP) | Bûcheron | Pernland |  | 0 |  |
-| Evan | Aragrada (RIP) | Elfe Sage | Pernland |  | 0 |  |
-| Xorth | Stanislas | Noble | Dundraville |  | 0 | 10 |
-| Xorth | Gaston (RIP) | Fermier | Dundraville |  | 0 | |
-| Laurène | Bilbo | Hobbit Teinturier  | Dundraville |  | 0 | 10 |
-| Laurène | Lefou | Bouffon | Dundraville |  | 0 | 10 |
-| Dimitri | Mathias Bones | Fossoyeur | Dundraville |  | 0 | 10 |
-| Dimitri | Paul | Bucheron | Dundraville |  | 0 | 10 |
-| Anaïs | Kal (RIP) | Escroc | Dundraville |  | 0 |  |
-| Anaïs | Lunara | Elfe Souffleuse de Verre | Dundraville |  | 0 | 10 |
-| Robin | Carthos Pathos | Nain Mineur | Dundraville |  | 0 | 10 |
-| Robin | Degolas | Elfe Forestier | Dundraville |  | 0 | 10 |
+| Elena | Icar | Scribe | ?? | ?? | 0 | 10 |
+| Augustin | Siméon | Garde de Caravane | ?? | ?? | 0 | 10 |
+| Sébastien | Thonger | Coupeur de bourse | ?? | ?? | 0 | 10 |
+| Valentin | Jar | Astrologue | ?? | ?? | 0 | 10 |
+| Valentin | Jarre | Elfe Artisan | ?? | Elfe | 0 | 10 |
+| Chloé | Edna | Halfelin gantière | ??? | | 0 | |
+| Chloé | Boris  (RIP) | Trappeur | ??? | | 0 | |
+| Augustin | Sir Glubulum  (RIP) | Coupeur de bourse | ??? | | 0 | |
+| Augustin | Martin  (RIP) | Trappeur | ??? | | 0 | |
+| Sébastien | Sebor  (RIP) | Excavateur | ??? | | 0 | |
+| Sébastien | Flamme (RIP) | Halfelin Marinier | Mherkin | | 0 | |
+| Sophie | Crow  (RIP) | Scribe | ??? | | 0 | |
+| Valentin | Disco Pouet  (RIP) | Nain forgeron | ??? | | 0 | |
+| Eoghan | Ciarrior (RIP) | Nain Mineur | Hirot | Nain | 2 | 73  <!-- 0+00+0+4+6+4+05+06+2+3+3+3+2+6+12+15 (+2) --> |
+| Eoghan | Toska | Garde de Caravane | Strathford | Guerrier | 2 | 98  <!-- 0+00+0+4+6+8+10+12+2+6+6+9+2+6+12+15  --> |
+| Sacha | Sclavor (RIP) | Esclave | Strathford | | 0 | |
+| Sacha | Giken (RIP) | Garde de Caravane | Strathford ; Libéré dans la Forteresse des Seigneurs du Chaos | | 0 | |
+| Sacha | Willy-Claude | Vidangeur de Latrines | Strathford | Guerrier | 2 | 72 <!-- 0+10+2+4+3+4+10+12+4+6+2+9+6  --> |
+| Sacha | Shul | Serrurier | Strathford | ?? | 1 | 44 <!-- 0+10+2+2+3+4+05+06+2+3+2+3+2  --> |
+| Sacha | Dollex | Collecteur d'Impots | Strathford ; Libéré dans la Forteresse des Seigneurs du Chaos | ?? | 1 | 44 <!-- 0+10+2+2+3+4+05+06+2+3+2+3+2  --> |
+| Sophie | Lucard (RIP) | Bedeau | Caerwynd ; En charge du temple dédié à Amun Tor au village de Stratford | | 0 | |
+| Sophie | Poinstiné (RIP) | Astrologue | Caerwynd | | 0 | |  
+| Sophie | Ewan | Fermier | Caerwynd ; Libéré dans les Fosses d'Invocation | | 0 | 14 |
+| Evan | Vixela | Nain Apothicaire | Caerwynd | | 0 | 14 |
+| Evan | Farnoc | Nain Berger | Caerwynd ; Libéré dans les Fosses d'Invocation | | 0 | 14 |
+| Evan | Erohye | Elfe Avocat | Caerwynd | Elfe | 2 | 95  <!-- 4+10+4+4+3+4+10+12+2+2+2+3+2+6+12+15  --> |
+| Evan | Vala | Trappeur | Caerwynd | Voleur | 2 | 106 <!-- 4+10+4+2+3+8+05+06+4+6+6+9+6+6+12+15  --> |
+| Joseph | Kadabra | Elfe Cirier | Strathford | | 0 | 10 |
+| Joseph | Nehic | Nain Forgeron | Strathford | | 0 | 10 |
+| Joseph | Thulan (RIP) | Alchimiste | Strathford | Mage | 1 | 22 <!-- 0+10+4+2+6+0 --> |
+| Joseph | Tuhuruc (RIP) | Halfelin Teinturier | Strathford ; Libéré dans la Forteresse des Seigneurs du Chaos | Halfelin | 1 | 22 <!-- 0+10+4+2+6+0 --> |
+| Lucas | Atzul | Barbier | Strathford | | 0 | 10 |
+| Lucas | Evadare | Elfe Sage | Strathford | | 0 | 10 |
+| Lucas | Uccastrog (RIP) | Bûcheron | Strathford | | 0 | |
+| Lucas | Evadare | Elfe Sage | Strathford | | 0 | 10 |
+| Thomas | Jeanne Castor (RIP) | Bouchère du village | Pernland | | 0 | |
+| Thomas | Notirimibus | Halfelin Usurier | Pernland | | 0 | 10 |
+| Thomas | Debilius le Sage | Diseur de bonne aventure | Pernland | | 0 | 10 |
+| Thomas | Masquina | Ménestrel | Pernland | | 0 | 10 |
+| Lucas | Theodorom | Marchand | Pernland | | 0 | 10 |
+| Lucas | Thraven | Chasseur | Pernland | | 0 | 10 |
+| Lucas | Fethos | Docker | Pernland | | 0 | 10 |
+| Lucas | Kevin (RIP) | Halfelin Bohémien | Pernland | | 0 | |
+| Evan | Lauri | Palfrenier | Pernland | | 0 | 10 |
+| Evan | Gerard | Mercenaire | Pernland | | 0 | 10 |
+| Evan | Sipril (RIP) | Bûcheron | Pernland | | 0 | |
+| Evan | Aragrada (RIP) | Elfe Sage | Pernland | | 0 | |
+| Xorth | Stanislas | Noble | Dundraville | | 0 | 10 |
+| Xorth | Gaston (RIP) | Fermier | Dundraville | | 0 | |
+| Laurène | Bilbo | Hobbit Teinturier | Dundraville | | 0 | 10 |
+| Laurène | Lefou | Bouffon | Dundraville | | 0 | 10 |
+| Dimitri | Mathias Bones | Fossoyeur | Dundraville | | 0 | 10 |
+| Dimitri | Paul | Bucheron | Dundraville | | 0 | 10 |
+| Anaïs | Kal (RIP) | Escroc | Dundraville | | 0 | |
+| Anaïs | Lunara | Elfe Souffleuse de Verre | Dundraville | | 0 | 10 |
+| Robin | Carthos Pathos | Nain Mineur | Dundraville | | 0 | 10 |
+| Robin | Degolas | Elfe Forestier | Dundraville | | 0 | 10 |
