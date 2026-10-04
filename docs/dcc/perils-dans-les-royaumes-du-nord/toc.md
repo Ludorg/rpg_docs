@@ -4,7 +4,7 @@ Ci-après, mes notes, résumés et documents pour les joueurs sur les sessions p
 
 ## Résumé des sessions
 
-- [Session 0.01 : Le Portail sous les &Eacute;toiles ](./dcc_cdt_2025_03_14) - Découverte de DCC
+- [Session 0.01 : Le Portail sous les &Eacute;toiles](./dcc_cdt_2025_03_14) - Découverte de DCC
 - [Session 0.02 : Les légendes ne naissent pas](./dcc_cdt_2025_03_31) - "One Shot" d'un soir
 - [Session 1.03 : Les Disparus de Caerwynd](./dcc_cdt_2025_04_18) - Navigateurs sur une mer sans étoiles
 - [Session 1.04 : A l'assaut de la Forteresse des Seigneurs du Chaos](./dcc_cdt_2025_05_02) - Navigateurs sur une mer sans étoiles
@@ -23,8 +23,9 @@ Ci-après, mes notes, résumés et documents pour les joueurs sur les sessions p
 - [Session 1.17 : Trouble Troublant à Timberdock](./dcc_cdt_2026_03_20) - L'Enchanteur d'Émeraude
 - [Session 1.18 : Assaut sur la Citadelle de l'Enchanteur d'Émeraude](./dcc_cdt_2026_04_03) - L'Enchanteur d'Émeraude
 - [Session 1.19 : Le combat final contre l'Enchanteur d'Émeraude](./dcc_cdt_2026_05_29) - L'Enchanteur d'Émeraude
-- [Session 2.01 : Un périlleux voyage vers une Brèche dans le Ciel](./dcc_cdt_2026_09_04) - La Brèche dans le Ciel
+- [Session 2.01 : Un périlleux voyage vers la Brèche dans le Ciel](./dcc_cdt_2026_09_04) - La Brèche dans le Ciel
 - [Session 2.02 : La Libération de Drezzta](./dcc_cdt_2026_09_18) - La Brèche dans le Ciel
+- [Session 2.03 : Les Animaux de la ferme du Vieux Buck](./dcc_cdt_2026_10_02) - Quelque chose dort dans la Grange du Vieux Buck
 
 ## Accessoires et documents utiles aux joueurs
 

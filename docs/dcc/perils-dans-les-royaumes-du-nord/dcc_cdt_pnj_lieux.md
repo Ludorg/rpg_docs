@@ -53,6 +53,8 @@
 | Nemid l'Ancien                  | Mherkin                                 | Erudit possédant quelques savoirs magiques. |
 | Vieux Buck                      | Mherkin                                 | Fermier de radis. |
 | Cwentale                        | Mherkin                                 | Fils du Vieux Buck. |
+| Traboc                          | Mherkin                                 | Personnage douteux qui traine dans l'Outre du Marin Maudit. |
+| Kalyx                           | Mherkin                                 | Tenancier de l'Outre du Marin Maudit.                       |
 
 ## Lieux notables
 
@@ -79,4 +81,5 @@
 | Citadelle de l'Enchanteur d'Emeraude | Située au nord de Timberdock, non loin des ruines de Yarlford.            |
 | Mherkin                            | Village (60 p.) où certains ont recontré la Dame en Bleu.                   |
 | La Prison de Drezzta               | Un pont invisble, une brêche dans le ciel et un titan endormi qui garde ce lieu. |
-| Velmir Keep                        | Ville de garnison royale (150 p.) située au sud-ouest de Mherkin, à trois jours de marche. |
+| L'Outre du Marin Maudit            | Taverne de Mherkin, tenue par Kalyx.                                        |
+| Velmir Keep                        | Ville de garnison royale (150 p.) située au sud-ouest de Mherkin, à deux jours de marche. |
