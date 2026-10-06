@@ -1843,8 +1843,8 @@ Sur les squellettes des soldats, nous ramassons quelques breloques et repartons 
 
 Pendant une semaine, nous nous reposons dans notre manoir.
 
-Durant cette période, Pultum étudie avidement les grimoires de Sezrekan.
-Il devient de plus en plus imprégné par la magie de ces tomes, et commence à ressentir une certaine affinité avec les sorts qu'il y apprend.
+Durant cette période, Pultum étudie avidement le grimoire de Sezrekan.
+Il devient de plus en plus imprégné par la magie de ce tome, et commence à ressentir une certaine affinité avec les sorts qu'il y apprend.
 Au bout d'un certain temps, il se lie même avec Sezrekan et se détache de plus en plus des activités quotidiennes de ses compagnons.
 
 Dans l'intervalle, il apprend les sorts suivants :
