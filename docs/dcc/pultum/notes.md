@@ -1611,7 +1611,7 @@ C'est un simple bâton de mage : il n'a plus de propriétés magiques, mais rest
 
 ## Love Mutants of Castle Heartache
 
-#### Discorde à la Grande Bourbe (et à Punjar) !
+#### Discorde à la Grande Bourbe (et à Punjar)
 
 Un matin, pendant le petit déjeuner, nous entendons deux souris se disputer le long du mur.
 La première semble chasser la seconde de leur logis.
@@ -1685,14 +1685,15 @@ Avec la détection de la magie, Pultum identifie le fragment comme provanant d'u
 En poursuivant notre exploration, nous arrivons dans une pièce avec une bibliothèque et des tentures.
 -->
 
-Nous rencontrons quatre créatures mutantes devant le château d'Olathvee. 
-Dylak, dans sa grande bonté, décide de les soigner malgré leur orientation chaotique, et il parvient même, grâce à une réussite critique, à guérir les deux siamois que Ranock avait séparés d'un coup d'épée bien placé. 
+Nous rencontrons quatre créatures mutantes devant le château d'Olathvee.
+Dylak, dans sa grande bonté, décide de les soigner malgré leur orientation chaotique, et il parvient même, grâce à une réussite critique, à guérir les deux siamois que Ranock avait séparés d'un coup d'épée bien placé.
 Ils ont perdu la mémoire, mais se souviennent que leur dieu a l'âme brisée à cause de son dernier crush, nommé Dirgadellia, une puissante sorcière.
 
-Ils nous accompagnent jusqu'au château, où nous découvrons une immense pièce dans laquelle on aperçoit Olathvee endormi dans une baignoire. 
+Ils nous accompagnent jusqu'au château, où nous découvrons une immense pièce dans laquelle on aperçoit Olathvee endormi dans une baignoire.
 Une de ses disciples, une mutante batracienne, lui verse de l'eau en lui chantant une berceuse.
 
 Nous descendons un escalier biscornu et explorons trois salles différentes :
+
 - 1re salle : trois fontaines à vœux remplies des larmes des fidèles d'Olathvee, dans lesquelles tombent des pièces. Dagozaille réussit à attraper l'une d'entre elles, sur laquelle est inscrit un vœu et le visage du fidèle qui a jeté la pièce.
 - 2e salle, plus bas : une salle de torture dans laquelle une créature difforme aux multiples tentacules est enfermée dans une cage. Dylak parvient, grâce à son sort d'injonction, à lui faire lâcher une sorte de pierre brisée qui change constamment de couleur. Pultum détecte qu'il s'agit d'un objet magique : un fragment d'âme divine.
 - 3e salle : une bibliothécaire mutante nous apprend que l'âme d'Olathvee a été brisée en deux morceaux, et que nous possédons déjà l'un d'eux. Elle nous donne les fragments d'un poème que le dieu avait déchiré ; nous parvenons à le remettre dans le bon ordre (__ça vaut au moins 50 PX !__) :
@@ -1722,9 +1723,9 @@ Nous remontons explorer la dernière pièce du rez-de-chaussée, dans laquelle D
 
 Nous arrivons dans une salle où trois chiens anthropomorphes sont installés à une table et semblent très agressifs. Une serveuse à tête de chat se tient derrière un bar. Derrière les chiens, une fumée semble dissimuler quelque chose, et grâce au sort de détection de Pultum, nous devinons qu'il s'agit d'un objet magique. Dagozaille distrait les chiens en leur lançant un bâton pendant que Dylak s'approche de l'objet : il s'agit d'un cube duquel sort une chanson d'amour (à la manière d'une enceinte Bluetooth), et dans lequel se trouve une fente comme une tirelire. Dagozaille y glisse la pièce ramassée dans la fontaine : la boîte s'ouvre et nous trouvons le deuxième fragment d'âme du dieu.
 
-Nous recollons les deux morceaux, qui s'emboîtent parfaitement. Les trois chiens et la serveuse retrouvent forme humaine, et dans la pièce principale, la fidèle qui chantait la berceuse ainsi que les autres disciples perdent également leurs mutations. **Nous échangeons l'âme du dieu contre l'apprentissage de l'une des sept chansons secrètes auprès de la disciple d'Olathvee : il s'agit d'une berceuse létale permettant de maintenir une créature endormie.** Seuls ceux qui ne pratiquent pas la magie peuvent l'apprendre. Dagozaille et Ranock y parviennent, puis nous remettons l'âme d'Olathvee à sa disciple, qui plonge le fragment dans le bain.
+Nous recollons les deux morceaux, qui s'emboîtent parfaitement. Les trois chiens et la serveuse retrouvent forme humaine, et dans la pièce principale, la fidèle qui chantait la berceuse ainsi que les autres disciples perdent également leurs mutations. __Nous échangeons l'âme du dieu contre l'apprentissage de l'une des sept chansons secrètes auprès de la disciple d'Olathvee : il s'agit d'une berceuse létale permettant de maintenir une créature endormie.__ Seuls ceux qui ne pratiquent pas la magie peuvent l'apprendre. Dagozaille et Ranock y parviennent, puis nous remettons l'âme d'Olathvee à sa disciple, qui plonge le fragment dans le bain.
 
-À la manière d'un bain moussant, l'eau devient multicolore et Olathvee sort de l'eau, nu comme un ver, devant nos yeux médusés. **Nous parvenons à l'inviter dans notre manoir en lui promettant un dîner romantique avec Dirgadellia pour lui donner une dernière chance de la séduire.** Nous lui rapportons son peignoir rouge en soie brodé d'or, et ses disciples nous raccompagnent dans notre monde.
+À la manière d'un bain moussant, l'eau devient multicolore et Olathvee sort de l'eau, nu comme un ver, devant nos yeux médusés. __Nous parvenons à l'inviter dans notre manoir en lui promettant un dîner romantique avec Dirgadellia pour lui donner une dernière chance de la séduire.__ Nous lui rapportons son peignoir rouge en soie brodé d'or, et ses disciples nous raccompagnent dans notre monde.
 
 ### Session 39 ; 2026/04/27 - Un Diner pour Olathvee
 
@@ -1762,7 +1763,7 @@ Dylak réussit à tomber du tapis volant, en voulant rattraper un goéland qui s
 
 Par chance, Vandascia s'envole juste à temps et arrive à rattraper in extremis Dylak.
 Au bout de deux heures de vol, nous arrivons à proximité d'une pyramide dans le désert de Xattoth.
-Elle est entourée de dunes. 
+Elle est entourée de dunes.
 
 Sur le côté de la pyramide, un trou.
 A coté, un chameau qui semble être mort de soif.
@@ -1812,7 +1813,6 @@ Chaque anneau coute 400 pièces d'or. Le premier est pour la promise d'Olathvee 
 Pultum en paie deux, un pour lui et un pour Dylak avec 8 disques de platine.
 Avec les lingots, un sceptre en ivoire ramassé dans la tombe, on rassemble de quoi en payer un pour Vandassia.
 
-
 Boss Oggo, nous informe que dans l'est d'Aereth, un Odontotyrannus a été enseveli il y a deux cents ans.
 Cette créature pourrait être une source d'ichor cérébral pour tremper l'anneau...
 
@@ -1839,4 +1839,40 @@ Ils se mettent aussitôt à luire.
 
 Sur les squellettes des soldats, nous ramassons quelques breloques et repartons vers Punjar pour remettre les anneaux à Boss Oggo.
 
-**A SUIVRE...**
+### Session 43 ; 2026/10/06 - Interlude au manoir des Liis - Pultum et le grimoire de Sezrekan - La carrière de tufeau de Jhurn-Hokaz
+
+Pendant une semaine, nous nous reposons dans notre manoir.
+
+Durant cette période, Pultum étudie avidement les grimoires de Sezrekan.
+Il devient de plus en plus imprégné par la magie de ces tomes, et commence à ressentir une certaine affinité avec les sorts qu'il y apprend.
+Au bout d'un certain temps, il se lie même avec Sezrekan et se détache de plus en plus des activités quotidiennes de ses compagnons.
+
+Dans l'intervalle, il apprend les sorts suivants :
+
+- Bastion : le mage protège une zone contre les intrusions (effet mercuriel : Coup de vent)
+- Vierge Guerrière : le mage invoque une vierge guerrière (effet mercuriel : Sueur de sang)
+- Phylactère de l'âme : le mage a appris à transférer son âme dans une amulette ou dans une gemme (pas d'effet mercuriel)
+
+Kuruz le Nain est le chef des maçons qui retapent notre manoir.
+Sur le chantier, il nous informe que les travaux n'avancent pas aussi vite.
+Ils attendent une livraison de tufeau pour continuer la construction, mais celui qui devait s'en occuper n'est pas revenu depuis deux jours.
+C'est à la carrière de tufeau de Jhurn-Hokaz.
+
+Nous décidons de nous y rendre pour enquêter. Kurruz nous accompagne.
+Arrivés sur place, un portail avec des runes en elfique ancien.
+
+Le village est désert, et semble avoir été abandonné.
+Pultum, grâce à son sort de détection de la magie, perçoit une aura magique provenant de l'auberge.
+Ca vient d'un burin magique au dessus de la cheminée. Kuruz prend l'objet, considéré comme un objet de valeur par les nains.
+
+A la sortie de l'auberge, une grande flaque. Ranok et Vandassia reconnaissent l'odeur de la bière.
+A l'entrée de l'étable, de la poudre noire répandue au sol. Kuruz nous explique que c'est la poudre (explosive) utilisée pour extraire le tufeau.
+
+Dans l'étable, des tonneaux. En ouvrant l'un d'eux, nous découvrons un nain qui baigne dans une substance blanchatre.
+C'est Dwalin, le nain envoyé par Kuruz.
+Il s'en délecte voracement. Dylak goute la substance et ne résiste pas non plus à l'envie d'en prendre lui aussi.
+
+Après quelques tentatives pour le faire sortir de l'étable, nous finissons par assomer Dylak et nous nous dirigeons vers la carrière de tufeau.
+
+<!-- markdownlint-disable MD026 -->
+## A suivre...
