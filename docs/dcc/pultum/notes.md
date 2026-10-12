@@ -1872,7 +1872,9 @@ Dans l'étable, des tonneaux. En ouvrant l'un d'eux, nous découvrons un nain qu
 C'est Dwalin, le nain envoyé par Kuruz.
 Il s'en délecte voracement. Dylak goute la substance et ne résiste pas non plus à l'envie d'en prendre lui aussi.
 
-Après quelques tentatives pour le faire sortir de l'étable, nous finissons par assomer Dylak et nous nous dirigeons vers la carrière de tufeau.
+Après quelques vaines tentatives pour assommer Dylak et le faire sortir de l'étable, c'est finalement lui qui, conscient malgré tout de son état de dépendance à l'égard de cette substance étrange, s'assomme de son plein gré pour nous faciliter la tâche.
+
+Nous nous dirigeons alors vers la carrière de tufeau.
 
 <!-- markdownlint-disable MD026 -->
 ## A suivre...
