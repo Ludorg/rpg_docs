@@ -1853,12 +1853,15 @@ Dans l'intervalle, il apprend les sorts suivants :
 - Vierge Guerrière : le mage invoque une vierge guerrière (effet mercuriel : Sueur de sang)
 - Phylactère de l'âme : le mage a appris à transférer son âme dans une amulette ou dans une gemme (pas d'effet mercuriel)
 
+<!-- markdownlint-disable MD026 -->
+## It Consumes!
+
 Kuruz le Nain est le chef des maçons qui retapent notre manoir.
 Sur le chantier, il nous informe que les travaux n'avancent pas aussi vite.
 Ils attendent une livraison de tufeau pour continuer la construction, mais celui qui devait s'en occuper n'est pas revenu depuis deux jours.
 C'est à la carrière de tufeau de Jhurn-Hokaz.
 
-Nous décidons de nous y rendre pour enquêter. Kurruz nous accompagne.
+Nous décidons de nous y rendre pour enquêter. Kuruz nous accompagne.
 Arrivés sur place, un portail avec des runes en elfique ancien.
 
 Le village est désert, et semble avoir été abandonné.
@@ -1875,6 +1878,40 @@ Il s'en délecte voracement. Dylak goute la substance et ne résiste pas non plu
 Après quelques vaines tentatives pour assommer Dylak et le faire sortir de l'étable, c'est finalement lui qui, conscient malgré tout de son état de dépendance à l'égard de cette substance étrange, s'assomme de son plein gré pour nous faciliter la tâche.
 
 Nous nous dirigeons alors vers la carrière de tufeau.
+
+### Session 44 ; 2026/10/12 - Le Stuff dans la carrière de tufeau de Jhurn-Hokaz
+
+Direction la carrière de tufeau de Jhurn-Hokaz. Kuruz remarque que la roche a été ouverte par une explosion. Il y a d'ailleurs un peu de poudre noire.
+
+Nous entrons dans une pièce où un nain, juché sur un tabouret, semble être en train de touiller une espèce de mixture blanche dans un chaudron.
+
+Après avoir réveillé Dylak, qui résiste à la tentation de la substance, nous nous approchons du nain.
+Dylak le soigne de son espèce de poison. Kuruz lui parle. Il s'appelle Ruther. Il est en train de préparer ce qu'il appelle du "Stuff".
+
+Quand Dylak a soigné le nain, il a vomi une espèce de substance blanchatre. Celle-ci se déplace vers le tonneau. Dylak la brule.
+
+Vandassia partie en reconnaissance en volant dans un boyau qui descend dans le sol, revient.
+Il y a un lac souterrain de cette substance blanchatre et un espèce de gourou qui semble diriger les opérations.
+
+Nous descendons dans le boyau. Vandassia porte Pultum sur son dos. Les autres descendent le long de la paroi.
+
+Certains des nains se précipitent dans le lac en criant. Vandassia s'envole et invoque une boule d'énergie invisible qu'elle projette sur le gourou. Il est touché et tombe dans le lac.
+
+Ranok attaque un des nains proche du lac.
+D'un coup, il découpe un nain dont le tronc est projeté dans le lac. Du liquide blanc gicle et manque.
+
+Kuruz jette une torche dans le lac qui prend feu. Tout prend feu.
+C'est la débandade et la retraite générale !
+
+Ranok et Kuruz prennent feu et brulent. Ils se roulent par terre pour éteindre les flammes.
+
+Nous ressortons du boyau.
+
+Dylak utilise un sort de neutralisation des poisons et des maladies sur Dwalin et en profite pour soigner ceux qui ont consommé de cette substance. Il soigne également Rannok de ses brulures.
+
+Finalement, le feu aura permis de neutraliser cette menace , mais des innoncents ont péri dans cette histoire...
+
+Avec la poudre noire, nous scellons l'entrée de la grotte et y jettons les derniers tonneaux, non sans avoir au préalable conservé deux fioles avec ce fameus "Stuff".
 
 <!-- markdownlint-disable MD026 -->
 ## A suivre...
