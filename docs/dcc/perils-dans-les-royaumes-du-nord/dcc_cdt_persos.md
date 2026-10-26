@@ -31,27 +31,31 @@ Erohye reçoit alors 4 PX, car (20 / (4 + 1)). -->
 
 <!-- La Brèche dans le Ciel / Session 2.1 + 2.2 = 10 PX -->
 <!-- Quelque chose dort dans la grange du Vieux Buck / Session 2.3 = 6 PX -->
+<!-- Quelque chose dort dans la grange du Vieux Buck / Session 2.4 = 10 PX -->
 
 <!-- echo 4+10+4+4+6+8+10+12+4+6+6+9 | bc -->
 
-| Joueur    | Personnage   | Métier (niveau 0)     | Origines                                                       | Classe           | Niveau | PX                       |
-|-----------|--------------|-----------------------|----------------------------------------------------------------|------------------|--------|--------------------------|
-| Elena     | Lilylia      | Fermière              | Guidée vers la Brèche dans le Ciel par la Dame en Bleu         | Guerrier         | 1      | 16 <!-- 10+6 --> |
-| Elena     | Raya         | Serrurière            | Guidée vers la Brèche dans le Ciel par la Dame en Bleu         | Voleur           | 1      | 16 <!-- 10+6 --> |
-| Sophie    | Amalia       | Halfeline Bohémienne  | Guidée vers la Brèche dans le Ciel par la Dame en Bleu         | Halfelin         | 1      | 16 <!-- 10+6 --> |
-| Sophie    | Wulf Gangus  | Ménestrel             | Guidé vers la Brèche dans le Ciel par la Dame en Bleu          | Mage             | 1      | 16 <!-- 10+6 --> |
-| Augustin  | Belle        | Orpheline             | Guidée vers la Brèche dans le Ciel par la Dame en Bleu         | Mage             | 1      | 16 <!-- 10+6 --> |
-| Augustin  | Gloin        | Nain Forgeron         | Guidé vers la Brèche dans le Ciel par la Dame en Bleu          | Nain             | 1      | 16 <!-- 10+6 --> |
-| Ludovic   | Albert       | Fromager              | Guidé vers la Brèche dans le Ciel par la Dame en Bleu          | Clerc (Justicia) | 1      | 16 <!-- 10+6 --> |
-| Félix     | Gurdil       | Nain Myciculteur      | Guidé vers la Brèche dans le Ciel par la Dame en Bleu          | Nain             | 1      | 13 <!-- 10+3 -->                      |
-| Félix     | Merry        | Hafelin Usurier       | Guidé vers la Brèche dans le Ciel par la Dame en Bleu          | Halfelin         | 1      | 13 <!-- 10+3 -->                      |
-| Sophie    | Britanice    | Fromagère             | Caerwynd                                                       | Clerc (Pélagia) | 2      | 108 <!-- 4+10+4+4+6+8+10+12+4+6+2+3+2+6+12+15  --> |
-| Sophie    | Yttruyakin   | Apprentie magiciennce | Strathford ; Libérée dans la Forteresse des Seigneurs du Chaos | Mage            | 3      | 114 <!-- 4+10+4+2+6+8+10+12+2+2+6+9+6+6+12+15  --> |
-| Félix     | Talion       | Coupeur de bourse     | Hirot                                                          | Voleur          | 2      | 87  <!-- 0+00+0+4+3+8+10+12+4+6+6+9+6+2+12+05  --> |
-| Félix     | Enoriel      | Elfe Forestier        | Hirot                                                          | Elfe            | 2      | 50  <!-- 0+00+0+4+3+8+05+06+2+3+3+3+2+2+04+05  --> |
-| Augustin  | Artus Stinc  | Coupeur de bourse     | Hirot                                                          | Voleur          | 2      | 84  <!-- 0+10+0+0+0+0+10+12+4+6+3+3+3+6+12+15  --> |
-| Augustin  | Horos        | Elfe Sage             | Hirot                                                          | Elfe            | 2      | 68  <!-- 0+10+0+0+0+0+05+06+2+3+3+3+3+6+12+15  --> |
-| Augustin  | Theldur      | Fermier               | Frosteye Mountains                                             | Clerc (Crom)    | 2      | 50  <!-- 0+21+0+0+0+0+00+00+0+0+3+9+6+2+04+05  --> |
+| Joueur    | Personnage    | Métier (niveau 0)     | Origines                                                       | Classe           | Niveau | PX                       |
+|-----------|---------------|-----------------------|----------------------------------------------------------------|------------------|--------|--------------------------|
+| Elena     | Lilylia       | Fermière              | Guidée vers la Brèche dans le Ciel par la Dame en Bleu         | Guerrier         | 1      | 26 <!-- 10+6+10 --> |
+| Elena     | Raya          | Serrurière            | Guidée vers la Brèche dans le Ciel par la Dame en Bleu         | Voleur           | 1      | 26 <!-- 10+6+10 --> |
+| Sophie    | Amalia        | Halfeline Bohémienne  | Guidée vers la Brèche dans le Ciel par la Dame en Bleu         | Halfelin         | 1      | 21 <!-- 10+6+05 --> |
+| Sophie    | Wulf Gangus   | Ménestrel             | Guidé vers la Brèche dans le Ciel par la Dame en Bleu          | Mage             | 1      | 21 <!-- 10+6+05 --> |
+| Augustin  | Belle         | Orpheline             | Guidée vers la Brèche dans le Ciel par la Dame en Bleu         | Mage             | 1      | 26 <!-- 10+6+10 --> |
+| Augustin  | Gloin         | Nain Forgeron         | Guidé vers la Brèche dans le Ciel par la Dame en Bleu          | Nain             | 1      | 26 <!-- 10+6+10 --> |
+| Juge      | Albert        | Fromager              | Guidé vers la Brèche dans le Ciel par la Dame en Bleu          | Clerc (Justicia) | 1      | 26 <!-- 10+6+10 --> |
+| Félix     | Gurdil        | Nain Myciculteur      | Guidé vers la Brèche dans le Ciel par la Dame en Bleu          | Nain             | 1      | 23 <!-- 10+3+10 --> |
+| Félix     | Merry         | Hafelin Usurier       | Guidé vers la Brèche dans le Ciel par la Dame en Bleu          | Halfelin         | 1      | 18 <!-- 10+3+05 --> |
+| Stéphanie | Khar-Schi-Mõn | Diseur de bonne aventure | Mherkin                                                     | ?                | 1      | 10 <!-- 00+0+10 --> |
+| Stéphanie | Waff          | Mendiant de Guilde    | Mherkin                                                        | ?                | 1      | 10 <!-- 00+0+10 --> |
+| Enzo      | Valor         | Elfe Avocat           | Mherkin                                                        | Elfe             | 1      | 10 <!-- 00+0+10 --> |
+| Sophie    | Britanice     | Fromagère             | Caerwynd                                                       | Clerc (Pélagia)  | 2      | 108 <!-- 4+10+4+4+6+8+10+12+4+6+2+3+2+6+12+15  --> |
+| Sophie    | Yttruyakin    | Apprentie magiciennce | Strathford ; Libérée dans la Forteresse des Seigneurs du Chaos | Mage             | 3      | 114 <!-- 4+10+4+2+6+8+10+12+2+2+6+9+6+6+12+15  --> |
+| Félix     | Talion        | Coupeur de bourse     | Hirot                                                          | Voleur           | 2      | 87  <!-- 0+00+0+4+3+8+10+12+4+6+6+9+6+2+12+05  --> |
+| Félix     | Enoriel       | Elfe Forestier        | Hirot                                                          | Elfe             | 2      | 50  <!-- 0+00+0+4+3+8+05+06+2+3+3+3+2+2+04+05  --> |
+| Augustin  | Artus Stinc   | Coupeur de bourse     | Hirot                                                          | Voleur           | 2      | 84  <!-- 0+10+0+0+0+0+10+12+4+6+3+3+3+6+12+15  --> |
+| Augustin  | Horos         | Elfe Sage             | Hirot                                                          | Elfe             | 2      | 68  <!-- 0+10+0+0+0+0+05+06+2+3+3+3+3+6+12+15  --> |
+| Augustin  | Theldur       | Fermier               | Frosteye Mountains                                             | Clerc (Crom)     | 2      | 50  <!-- 0+21+0+0+0+0+00+00+0+0+3+9+6+2+04+05  --> |
 
 ### Table des Points d'Expérience
 
@@ -73,6 +77,7 @@ Erohye reçoit alors 4 PX, car (20 / (4 + 1)). -->
 
 | Joueur | Personnage | Métier (niveau 0) | Village d'origine | Classe | Niveau | PX |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| Enzo | Thomas (disparu dans Elfland) | Soldat | Mherkin | ?? | 0 | 5 |
 | Elena | Icar | Scribe | ?? | ?? | 0 | 10 |
 | Augustin | Siméon | Garde de Caravane | ?? | ?? | 0 | 10 |
 | Sébastien | Thonger | Coupeur de bourse | ?? | ?? | 0 | 10 |
