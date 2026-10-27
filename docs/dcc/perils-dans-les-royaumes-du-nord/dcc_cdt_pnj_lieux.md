@@ -37,13 +37,13 @@
 | Les Lignées de Brume            | Bosquet des Trois Sœurs (sud de Hirot)  | Petite communauté d'elfes où s'est réfugié Velwyn Murmure-de-Pierres après avoir quitté Strathford. |
 | Esméryl                         | Forêt au sud de Hirot                   | Epimélide, une dryade gardienne d'un verger, devenue folle après avoir planté une graine maudite. |
 | Willy-Claude                    | Hirot                                   | Ancien membre des Libérateurs de Hirot, parti pour défendre la cause et la caste des Gongfarmers. |
-| L’abbé des bois                 | L'abbaye des Bois                       | Un grand prêtre qui mena ses disciples dans la nature pour y vivre à l’abri du vice. |
-| Sotar                           | Hirot                                   | Chef d’une troupe de pillards. Tué par les Libérateurs de Hirot.  |
+| L'abbé des bois                 | L'abbaye des Bois                       | Un grand prêtre qui mena ses disciples dans la nature pour y vivre à l'abri du vice. |
+| Sotar                           | Hirot                                   | Chef d'une troupe de pillards. Tué par les Libérateurs de Hirot.  |
 | Thane Veldrik de Lornhame       | Timberdock                              | Suzerain du Jarl Holgwig. |
 | Osric                           | Galaron puis Hirot                      | Envoyé par Gazred le Vieux. S'intéressait aux événements liés au Molosse. A disparu à Hirot. |
 | Gazred le Vieux                 | Galaron                                 | Maître‑Livre suppléant du Tome. |
 | Le Tome                         | Galaron et Royaume de Morrain           | Société de magiciens et d'arcanistes ; Collectionneurs de grimoires et mécènes de compagnies d'aventuriers. |
-| L’Enchanteur d’Émeraude         | Citadelle de l'Enchanteur d'Emeraude    | Probablement un réscapé de la confrérie de Yarlford qui a continué ses expériences. |
+| L'Enchanteur d'Émeraude         | Citadelle de l'Enchanteur d'Emeraude    | Probablement un réscapé de la confrérie de Yarlford qui a continué ses expériences. |
 | Thesdipèdes                     | Citadelle de l'Enchanteur d'Emeraude    | Cadavre blême qui fut  un transmutateur volubile. |
 | Istrobien                       | Citadelle de l'Enchanteur d'Emeraude    | Cerveau sous cloche réanimé qui était illusionniste dans sa vié précédente. |
 | Gobur                           | Citadelle de l'Enchanteur d'Emeraude    | Crâne en morcreaux d'un guerrier magicien et diaboliste. |
@@ -55,6 +55,7 @@
 | Cwentale                        | Mherkin                                 | Fils du Vieux Buck. |
 | Traboc                          | Mherkin                                 | Personnage douteux qui traine dans l'Outre du Marin Maudit. |
 | Kalyx                           | Mherkin                                 | Tenancier de l'Outre du Marin Maudit.                       |
+| Sergente Holtric                | Velmir Keep                             | Vétérane des guerres contre les géants dans le Royaume de Morrain. Aversion pour tout ce qui ressemble de près ou de loin à de la magie. |
 
 ## Lieux notables
 
@@ -70,7 +71,7 @@
 | La Tombe de l'Ulfheonar            | Sépulture d'un roi barbare ayant terrasé le Molosse il y a des éons.        |
 | L'Enseigne de la Lance Tue‑Loup    | Auberge de Hirot tenue par Broegan Haverson.                                |
 | Repaire des Trois Rats             | Bouge mal famé de Hirot, tenu par Maître Jenks.                             |
-| Kald                               | Monastère fortifié à l’est de Hirot. Abrite une cinquantaine de moines‑guerriers vivant en autarcie. |
+| Kald                               | Monastère fortifié à l'est de Hirot. Abrite une cinquantaine de moines‑guerriers vivant en autarcie. |
 | Tour de Draupnir                   | Tour du mage Draupnir, un portail menant au Siège d'Ivrian y est apparu.    |
 | Siège d'Ivrian                     | Complexe souterrain lié aux Bâtisseurs et à Ivrian de Dalcia.               |
 | Abbaye des Bois                    | Ruines indiquées sur une carte, où se trouverait un important trésor.       |
