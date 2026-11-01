@@ -1898,7 +1898,7 @@ Nous descendons dans le boyau. Vandassia porte Pultum sur son dos. Les autres de
 Certains des nains se précipitent dans le lac en criant. Vandassia s'envole et invoque une boule d'énergie invisible qu'elle projette sur le gourou. Il est touché et tombe dans le lac.
 
 Ranok attaque un des nains proche du lac.
-D'un coup, il découpe un nain dont le tronc est projeté dans le lac. Du liquide blanc gicle et manque.
+D'un coup, il découpe un nain dont le tronc est projeté dans le lac. Du liquide blanc gicle et manque de toucher Ranok.
 
 Kuruz jette une torche dans le lac qui prend feu. Tout prend feu.
 C'est la débandade et la retraite générale !
@@ -1909,9 +1909,49 @@ Nous ressortons du boyau.
 
 Dylak utilise un sort de neutralisation des poisons et des maladies sur Dwalin et en profite pour soigner ceux qui ont consommé de cette substance. Il soigne également Rannok de ses brulures.
 
-Finalement, le feu aura permis de neutraliser cette menace , mais des innoncents ont péri dans cette histoire...
+Finalement, le feu aura permis de neutraliser cette menace, mais des innoncents ont péri dans cette histoire...
 
-Avec la poudre noire, nous scellons l'entrée de la grotte et y jettons les derniers tonneaux, non sans avoir au préalable conservé deux fioles avec ce fameus "Stuff".
+Avec la poudre noire, nous scellons l'entrée de la grotte et y jettons les derniers tonneaux, non sans avoir au préalable conservé deux fioles avec ce fameux "Stuff".
+
+## Module TBD
+
+### Session 45 ; 2026/11/01 - Le chateau de Lotrin Blancbrin
+
+Pendant une semaine de repos, Pultum continue d'étudier les grimoires récupérés lors de ses aventures.
+Dans le grimoire de Winter le Warlock (un nécromant repenti), il apprend le sort de Convocation de Démons (jet de magie Mercurielle 85 "Bouclier psychique. Au round qui suit le lancement du sort, le mage obtient un bonus de +2 à sa CA et ses jets de sauvegarde de Volonté grâce à une barrière de protection d’énergie psychique qui l’enveloppe. Elle se dissipe au round suivant.).
+
+On doit se rendre à Bellerive pour sélectionner des musiciens à l'occasion du mariage d'Olathvee.
+
+Non loin de ce village, réside un des oncles de Vandassia, Lotrin Blancbrin, il y réside un peu reclus depuis les tristes évènements du mariage de sa fille Nala.
+C'est au cours de ce mariage que nous avions récupéré le fameux Brandolyn Rouge.
+
+Il vit dans un chateau en bord de mer. Nous y arrivons à cheval après une demi-journée sous la pluie et dans de mauvaises conditions.
+
+Le pont-levis est levé. En volant, Vandassia survole le chateau et va nous ouvrir le pont levis.
+De l'autre côté, une herse. Dans les tours de garde, des bruits. Ce sont des espèces de créatures aux pattes d'araignées mécaniques et le tronc est constitué d'une espèce d'argile, recouvert de vêtements d'épouvantail.
+Vandassia en affronte une sur les murailles et la détruit.
+
+Nous entrons dans le chateau. Avant la herse, une autre créature mécanique descend d'une des tours de la barbacane, mais elle est détruite par Ranok d'un seul coup.
+
+Vandassia nous ouvre la herse et nous nous dirigeons vers l'intérieur du chateau.
+
+Il y a un donjon sur le bord de la falaise. C'est une tour qui ressemble au buste d'une femme le bras tendu.
+Au niveau de ce qui serait sa poitrine, deux portes.
+
+Nous nous dirigeons vers la porte de gauche. C'est une sorte de salle réception avec des peintures murales représentant une femme aux cheveux rouges.
+D'après ce qu'a reconnu Ranok, ce tableau aurait été peint dans le domaine viticole de Vigne l'Arc.
+Dans le fond du tableau, il a reconnu une statue présente dans ce vignoble qui représente Ildavir, la déesse de la Nature.
+
+Il y a une tige argentée qui file vers le plafond. Elle suit les escaliers en colimaçon.
+Nous y montons et trouvons une trappe qui permet d'accéder à la paume de la main de la statue.
+
+Des chaines relient les doigts de la statue à une cage métallique.
+Dagozaille escalade un des doigts et arrive à distinguer le corps d'une femme inanimée dans la cage.
+Il ouvre la cage, Vandassia vient l'aider pour descendre le corps, mais un éclair frappe le sommet de la main et le cable métallique.
+Dagozaille tombe et prend l'éclair, mais Vandassia réussit à l'éviter et à écarte le corps inanimé de la femme de la foudre.
+
+Dylak utilise une imposition des mains pour la remettre sur pieds.
+Mais il s'attire les défaveurs de Choranus et doit se soumettre  à l’épreuve de l’humilité pour le reste de la journée.
 
 <!-- markdownlint-disable MD026 -->
 ## A suivre...
