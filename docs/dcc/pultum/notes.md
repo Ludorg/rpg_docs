@@ -1913,29 +1913,30 @@ Finalement, le feu aura permis de neutraliser cette menace, mais des innoncents 
 
 Avec la poudre noire, nous scellons l'entrée de la grotte et y jettons les derniers tonneaux, non sans avoir au préalable conservé deux fioles avec ce fameux "Stuff".
 
-## Module TBD
+## The Corpse That Love Built
 
 ### Session 45 ; 2026/11/01 - Le chateau de Lotrin Blancbrin
 
 Pendant une semaine de repos, Pultum continue d'étudier les grimoires récupérés lors de ses aventures.
-Dans le grimoire de Winter le Warlock (un nécromant repenti), il apprend le sort de Convocation de Démons (jet de magie Mercurielle 85 "Bouclier psychique. Au round qui suit le lancement du sort, le mage obtient un bonus de +2 à sa CA et ses jets de sauvegarde de Volonté grâce à une barrière de protection d’énergie psychique qui l’enveloppe. Elle se dissipe au round suivant.).
+Dans le grimoire de Winter le Warlock (un nécromant repenti), il apprend le sort de Convocation de Démons (jet de magie Mercurielle 85 "Bouclier psychique.
+Au round qui suit le lancement du sort, le mage obtient un bonus de +2 à sa CA et ses jets de sauvegarde de Volonté grâce à une barrière de protection d’énergie psychique qui l’enveloppe. Elle se dissipe au round suivant.).
 
 On doit se rendre à Bellerive pour sélectionner des musiciens à l'occasion du mariage d'Olathvee.
 
 Non loin de ce village, réside un des oncles de Vandassia, Lotrin Blancbrin, il y réside un peu reclus depuis les tristes évènements du mariage de sa fille Nala.
 C'est au cours de ce mariage que nous avions récupéré le fameux Brandolyn Rouge.
 
-Il vit dans un chateau en bord de mer. Nous y arrivons à cheval après une demi-journée sous la pluie et dans de mauvaises conditions.
+Il vit dans un chateau en bord de mer. Nous y arrivons à cheval après une demi-journée sous la pluie et dans de mauvaises conditions météorologiques.
 
 Le pont-levis est levé. En volant, Vandassia survole le chateau et va nous ouvrir le pont levis.
-De l'autre côté, une herse. Dans les tours de garde, des bruits. Ce sont des espèces de créatures aux pattes d'araignées mécaniques et le tronc est constitué d'une espèce d'argile, recouvert de vêtements d'épouvantail.
+De l'autre côté, une herse. Dans les tours de garde, des bruits. Ce sont des espèces de créatures aux pattes d'araignées mécaniques et dont le tronc est constitué d'une espèce d'argile, recouvert de vêtements d'épouvantail.
 Vandassia en affronte une sur les murailles et la détruit.
 
 Nous entrons dans le chateau. Avant la herse, une autre créature mécanique descend d'une des tours de la barbacane, mais elle est détruite par Ranok d'un seul coup.
 
 Vandassia nous ouvre la herse et nous nous dirigeons vers l'intérieur du chateau.
 
-Il y a un donjon sur le bord de la falaise. C'est une tour qui ressemble au buste d'une femme le bras tendu.
+Il y a un donjon sur le bord de la falaise. C'est une tour qui ressemble au buste d'une femme le bras levé à la verticale.
 Au niveau de ce qui serait sa poitrine, deux portes.
 
 Nous nous dirigeons vers la porte de gauche. C'est une sorte de salle réception avec des peintures murales représentant une femme aux cheveux rouges.
@@ -1948,10 +1949,56 @@ Nous y montons et trouvons une trappe qui permet d'accéder à la paume de la ma
 Des chaines relient les doigts de la statue à une cage métallique.
 Dagozaille escalade un des doigts et arrive à distinguer le corps d'une femme inanimée dans la cage.
 Il ouvre la cage, Vandassia vient l'aider pour descendre le corps, mais un éclair frappe le sommet de la main et le cable métallique.
-Dagozaille tombe et prend l'éclair, mais Vandassia réussit à l'éviter et à écarte le corps inanimé de la femme de la foudre.
+Dagozaille tombe et prend l'éclair, mais Vandassia réussit à l'éviter et à écarter le corps inanimé de la femme de la foudre.
 
 Dylak utilise une imposition des mains pour la remettre sur pieds.
 Mais il s'attire les défaveurs de Choranus et doit se soumettre  à l’épreuve de l’humilité pour le reste de la journée.
+
+### Session 46 ; 2026/11/04 - L'exploration du chateau de Lotrin Blancbrin
+
+La jeune fille se nomme Michaela et est originaire de Bellerive. Elle n'a aucun souvenir de ce qui lui est arrivé.
+Les villageois préfèrent éviter l'endroit, notamment à cause de l'excentricité de l'elfe qui y réside.
+
+Nous redescendons. Dans une des pièces adjacentes, un Terrarium.
+Il y a une tortue dans un des compartiments et du sable dans un autre.
+
+Sur la cheminée, une créature hybdride constituée d'un corps de scorpion et d'une tête de renard.
+Dans le sable, Dylak sonde avec le baton de Dagozaille : des vers de 8 cm avec des dents.
+
+Une bibliothèque avec des grimoires avec de nombreux symboles et chiffres.
+C'est principalement des livres d'alchimie, certaines pages sont cornées, celle de la tortue et celles sur les vers.
+
+Nous montons à l'étage. Une chambre avec un grand lit à baldaquin. Des vêtements de femme dont certains viennent de la boutique de Dagozaille à Portnell.
+Sur les oreillers, des initiales brodées LB (Lotrin Blancbrin)  et BD (Brandolyn Delavigne).
+Pour rappel, Brandolyn Delavigne est la défunte épouse de Lotrin Blancbrin.
+Elle avait été assassinée par son mari trompé qui l'avait enfermé dans le pressoir.
+
+Dans un placard, du Brandolyn Rouge. Nous ouvrons une bouteille et la dégustons en nous rappelant cette tragédie entre un elfe et une humaine.
+
+Nous descendons dans la cave. Un espèce d'établi avec d'autres livres d'alchimie. Une espèce de cervelle reliée avec un fil métallique et une pointe au bout.
+On récupère un livre de recettes d'alchimie.
+
+Une porte en métal avec trois bandes et différents symboles. Un curseur métallique permet de désigner un des symboles :
+
+- Eclair, Vague, Pierre, Feu (Eclair)
+- Mithirl, Or, Argent, Electrum (Mithirl)
+- Dragon, Vampire, Géant, Ptérodactyle (Géant)
+
+La porte s'ouvre et nous découvrons un corps constitué de différents morceaux d'autres corps cousus en un seul : une espèce de golem vivant...
+Derrière elle, un elfe : c'est Lotrin Blancbrin. Il vient de réanimer cette créature et est convaincu que c'est Brandolyn.
+Mais ce n'est pas le cas. Il s'agit d'une créature constituée de morceaux de corps humains et d'animaux, mais qui n'a pas l'âme de Brandolyn.
+
+Comme il s'agit de l'oncle de Vandassia, certains essaient de le raisonner et de lui faire comprendre que ce n'est pas Brandolyn et qu'il s'agit d'une enveloppe charnelle sans âme, mais il refuse de les écouter
+
+Nous remontons avec Lotrin Blancbrin pour discuter autour d'un verre de Brandolyn Rouge.
+
+Dylak se met à l'écart pour méditer et invoquer l'aide de Choranus pour savoir ce qu'il convient de faire.
+Très solennellement, sans hésiter, il se relève de sa méditation et invoque un éclair avec les pleins pouvoirs de Choranus qui terrasse cette créature impie.
+
+Lotrin attaque Dylak avec sa dague, on lui tombe tous dessus et on l'achève.
+
+Après que la fureur du combat soit passée, Dylak nous explique qu'au cours de sa méditation, il est entré en communion avec Choranus, son dieu, le Père des Visions, Seigneur de la Création.
+Sa quête divine était de détruire cette créature...
 
 <!-- markdownlint-disable MD026 -->
 ## A suivre...
