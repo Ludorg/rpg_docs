@@ -39,6 +39,7 @@ Les cartes ci-dessous sont celles de la région explorée par les joueurs, avec 
 - [La route de Strathford à Hirot](./assets/strathford_hirot-r.jpg)
 - [Les alentours des villages de Hirot et Strathford](./assets/Environs-de-Strathford-et-Hirot-r.jpg)
 - [Strathford, Hirot et Ferryton](./assets/strathford-hirot-ferryton-r.jpg)
+- [La baie de Valfors](./assets/valfors-bay-r.jpg)
 
 ### Personnages et lieux
 
