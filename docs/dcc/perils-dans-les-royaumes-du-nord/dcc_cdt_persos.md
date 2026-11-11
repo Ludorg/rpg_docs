@@ -32,23 +32,25 @@ Erohye reçoit alors 4 PX, car (20 / (4 + 1)). -->
 <!-- La Brèche dans le Ciel / Session 2.1 + 2.2 = 10 PX -->
 <!-- Quelque chose dort dans la grange du Vieux Buck / Session 2.3 = 6 PX -->
 <!-- Quelque chose dort dans la grange du Vieux Buck / Session 2.4 = 10 PX -->
+<!-- Le Manoir des Gnolls partie 1 / Session 2.5 = 18 PX -->
 
 <!-- echo 4+10+4+4+6+8+10+12+4+6+6+9 | bc -->
 
 | Joueur    | Personnage    | Métier (niveau 0)     | Origines                                                       | Classe           | Niveau | PX                       |
 |-----------|---------------|-----------------------|----------------------------------------------------------------|------------------|--------|--------------------------|
-| Elena     | Lilylia       | Fermière              | Guidée vers la Brèche dans le Ciel par la Dame en Bleu         | Guerrier         | 1      | 26 <!-- 10+6+10 --> |
-| Elena     | Raya          | Serrurière            | Guidée vers la Brèche dans le Ciel par la Dame en Bleu         | Voleur           | 1      | 26 <!-- 10+6+10 --> |
-| Sophie    | Amalia        | Halfeline Bohémienne  | Guidée vers la Brèche dans le Ciel par la Dame en Bleu         | Halfelin         | 1      | 21 <!-- 10+6+05 --> |
-| Sophie    | Wulf Gangus   | Ménestrel             | Guidé vers la Brèche dans le Ciel par la Dame en Bleu          | Mage             | 1      | 21 <!-- 10+6+05 --> |
-| Augustin  | Belle         | Orpheline             | Guidée vers la Brèche dans le Ciel par la Dame en Bleu         | Mage             | 1      | 26 <!-- 10+6+10 --> |
-| Augustin  | Gloin         | Nain Forgeron         | Guidé vers la Brèche dans le Ciel par la Dame en Bleu          | Nain             | 1      | 26 <!-- 10+6+10 --> |
-| Juge      | Albert        | Fromager              | Guidé vers la Brèche dans le Ciel par la Dame en Bleu          | Clerc (Justicia) | 1      | 26 <!-- 10+6+10 --> |
-| Félix     | Gurdil        | Nain Myciculteur      | Guidé vers la Brèche dans le Ciel par la Dame en Bleu          | Nain             | 1      | 23 <!-- 10+3+10 --> |
-| Félix     | Merry         | Hafelin Usurier       | Guidé vers la Brèche dans le Ciel par la Dame en Bleu          | Halfelin         | 1      | 18 <!-- 10+3+05 --> |
-| Stéphanie | Khar-Schi-Mõn | Diseur de bonne aventure | Mherkin                                                     | ?                | 1      | 10 <!-- 00+0+10 --> |
-| Stéphanie | Waff          | Mendiant de Guilde    | Mherkin                                                        | ?                | 1      | 10 <!-- 00+0+10 --> |
-| Enzo      | Valor         | Elfe Avocat           | Mherkin                                                        | Elfe             | 1      | 10 <!-- 00+0+10 --> |
+| Elena     | Lilylia       | Fermière              | Guidée vers la Brèche dans le Ciel par la Dame en Bleu         | Guerrier         | 1      | 44 <!-- 10+6+10+18 --> |
+| Elena     | Raya          | Serrurière            | Guidée vers la Brèche dans le Ciel par la Dame en Bleu         | Voleur           | 1      | 35 <!-- 10+6+10+09 --> |
+| Sophie    | Amalia        | Halfeline Bohémienne  | Guidée vers la Brèche dans le Ciel par la Dame en Bleu         | Halfelin         | 1      | 39 <!-- 10+6+05+18 --> |
+| Sophie    | Wulf Gangus   | Ménestrel             | Guidé vers la Brèche dans le Ciel par la Dame en Bleu          | Mage             | 1      | 30 <!-- 10+6+05+09 --> |
+| Augustin  | Belle         | Orpheline             | Guidée vers la Brèche dans le Ciel par la Dame en Bleu         | Mage             | 1      | 44 <!-- 10+6+10+18 --> |
+| Augustin  | Gloin         | Nain Forgeron         | Guidé vers la Brèche dans le Ciel par la Dame en Bleu          | Nain             | 1      | 44 <!-- 10+6+10+18 --> |
+| Juge      | Albert        | Fromager              | Guidé vers la Brèche dans le Ciel par la Dame en Bleu          | Clerc (Justicia) | 1      | 44 <!-- 10+6+10+18 --> |
+| Félix     | Gurdil        | Nain Myciculteur      | Guidé vers la Brèche dans le Ciel par la Dame en Bleu          | Nain             | 1      | 41 <!-- 10+3+10+18 --> |
+| Félix     | Merry         | Hafelin Usurier       | Guidé vers la Brèche dans le Ciel par la Dame en Bleu          | Halfelin         | 1      | 27 <!-- 10+3+05+09 --> |
+| Stéphanie | Khar-Schi-Mõn | Diseur de bonne aventure | Mherkin                                                     | ?                | 1      | 19 <!-- 00+0+10+09 --> |
+| Stéphanie | Waff          | Mendiant de Guilde    | Mherkin                                                        | Voleur           | 1      | 28 <!-- 00+0+10+18 --> |
+| Enzo      | Tomas         | Soldat                | Mherkin                                                        | Guerrier         | 1      | 28 <!-- 00+0+10+18 --> |
+| Matis     | Danube        | Nain pêcheur          | Mherkin                                                        | Nain         | 1      | 28 <!-- 00+0+10+18 --> |
 | Sophie    | Britanice     | Fromagère             | Caerwynd                                                       | Clerc (Pélagia)  | 2      | 108 <!-- 4+10+4+4+6+8+10+12+4+6+2+3+2+6+12+15  --> |
 | Sophie    | Yttruyakin    | Apprentie magiciennce | Strathford ; Libérée dans la Forteresse des Seigneurs du Chaos | Mage             | 3      | 114 <!-- 4+10+4+2+6+8+10+12+2+2+6+9+6+6+12+15  --> |
 | Félix     | Talion        | Coupeur de bourse     | Hirot                                                          | Voleur           | 2      | 87  <!-- 0+00+0+4+3+8+10+12+4+6+6+9+6+2+12+05  --> |
@@ -77,7 +79,7 @@ Erohye reçoit alors 4 PX, car (20 / (4 + 1)). -->
 
 | Joueur | Personnage | Métier (niveau 0) | Village d'origine | Classe | Niveau | PX |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| Enzo | Thomas (disparu dans Elfland) | Soldat | Mherkin | ?? | 0 | 5 |
+| Enzo | Valor (disparu dans Elfland) | Elfe Avocat | Mherkin | ?? | 0 | 5 |
 | Elena | Icar | Scribe | ?? | ?? | 0 | 10 |
 | Augustin | Siméon | Garde de Caravane | ?? | ?? | 0 | 10 |
 | Sébastien | Thonger | Coupeur de bourse | ?? | ?? | 0 | 10 |

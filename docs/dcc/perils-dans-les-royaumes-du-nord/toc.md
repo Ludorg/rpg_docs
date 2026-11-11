@@ -27,6 +27,7 @@ Ci-après, mes notes, résumés et documents pour les joueurs sur les sessions p
 - [Session 2.02 : La Libération de Drezzta](./dcc_cdt_2026_09_18) - La Brèche dans le Ciel
 - [Session 2.03 : Les Animaux de la ferme du Vieux Buck](./dcc_cdt_2026_10_02) - Quelque chose dort dans la Grange du Vieux Buck
 - [Session 2.04 : La Garnison Royale arrive à la ferme du Vieux Buck](./dcc_cdt_2026_10_16) - Quelque chose dort dans la Grange du Vieux Buck
+- [Session 2.05 : Le Manoir Delalerre](./dcc_cdt_2026_10_30) - Le Manoir des Gnolls - Première partie
 
 ## Accessoires et documents utiles aux joueurs
 
