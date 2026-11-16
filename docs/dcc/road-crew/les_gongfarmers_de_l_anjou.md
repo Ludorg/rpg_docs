@@ -26,6 +26,30 @@ Un aperçu rapide des sessions organisées par Les Gongfarmers de l'Anjou, class
 - Scénario : SSSSSSSSS
 - Joueurs : J -->
 
+### 2026/11/15 : Dungeon Crawk Kitchen #2 (DCK #2)
+
+[<img alt="visuel-2026/11/15" title ="2026/11/15" src="./img/2026-11-15_dcc-dck2-Picture2tt-r.jpg" class="center" width="20%">](./img/2026-11-15_dcc-dck2-Picture2tt-r.jpg)
+
+- Lieu : Dungeon Crawl Kitchen #2, Paris (La Générale)
+- Juge : Ludovic/Ludorg
+- Scénario : Grimtooth Museum of Death (Dungeon Crawl Classics #87.5)
+- Joueurs : 5
+
+### 2026/11/07 : Soirée Jeux Héroïc Fantasy au Musée Jean Lurçat
+
+[<img alt="visuel-2026/11/07" title ="2026/11/07" src="./img/2026-11-07_dcc-merp_aff-v0.1-1.jpg" class="center" width="20%">](./img/2026-11-07_dcc-merp_aff-v0.1-1.jpg)
+
+- Lieu : Musée Jean Lurçat, Angers (avec les Conjurés du Temporel)
+- 2 sessions :
+  - Session 1
+    - Juge : Augustin
+    - Scénario : ??
+    - Joueurs : 4 (TBC)
+  - Session 2
+    - Juge : Ludovic/Ludorg
+    - Scénario : Les Orques de la Griffe Verte (adaptation d'un scénario du module JRTM _Aux Portes du Mordor_)
+    - Joueurs : 5
+
 ### 2026/10/03+04 : Deux Jours en Jeux 2026
 
 [<img alt="visuel-2026/10/03+04" title ="2026/10/03+04" src="./img/2026-10-03-04_dcc-cdt-2jej-2026-aff-v1-1b-r.jpg" class="center" width="20%">](./img/2026-10-03-04_dcc-cdt-2jej-2026-aff-v1-1b-r.jpg)
@@ -61,7 +85,7 @@ Un aperçu rapide des sessions organisées par Les Gongfarmers de l'Anjou, class
 [<img alt="visuel-2026/05/16+17" title ="2026/05/16+17" src="./img/2026-05-16-17_dcc-dck1-dcc-0-r.jpg" class="center" width="20%">](./img/2026-05-16-17_dcc-dck1-dcc-0-r.jpg)
 [<img alt="visuel-2026/05/16+17" title ="2026/05/16+17" src="./img/2026-05-16-17_dcc-dck1-dlgdt-r.jpg" class="center" width="20%">](./img/2026-05-16-17_dcc-dck1-dlgdt-r.jpg)
 
-- Lieu : Dungeon Crawl Kitchen #1, Paris
+- Lieu : Dungeon Crawl Kitchen #1, Paris (La Générale)
 - 3 sessions :
   - Session 0 (improvisée)
     - Juge : Augustin
