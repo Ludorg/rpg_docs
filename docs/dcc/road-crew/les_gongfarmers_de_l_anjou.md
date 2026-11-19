@@ -43,8 +43,8 @@ Un aperçu rapide des sessions organisées par Les Gongfarmers de l'Anjou, class
 - 2 sessions :
   - Session 1
     - Juge : Augustin
-    - Scénario : ??
-    - Joueurs : 4 (TBC)
+    - Scénario : Le vieux pigeonnier, une aventure 100% hobbit
+    - Joueurs : 4
   - Session 2
     - Juge : Ludovic/Ludorg
     - Scénario : Les Orques de la Griffe Verte (adaptation d'un scénario du module JRTM _Aux Portes du Mordor_)
